@@ -1,0 +1,825 @@
+{
+  "app": {
+    "name": "GymMate",
+    "tagline": "Your personal gym assistant"
+  },
+  "nav": {
+    "home": "Home",
+    "schedule": "Plan",
+    "workout": "Train",
+    "exercises": "Exercises",
+    "nutrition": "Nutrition",
+    "more": "More"
+  },
+  "pages": {
+    "progress": "Progress",
+    "coach": "AI Coach",
+    "profile": "Profile & Settings",
+    "uikit": "UI Kit"
+  },
+  "onboarding": {
+    "s1t": "Start your journey right",
+    "s1d": "A training and meal plan built for you, even if it's your first time in the gym.",
+    "s2t": "Every exercise, explained",
+    "s2d": "Learn proper form with short videos and avoid injury.",
+    "s3t": "Track progress weekly",
+    "s3d": "Your lifts, meals, water, and every win.",
+    "start": "Let's go",
+    "next": "Next",
+    "skip": "Skip"
+  },
+  "home": {
+    "greeting": "Hey champ 👋",
+    "today": "Today's workout",
+    "start": "Start workout",
+    "calories": "Calories",
+    "protein": "Protein",
+    "water": "Water",
+    "streak": "Day streak",
+    "noPlan": "Let's build your plan",
+    "noPlanD": "5 quick questions, full plan",
+    "next": "Next workout",
+    "viewWeek": "View full week",
+    "addWater": "+ Glass of water (250 ml)"
+  },
+  "settings": {
+    "theme": "Appearance",
+    "dark": "Dark",
+    "light": "Light",
+    "system": "System",
+    "language": "Language",
+    "reset": "Show welcome again",
+    "sound": "Timer sounds",
+    "vibrate": "Vibration",
+    "warmup": "Auto warm-up & cool-down"
+  },
+  "common": {
+    "soon": "Coming soon",
+    "phase": "Phase {{n}}",
+    "close": "Close",
+    "confirm": "Confirm",
+    "cancel": "Cancel"
+  },
+  "pwa": {
+    "update": "A new version is available",
+    "reload": "Reload",
+    "offline": "Ready to work offline ✅"
+  },
+  "disclaimer": "GymMate is not a substitute for a doctor or certified coach.",
+  "muscles": {
+    "chest": "Chest",
+    "shoulders": "Shoulders",
+    "biceps": "Biceps",
+    "triceps": "Triceps",
+    "forearms": "Forearms",
+    "abs": "Abs",
+    "obliques": "Obliques",
+    "traps": "Traps",
+    "lats": "Lats",
+    "upperBack": "Upper back",
+    "lowerBack": "Lower back",
+    "glutes": "Glutes",
+    "quads": "Quads",
+    "hamstrings": "Hamstrings",
+    "adductors": "Adductors",
+    "calves": "Calves"
+  },
+  "equipment": {
+    "barbell": "Barbell",
+    "dumbbell": "Dumbbell",
+    "machine": "Machine",
+    "cable": "Cable",
+    "bodyweight": "Bodyweight"
+  },
+  "difficulty": {
+    "1": "Beginner",
+    "2": "Intermediate",
+    "3": "Advanced"
+  },
+  "mechanic": {
+    "compound": "Compound",
+    "isolation": "Isolation"
+  },
+  "body": {
+    "front": "Front",
+    "back": "Back",
+    "primary": "Primary",
+    "secondary": "Secondary"
+  },
+  "exercises": {
+    "search": "Search exercises...",
+    "all": "All",
+    "count": "{{count}} exercises",
+    "empty": "No exercises found",
+    "emptyHint": "Try a different filter or search",
+    "favorites": "Favorites",
+    "bodyMap": "Body map",
+    "tapMuscle": "Tap a muscle to see its exercises",
+    "sets": "Sets",
+    "reps": "Reps",
+    "rest": "Rest",
+    "sec": "s",
+    "how": "How to do it",
+    "mistakes": "Common mistakes",
+    "breathing": "Breathing",
+    "targets": "Target muscles",
+    "alternatives": "Alternatives"
+  },
+  "q": {
+    "t0": "About you",
+    "d0": "We need this to calculate your calories",
+    "t1": "What's your goal?",
+    "d1": "Your whole plan is built on this",
+    "t2": "Experience & time",
+    "d2": "So we pick the right volume",
+    "t3": "Days & equipment",
+    "d3": "Pick the days you can train",
+    "t4": "Health & diet",
+    "d4": "So we avoid exercises that hurt you",
+    "male": "Male",
+    "female": "Female",
+    "age": "Age",
+    "years": "yrs",
+    "height": "Height",
+    "weight": "Weight",
+    "session": "Session length",
+    "min": "min",
+    "whichDays": "Training days",
+    "daysHint": "2 to 6 days. 3 days is great to start.",
+    "equipment": "Where will you train?",
+    "injuries": "Any injury or pain?",
+    "diet": "Your diet",
+    "injuryWarn": "⚠️ Check with a doctor or physio first. We removed exercises that stress the injured area.",
+    "build": "Build my plan 🚀",
+    "errDays": "Pick 2 to 6 days",
+    "errInvalid": "Please check your inputs"
+  },
+  "goals": {
+    "cut": "Lose fat",
+    "cutD": "Drop fat, keep muscle",
+    "bulk": "Build muscle",
+    "bulkD": "Gain muscle and weight",
+    "fitness": "General fitness",
+    "fitnessD": "Health, energy, balanced body",
+    "strength": "Strength",
+    "strengthD": "Lift heavier"
+  },
+  "levels": {
+    "beginner": "Total beginner",
+    "beginnerD": "First time or under a month",
+    "novice": "Beginner",
+    "noviceD": "1 to 6 months",
+    "intermediate": "Intermediate",
+    "intermediateD": "6 to 12 months"
+  },
+  "access": {
+    "gym": "Full gym",
+    "gymD": "Machines, barbells, cables",
+    "dumbbells": "Dumbbells only",
+    "dumbbellsD": "Dumbbells and bodyweight",
+    "home": "Home",
+    "homeD": "No equipment (pull-up bar optional)"
+  },
+  "injuries": {
+    "none": "No injuries",
+    "knee": "Knee",
+    "back": "Back",
+    "shoulder": "Shoulder"
+  },
+  "diets": {
+    "normal": "Regular",
+    "vegetarian": "Vegetarian",
+    "lowBudget": "Low budget",
+    "lactoseFree": "Lactose-free"
+  },
+  "weekdays": {
+    "0": "Sunday",
+    "1": "Monday",
+    "2": "Tuesday",
+    "3": "Wednesday",
+    "4": "Thursday",
+    "5": "Friday",
+    "6": "Saturday"
+  },
+  "weekdaysShort": {
+    "0": "Sun",
+    "1": "Mon",
+    "2": "Tue",
+    "3": "Wed",
+    "4": "Thu",
+    "5": "Fri",
+    "6": "Sat"
+  },
+  "days": {
+    "fullBodyA": "FULL BODY A",
+    "fullBodyB": "FULL BODY B",
+    "upper": "UPPER",
+    "lower": "LOWER",
+    "push": "PUSH",
+    "pull": "PULL",
+    "legs": "LEGS"
+  },
+  "splits": {
+    "fullBody": "Full Body",
+    "upperLower": "Upper / Lower",
+    "pplUl": "Push / Pull / Legs + Upper / Lower",
+    "ppl": "Push / Pull / Legs ×2"
+  },
+  "macros": {
+    "protein": "Protein",
+    "carbs": "Carbs",
+    "fat": "Fat"
+  },
+  "ready": {
+    "title": "Your plan is ready!",
+    "subtitle": "Built just for you",
+    "calories": "Daily calories",
+    "water": "{{l}}L on training days",
+    "days": "days",
+    "yourDays": "Training days",
+    "ex": "exercises",
+    "cta": "See my plan"
+  },
+  "schedule": {
+    "rest": "rest {{s}}s",
+    "week": "Week {{n}}",
+    "today": "Today",
+    "cardio": "Light cardio {{m}} min",
+    "cardioD": "Brisk walk or bike at a conversational pace.",
+    "restDay": "Rest day",
+    "restD": "Muscles grow while you rest. Sleep 7 to 9 hours and drink your water.",
+    "noPlan": "No plan yet",
+    "create": "Build my plan",
+    "edit": "Edit my info",
+    "regenerate": "Rebuild plan"
+  },
+  "meals": {
+    "breakfast": "Breakfast",
+    "lunch": "Lunch",
+    "snack": "Snack",
+    "dinner": "Dinner",
+    "markEaten": "I ate this",
+    "eaten": "Done ✓",
+    "swap": "Swap",
+    "note": "Meals are built on your calories and diet ({{diet}}). Swap any meal you don't like.",
+    "iftar": "Iftar",
+    "lateSnack": "After taraweeh",
+    "suhoor": "Suhoor"
+  },
+  "nutri": {
+    "meals": "Meals",
+    "water": "Water",
+    "shopping": "Shopping",
+    "supps": "Supps"
+  },
+  "water": {
+    "done": "🎉 Water goal done for today!",
+    "left": "{{ml}} ml to go",
+    "log": "Today's log",
+    "undo": "Undo",
+    "tip": "💡 A glass when you wake up, one 30 min before training, and sips during your workout."
+  },
+  "shopping": {
+    "title": "7-day shopping list",
+    "progress": "{{done}} of {{total}} items",
+    "share": "Share",
+    "reset": "Clear checks",
+    "note": "Quantities are estimates based on your meals for the coming week."
+  },
+  "foodCat": {
+    "meat": "🥩 Meat & poultry",
+    "fish": "🐟 Fish",
+    "eggs": "🥚 Eggs",
+    "legumes": "🫘 Legumes",
+    "dairy": "🥛 Dairy",
+    "grains": "🌾 Grains",
+    "bread": "🍞 Bread",
+    "veg-starch": "🥔 Potatoes",
+    "veg": "🥗 Vegetables",
+    "fruit": "🍎 Fruit",
+    "fats": "🫒 Oils & fats",
+    "nuts": "🥜 Nuts",
+    "seeds": "🌱 Seeds",
+    "sweet": "🍯 Sweet",
+    "snack": "🍿 Snacks",
+    "supplement": "💊 Supplements",
+    "dish": "🍛 Dishes"
+  },
+  "supp": {
+    "intro": "Supplements are 100% optional",
+    "introD": "Food, sleep and training matter way more. Here's a simple guide if you want to use something.",
+    "dose": "Dose",
+    "warn": "⚠️ Ask your doctor before any supplement, especially with a chronic condition or medication.",
+    "whey": {
+      "name": "Whey protein",
+      "verdict": "Useful if you miss protein",
+      "desc": "Fast protein from milk. Just food, not magic. Helps you hit your protein goal.",
+      "dose": "1 scoop (25 to 30 g) when needed"
+    },
+    "creatine": {
+      "name": "Creatine monohydrate",
+      "verdict": "Most proven supplement",
+      "desc": "Slightly boosts strength and performance. Safe for healthy people and heavily studied.",
+      "dose": "3 to 5 g daily, any time, no loading"
+    },
+    "vitaminD": {
+      "name": "Vitamin D",
+      "verdict": "If deficient",
+      "desc": "Deficiency is common even in sunny regions. Get tested first.",
+      "dose": "Per blood test and doctor"
+    },
+    "omega3": {
+      "name": "Omega-3",
+      "verdict": "If you don't eat fish",
+      "desc": "Good for heart and joints. Fish twice a week covers it.",
+      "dose": "1 to 2 g EPA+DHA daily"
+    },
+    "caffeine": {
+      "name": "Caffeine (coffee)",
+      "verdict": "Optional",
+      "desc": "Pre-workout energy. One coffee is enough. Avoid late afternoon to protect sleep.",
+      "dose": "1 coffee 30 min before training"
+    },
+    "bcaa": {
+      "name": "BCAA",
+      "verdict": "Usually not needed",
+      "desc": "If your daily protein is enough, no extra benefit. Save your money.",
+      "dose": "Not recommended"
+    }
+  },
+  "live": {
+    "rest": "Rest",
+    "next": "Next",
+    "skipRest": "Skip rest",
+    "warmup": "Warm-up",
+    "cooldown": "Cool-down & stretch",
+    "nextStep": "Next",
+    "skipWarmup": "Skip warm-up",
+    "skipCooldown": "Skip cool-down & finish",
+    "resumeTitle": "You have a workout in progress 🔥",
+    "resume": "Resume workout",
+    "recent": "Recent workouts",
+    "list": "Workout exercises",
+    "target": "Target",
+    "suggested": "Suggested",
+    "howTo": "How to",
+    "swapTitle": "Swap exercise",
+    "swapHint": "Machine taken? Pick an alternative for the same muscle.",
+    "removeSet": "Remove set",
+    "addSet": "Add set",
+    "firstTime": "💡 First time? Start light enough to do every rep with good form. We'll suggest a weight next time.",
+    "weight": "Weight",
+    "reps": "Reps",
+    "repsSide": "Reps per side",
+    "seconds": "Seconds",
+    "feel": {
+      "easy": "Easy 😌",
+      "good": "Good 💪",
+      "hard": "Hard 🥵"
+    },
+    "swipe": "Swipe to finish set {{n}}",
+    "exerciseDone": "Exercise done",
+    "continue": "Continue to next exercise",
+    "toCooldown": "Go to cool-down",
+    "set": "set",
+    "endEarly": "End workout now",
+    "quitTitle": "Stop workout?",
+    "quitBody": "Logged sets will be saved as a finished workout. If nothing was logged, it gets deleted.",
+    "keepGoing": "Keep going",
+    "quit": "Stop",
+    "yourHistory": "Your history",
+    "best1rm": "Best estimated 1RM"
+  },
+  "summary": {
+    "title": "Great job, champ! 🏆",
+    "minutes": "minutes",
+    "volume": "kg total volume",
+    "sets": "sets",
+    "reps": "reps",
+    "streak": "{{n}} workout streak 🔥",
+    "streakD": "Keep going! Rest days don't break your streak.",
+    "prs": "New personal records",
+    "details": "Details",
+    "home": "Back home",
+    "tip": "💡 Eat a protein-rich meal within 2 hours and drink your water.",
+    "share": "Share"
+  },
+  "routine": {
+    "march": {
+      "name": "March in place",
+      "how": "Lift your knees and swing your arms, easy pace."
+    },
+    "jacks": {
+      "name": "Jumping jacks",
+      "how": "Open legs and arms with a light hop, or step out for low impact."
+    },
+    "armCircles": {
+      "name": "Arm circles",
+      "how": "Small then big circles, forward then back."
+    },
+    "hipCircles": {
+      "name": "Hip circles",
+      "how": "Hands on hips, slowly circle both directions."
+    },
+    "bwSquats": {
+      "name": "Easy squats",
+      "how": "Slow bodyweight squats through full range."
+    },
+    "inchworm": {
+      "name": "Inchworm",
+      "how": "Bend over, walk hands out to a plank, walk back."
+    },
+    "catCow": {
+      "name": "Cat-cow",
+      "how": "On hands and knees, round then arch your back with your breath."
+    },
+    "walk": {
+      "name": "Easy walk",
+      "how": "Walk slowly and let your heart rate come down."
+    },
+    "quadStretch": {
+      "name": "Quad stretch",
+      "how": "Pull your ankle toward your glute. 15 s per leg."
+    },
+    "hamStretch": {
+      "name": "Hamstring stretch",
+      "how": "Leg forward, hinge with a flat back."
+    },
+    "chestStretch": {
+      "name": "Chest stretch",
+      "how": "Hand on a wall, rotate your body away."
+    },
+    "childPose": {
+      "name": "Child's pose",
+      "how": "Sit on your heels, reach forward, relax your back."
+    },
+    "breathing": {
+      "name": "Deep breathing",
+      "how": "Inhale 4 s through the nose, exhale 6 s through the mouth."
+    }
+  },
+  "progress": {
+    "weight": "Weight",
+    "log": "Log",
+    "weightEmpty": "Log your weight at least twice to see the chart. Best time: morning, before eating.",
+    "sinceStart": "since start",
+    "perWeek": "kg/week",
+    "avg7": "7-day avg",
+    "avgHint": "Bold line = 7-day average. Daily weight swings with water and salt, don't stress it.",
+    "measurements": "Measurements",
+    "measureEmpty": "Log waist and neck to estimate body fat.",
+    "bodyFat": "Body fat",
+    "strength": "Strength (1RM)",
+    "strengthEmpty": "Finish a weighted workout to see this chart.",
+    "strengthHint": "Estimated 1RM: the max you could lift once",
+    "volume": "Weekly volume",
+    "workouts": "workouts",
+    "consistency": "Consistency",
+    "in12w": "{{n}} workouts in 12 weeks",
+    "totalVolume": "Total volume",
+    "hours": "Hours",
+    "photos": "Progress photos",
+    "photosEmpty": "Take a photo every 2 weeks, same spot and lighting.",
+    "addPhoto": "New photo",
+    "compare": "Compare",
+    "before": "Before",
+    "after": "After",
+    "deletePhoto": "Delete photo",
+    "photosPrivacy": "Photos stay on your phone unless you enable cloud upload in Account.",
+    "pose": {
+      "front": "Front",
+      "side": "Side",
+      "back": "Back"
+    },
+    "logTitle": "Log measurements",
+    "date": "Date",
+    "save": "Save",
+    "measureTip": "💡 Waist at the navel, neck just below the Adam's apple. All fields optional.",
+    "f": {
+      "weightKg": "Weight",
+      "waistCm": "Waist",
+      "chestCm": "Chest",
+      "armCm": "Arm",
+      "hipCm": "Hips",
+      "neckCm": "Neck"
+    },
+    "driftMsg": "You're now {{w}} kg. Update your calories and plan?",
+    "updatePlan": "Update"
+  },
+  "account": {
+    "title": "Account & sync",
+    "localTitle": "Local mode",
+    "localDesc": "Your data lives on this phone and works offline. Sync needs a Supabase project (see docs/PHASE-5.md).",
+    "signInTitle": "Back up your progress",
+    "signInDesc": "Sign in so you never lose data and sync across devices",
+    "sendCode": "Send me a code",
+    "or": "or",
+    "google": "Continue with Google",
+    "codeSent": "We sent a 6-digit code to {{email}}",
+    "verify": "Verify",
+    "changeEmail": "Change email",
+    "privacy": "Your data is private and only visible to you.",
+    "state": {
+      "idle": "Synced ✓",
+      "syncing": "Syncing...",
+      "offline": "Offline",
+      "error": "Sync error",
+      "local": "Local"
+    },
+    "lastSync": "Last sync",
+    "pending": "Pending changes",
+    "syncNow": "Sync now",
+    "cloudPhotos": "Upload progress photos",
+    "cloudPhotosD": "Private folder only you can access. Off by default.",
+    "signOut": "Sign out",
+    "deleteCloud": "Delete my cloud data",
+    "deleteWarn": "All your cloud data and photos will be permanently deleted. Data on this phone stays."
+  },
+  "rem": {
+    "title": "Reminders",
+    "perm": {
+      "granted": "Notifications on",
+      "default": "Notifications off",
+      "denied": "Blocked by the browser"
+    },
+    "enable": "Enable",
+    "server": "Works even when the app is closed ✓",
+    "signInHint": "Sign in to get them when the app is closed",
+    "localOnly": "Only while the app is open",
+    "workout": "Workout reminder",
+    "workoutHint": "Only on your training days.",
+    "water": "Water reminder",
+    "everyH": "Every {{h}}h",
+    "off": "Off",
+    "from": "From",
+    "to": "to",
+    "test": "Send test",
+    "testT": "GymMate 💪",
+    "testB": "Notifications work!",
+    "unsupported": "Your browser doesn't support notifications",
+    "iosNote": "📱 On iPhone: add the app to your Home Screen first (iOS 16.4+)."
+  },
+  "coach": {
+    "offline": "Offline",
+    "clear": "Clear chat",
+    "hello": "Hi! I'm your coach 💪",
+    "intro": "Ask me about your workout, food, how to do any exercise, or if you're tired today.",
+    "placeholder": "Type your question...",
+    "send": "Send",
+    "disclaimer": "General advice only, not a substitute for a doctor.",
+    "myReadiness": "My readiness today is {{s}}/100, what do you suggest?",
+    "cta": "Ask the AI coach",
+    "ctaD": "Food, training, fatigue, anything",
+    "q": {
+      "protein": "How much protein do I need?",
+      "today": "What's my workout today?",
+      "tired": "I'm tired today",
+      "squat": "How do I do a barbell squat?",
+      "plateau": "My weight is stuck",
+      "supps": "Do I need supplements?",
+      "ramadan": "How to train in Ramadan?",
+      "sore": "My muscles are sore"
+    }
+  },
+  "ready2": {
+    "title": "How are you today?",
+    "sleep": "Hours slept",
+    "hours": "h",
+    "energy": "Energy",
+    "soreness": "Muscle soreness",
+    "go": "Let's go",
+    "level": {
+      "high": "Fully ready 🚀",
+      "normal": "Ready 💪",
+      "low": "A bit tired",
+      "veryLow": "Exhausted"
+    },
+    "advice": {
+      "high": "Full session, try to beat your numbers.",
+      "normal": "Normal session as planned.",
+      "low": "One less set and 5% lighter.",
+      "veryLow": "One less set and 15% lighter, or just take a walk."
+    }
+  },
+  "prog": {
+    "deloadTitle": "Deload week (week {{w}})",
+    "deloadDesc": "Your body needs to recover to get stronger. One less set and 10% lighter this week.",
+    "lightTitle": "Lighter session today (readiness {{s}})",
+    "lightDesc": "We trimmed sets and weights based on your sleep and energy.",
+    "homeMode": "Home mode today",
+    "homeModeD": "Same muscles, no equipment"
+  },
+  "game": {
+    "page": "Achievements",
+    "badgesCount": "{{n}}/{{total}} badges",
+    "total": "Total: {{xp}} XP",
+    "howTo": "Train, eat your meals and drink water to earn XP.",
+    "badges": "Badges",
+    "newBadge": "🎉 New badge unlocked!",
+    "rules": "Workout +{{workout}} • Set +{{set}} • PR +{{pr}} • Meal +{{meal}} • Water goal +{{waterGoal}} • Measurement +{{metric}} • Photo +{{photo}} • Challenge +{{challenge}}",
+    "parts": {
+      "workouts": "Workouts",
+      "sets": "Sets",
+      "prs": "PRs",
+      "meals": "Meals",
+      "water": "Water goal days",
+      "metrics": "Measurements",
+      "photos": "Photos",
+      "challenges": "Challenges"
+    },
+    "title": {
+      "rookie": "Rookie",
+      "starter": "Starter",
+      "committed": "Committed",
+      "athlete": "Athlete",
+      "beast": "Beast",
+      "legend": "Legend"
+    },
+    "badge": {
+      "firstWorkout": "First workout",
+      "workouts10": "10 workouts",
+      "workouts50": "50 workouts",
+      "workouts100": "100 workouts",
+      "streak3": "3 streak",
+      "streak7": "7 streak",
+      "streak30": "30 streak",
+      "firstPR": "First PR",
+      "prs10": "10 PRs",
+      "volume10t": "10 tons",
+      "volume100t": "100 tons",
+      "water7": "7 water days",
+      "water30": "30 water days",
+      "earlyBird": "Early bird",
+      "nightOwl": "Night owl",
+      "firstPhoto": "First photo",
+      "tracker": "10 measurements",
+      "challenger": "Challenger"
+    }
+  },
+  "ch": {
+    "title": "30-day challenges",
+    "intro": "Pick a challenge and stay consistent for 30 days. Completing one gives 300 XP and a badge.",
+    "join": "Start challenge",
+    "quit": "Quit",
+    "day": "Day",
+    "days": "days",
+    "completed": "Challenge complete!",
+    "missedNote": "Missed {{n}} day(s). No worries, keep going!",
+    "unit": {
+      "sec": "Plank {{n}} s",
+      "reps": "{{n}} push-ups",
+      "steps": "{{n}} steps"
+    },
+    "auto": {
+      "water": "Logged automatically when you hit your water goal",
+      "workouts": "Logged automatically when you finish today's workout"
+    },
+    "consistency30": {
+      "name": "Consistency challenge",
+      "desc": "Don't miss a scheduled workout for 30 days"
+    },
+    "water30": {
+      "name": "Water challenge",
+      "desc": "Hit your water goal every day"
+    },
+    "plank30": {
+      "name": "Plank challenge",
+      "desc": "From 20 seconds to over 2 minutes"
+    },
+    "pushups30": {
+      "name": "Push-up challenge",
+      "desc": "From 5 to 34 push-ups a day"
+    },
+    "steps30": {
+      "name": "8000 steps",
+      "desc": "Walk 8000 steps every day"
+    }
+  },
+  "ramadan": {
+    "mode": "Ramadan mode",
+    "modeD": "3 meals: iftar, after taraweeh, suhoor",
+    "on": "Ramadan mode on 🌙",
+    "soon": "Ramadan is near 🌙",
+    "tip": "Train after taraweeh, break your fast with dates and water, spread water between iftar and suhoor.",
+    "enable": "Enable",
+    "off": "Turn off"
+  },
+  "legal": {
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Use",
+    "agree": "By continuing you agree to the"
+  },
+  "data": {
+    "title": "My data",
+    "intro": "Your data is yours. Export it as a file, restore it on another device, or erase it all.",
+    "export": "Export my data",
+    "import": "Import a backup",
+    "exported": "File downloaded ✓",
+    "badFile": "This is not a GymMate backup file",
+    "importWarn": "This will replace your current data with {{n}} records from the file. Continue?",
+    "wipe": "Erase all data on this device",
+    "wipeWarn": "Your profile, plan, logs and photos on this device will be permanently erased. Export a backup first if you want to keep them.",
+    "wipeConfirm": "Erase permanently"
+  },
+  "resched": {
+    "movedT": "Missed {{day}} on {{from}}? No worries, moved it to {{to}} 💪",
+    "movedD": "We kept the same order for the rest of the week and never more than 2 days in a row.",
+    "dropped": "Week rearranged. {{n}} session(s) will not fit, and that is fine. Consistency beats perfection.",
+    "today": "today",
+    "undo": "Restore original schedule",
+    "moved": "Moved session",
+    "movedFromDay": "moved from {{d}}",
+    "toggle": "Smart rescheduling",
+    "toggleD": "If you miss a day, we move the session automatically",
+    "comebackT": "Welcome back! It has been {{d}} days 👋",
+    "comebackD": "Your first two sessions are 10% lighter with one less set so you ease back in safely."
+  },
+  "photo": {
+    "cta": "Snap your meal",
+    "eyebrow": "Photo log",
+    "title": "What did you eat?",
+    "snap": "Camera",
+    "gallery": "Gallery",
+    "analyzing": "Analyzing your plate...",
+    "estimate": "estimate",
+    "remove": "Remove",
+    "search": "Search: kabsa, harees, shawarma...",
+    "save": "Log {{kcal}} kcal • {{p}}g protein",
+    "logged": "Off-plan food",
+    "privacy": "Photos are analyzed and never stored",
+    "portion": {
+      "quarter": "¼",
+      "half": "½",
+      "threeQ": "¾",
+      "one": "",
+      "oneHalf": "1½ ×",
+      "two": "2 ×"
+    },
+    "err": {
+      "offline": "You are offline. Pick your dish from search below 👇",
+      "signin": "Sign in from Account to use photo analysis, or pick from search below.",
+      "limit": "Daily photo limit reached. Pick from search below; it resets tomorrow.",
+      "notFood": "We could not see food in that photo 🤔 Try a clearer top-down shot.",
+      "failed": "We could not recognize that dish. Pick from search below.",
+      "not_configured": "Photo analysis is not enabled. Pick from search below."
+    }
+  },
+  "form": {
+    "cta": "Check your form with the camera",
+    "ctaD": "Counts reps and flags form issues. Runs on your device",
+    "eyebrow": "Form check",
+    "title": "Form check",
+    "start": "Start",
+    "finish": "Finish",
+    "again": "Again",
+    "done": "Done",
+    "flip": "Switch camera",
+    "front": "Front",
+    "back": "Back",
+    "voice": "Voice cues",
+    "reps": "reps",
+    "go": "Go when you are ready",
+    "summary": "Set summary",
+    "score": "score",
+    "repsDone": "{{n}} reps",
+    "perfect": "Clean reps 👌 keep it up",
+    "denied": "Please allow camera access in your browser settings.",
+    "error": "Could not start form check on this device. Update the app and try again.",
+    "privacy": "Analysis runs on your device. No video ever leaves it",
+    "mv": {
+      "squat": "Squat",
+      "pushup": "Push-up",
+      "hinge": "Deadlift / RDL"
+    },
+    "tips": {
+      "squat": {
+        "t1": "Place the phone on the floor or a shelf, side view, 2 to 3 m away",
+        "t2": "Your whole body must be visible, head to ankles",
+        "t3": "To check knees, film from the front"
+      },
+      "pushup": {
+        "t1": "Place the phone on the floor, side view",
+        "t2": "Keep shoulders, hips and ankles in frame",
+        "t3": "Good lighting helps a lot"
+      },
+      "hinge": {
+        "t1": "Film from the side at hip height",
+        "t2": "Start standing, then hinge down",
+        "t3": "Use a light weight the first time"
+      }
+    },
+    "cue": {
+      "depth": "Go deeper, hips to knee level",
+      "chestUp": "Chest up, keep your back straight",
+      "kneesOut": "Push your knees out over your toes",
+      "hipsSag": "Brace your core, hips are sagging",
+      "hipsPike": "Lower your hips, one straight line",
+      "lockout": "Finish the rep, squeeze your glutes",
+      "slow": "Slow down, control the descent",
+      "pushupDepth": "Lower, chest close to the floor",
+      "kneesSoft": "Less knee bend, hinge from the hips",
+      "goodRep": "Great! Clean rep",
+      "visible": "Step back so your whole body is in frame"
+    }
+  }
+}
