@@ -1,0 +1,43 @@
+{
+  "packageId": "app.gymmate.twa",
+  "host": "gymmate.app",
+  "name": "GymMate: مساعدك في الجيم",
+  "launcherName": "GymMate",
+  "display": "standalone",
+  "orientation": "portrait",
+  "themeColor": "#0E0D0B",
+  "navigationColor": "#0E0D0B",
+  "navigationColorDark": "#0E0D0B",
+  "backgroundColor": "#0E0D0B",
+  "enableNotifications": true,
+  "startUrl": "/",
+  "iconUrl": "https://gymmate.app/icons/icon-512.png",
+  "maskableIconUrl": "https://gymmate.app/icons/maskable-512.png",
+  "splashScreenFadeOutDuration": 300,
+  "signingKey": {
+    "path": "./android.keystore",
+    "alias": "gymmate"
+  },
+  "appVersionName": "2.1.0",
+  "appVersionCode": 2,
+  "shortcuts": [
+    {
+      "name": "ابدأ تمرين اليوم",
+      "shortName": "تمرين",
+      "url": "/workout",
+      "chosenIconUrl": "https://gymmate.app/icons/icon-192.png"
+    },
+    {
+      "name": "التغذية",
+      "shortName": "أكلي",
+      "url": "/nutrition",
+      "chosenIconUrl": "https://gymmate.app/icons/icon-192.png"
+    }
+  ],
+  "generatorApp": "bubblewrap-cli",
+  "webManifestUrl": "https://gymmate.app/manifest.webmanifest",
+  "fallbackType": "customtabs",
+  "features": {},
+  "minSdkVersion": 21,
+  "fingerprints": []
+}
