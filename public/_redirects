@@ -1,0 +1,9 @@
+# Cloudflare Pages redirects
+# ملاحظة: ما نحتاج قاعدة /* /index.html 200 لأن Pages يشغل وضع SPA تلقائياً
+# (ما في 404.html بالجذر)، فأي مسار مثل /schedule يرجع index.html و /landing/ يشتغل كملف ثابت.
+
+/home        /landing/          301
+/about       /landing/          301
+/en          /landing/en.html   301
+/landing     /landing/          301
+/download    /landing/          302
