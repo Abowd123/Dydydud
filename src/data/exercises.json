@@ -1,0 +1,6061 @@
+[
+ {
+  "id": "barbell-bench-press",
+  "name": {
+   "ar": "بنش بريس بالبار",
+   "en": "Barbell Bench Press"
+  },
+  "primaryMuscles": [
+   "chest"
+  ],
+  "secondaryMuscles": [
+   "triceps",
+   "shoulders"
+  ],
+  "equipment": "barbell",
+  "difficulty": 2,
+  "mechanic": "compound",
+  "defaults": {
+   "sets": 4,
+   "reps": "6-10",
+   "restSec": 120
+  },
+  "steps": [
+   "استلقِ على البنش وعينك تحت البار مباشرة، وقدميك ثابتة على الأرض.",
+   "امسك البار بقبضة أعرض من كتفيك بقليل وشد لوحي الكتف للخلف وللأسفل.",
+   "نزّل البار ببطء لين يلمس منتصف صدرك والكوعين بزاوية 45 درجة تقريباً.",
+   "ادفع البار للأعلى بقوة لين تمد ذراعيك بدون ما تقفل الكوع بعنف."
+  ],
+  "mistakes": [
+   "فتح الكوعين 90 درجة، يضغط على الكتف.",
+   "رفع المؤخرة عن البنش.",
+   "ترتيد البار على الصدر."
+  ],
+  "breathing": "شهيق وأنت تنزل الوزن، زفير وأنت تدفع أو تسحب.",
+  "alternatives": [
+   "dumbbell-bench-press",
+   "chest-press-machine",
+   "push-up"
+  ],
+  "media": {
+   "video": "/media/exercises/barbell-bench-press/video.webm",
+   "videoMp4": "/media/exercises/barbell-bench-press/video.mp4",
+   "poster": "/media/exercises/barbell-bench-press/poster.webp",
+   "thumb": "/media/exercises/barbell-bench-press/thumb.webp"
+  }
+ },
+ {
+  "id": "incline-dumbbell-press",
+  "name": {
+   "ar": "ضغط دمبل مائل",
+   "en": "Incline Dumbbell Press"
+  },
+  "primaryMuscles": [
+   "chest"
+  ],
+  "secondaryMuscles": [
+   "shoulders",
+   "triceps"
+  ],
+  "equipment": "dumbbell",
+  "difficulty": 2,
+  "mechanic": "compound",
+  "defaults": {
+   "sets": 3,
+   "reps": "8-12",
+   "restSec": 90
+  },
+  "steps": [
+   "اضبط البنش على زاوية 30 درجة.",
+   "اجلس والدمبلز على فخذيك ثم ارجع للخلف وارفعها لمستوى الصدر.",
+   "ادفع الدمبلز للأعلى لين تقترب من بعض فوق صدرك العلوي.",
+   "نزّلها ببطء لين تحس بتمدد في الصدر."
+  ],
+  "mistakes": [
+   "زاوية البنش عالية جداً فيشتغل الكتف أكثر من الصدر.",
+   "تنزيل الدمبل بسرعة."
+  ],
+  "breathing": "شهيق وأنت تنزل الوزن، زفير وأنت تدفع أو تسحب.",
+  "alternatives": [
+   "dumbbell-bench-press",
+   "chest-press-machine"
+  ],
+  "media": {
+   "video": "/media/exercises/incline-dumbbell-press/video.webm",
+   "videoMp4": "/media/exercises/incline-dumbbell-press/video.mp4",
+   "poster": "/media/exercises/incline-dumbbell-press/poster.webp",
+   "thumb": "/media/exercises/incline-dumbbell-press/thumb.webp"
+  }
+ },
+ {
+  "id": "dumbbell-bench-press",
+  "name": {
+   "ar": "ضغط دمبل مستوي",
+   "en": "Dumbbell Bench Press"
+  },
+  "primaryMuscles": [
+   "chest"
+  ],
+  "secondaryMuscles": [
+   "triceps",
+   "shoulders"
+  ],
+  "equipment": "dumbbell",
+  "difficulty": 1,
+  "mechanic": "compound",
+  "defaults": {
+   "sets": 3,
+   "reps": "8-12",
+   "restSec": 90
+  },
+  "steps": [
+   "استلقِ على بنش مستوي والدمبلز بمستوى صدرك.",
+   "شد لوحي الكتف وثبّت قدميك.",
+   "ادفع الدمبلز للأعلى بخط مستقيم.",
+   "نزّلها ببطء لين تكون جنب صدرك."
+  ],
+  "mistakes": [
+   "ضرب الدمبلز ببعض فوق.",
+   "تقويس الظهر بشكل مبالغ."
+  ],
+  "breathing": "شهيق وأنت تنزل الوزن، زفير وأنت تدفع أو تسحب.",
+  "alternatives": [
+   "barbell-bench-press",
+   "push-up"
+  ],
+  "media": {
+   "video": "/media/exercises/dumbbell-bench-press/video.webm",
+   "videoMp4": "/media/exercises/dumbbell-bench-press/video.mp4",
+   "poster": "/media/exercises/dumbbell-bench-press/poster.webp",
+   "thumb": "/media/exercises/dumbbell-bench-press/thumb.webp"
+  }
+ },
+ {
+  "id": "push-up",
+  "name": {
+   "ar": "ضغط أرضي",
+   "en": "Push-Up"
+  },
+  "primaryMuscles": [
+   "chest"
+  ],
+  "secondaryMuscles": [
+   "triceps",
+   "shoulders",
+   "abs"
+  ],
+  "equipment": "bodyweight",
+  "difficulty": 1,
+  "mechanic": "compound",
+  "defaults": {
+   "sets": 3,
+   "reps": "10-15",
+   "restSec": 60
+  },
+  "steps": [
+   "ضع يديك على الأرض أعرض من كتفيك بقليل.",
+   "خلّ جسمك خط مستقيم من الرأس للكعب وشد البطن.",
+   "انزل لين يقترب صدرك من الأرض.",
+   "ادفع الأرض وارجع لوضع البداية."
+  ],
+  "mistakes": [
+   "نزول الحوض أو رفعه.",
+   "نزول نصف المسافة بس."
+  ],
+  "breathing": "شهيق وأنت تنزل، زفير وأنت تطلع.",
+  "alternatives": [
+   "dumbbell-bench-press",
+   "chest-press-machine"
+  ],
+  "media": {
+   "video": "/media/exercises/push-up/video.webm",
+   "videoMp4": "/media/exercises/push-up/video.mp4",
+   "poster": "/media/exercises/push-up/poster.webp",
+   "thumb": "/media/exercises/push-up/thumb.webp"
+  }
+ },
+ {
+  "id": "chest-press-machine",
+  "name": {
+   "ar": "جهاز ضغط الصدر",
+   "en": "Chest Press Machine"
+  },
+  "primaryMuscles": [
+   "chest"
+  ],
+  "secondaryMuscles": [
+   "triceps",
+   "shoulders"
+  ],
+  "equipment": "machine",
+  "difficulty": 1,
+  "mechanic": "compound",
+  "defaults": {
+   "sets": 3,
+   "reps": "10-12",
+   "restSec": 75
+  },
+  "steps": [
+   "اضبط المقعد بحيث المقابض بمستوى منتصف صدرك.",
+   "امسك المقابض وظهرك ملتصق بالمسند.",
+   "ادفع للأمام لين تمد ذراعيك.",
+   "ارجع ببطء بدون ما ترتاح الأوزان على بعض."
+  ],
+  "mistakes": [
+   "المقعد منخفض أو عالي جداً.",
+   "رفع الكتفين للأذنين."
+  ],
+  "breathing": "شهيق وأنت تنزل الوزن، زفير وأنت تدفع أو تسحب.",
+  "alternatives": [
+   "dumbbell-bench-press",
+   "push-up"
+  ],
+  "media": {
+   "video": "/media/exercises/chest-press-machine/video.webm",
+   "videoMp4": "/media/exercises/chest-press-machine/video.mp4",
+   "poster": "/media/exercises/chest-press-machine/poster.webp",
+   "thumb": "/media/exercises/chest-press-machine/thumb.webp"
+  }
+ },
+ {
+  "id": "cable-fly",
+  "name": {
+   "ar": "تفتيح كيبل",
+   "en": "Cable Fly"
+  },
+  "primaryMuscles": [
+   "chest"
+  ],
+  "secondaryMuscles": [
+   "shoulders"
+  ],
+  "equipment": "cable",
+  "difficulty": 2,
+  "mechanic": "isolation",
+  "defaults": {
+   "sets": 3,
+   "reps": "12-15",
+   "restSec": 60
+  },
+  "steps": [
+   "اضبط البكرات على مستوى الكتف وامسك المقابض.",
+   "تقدم خطوة للأمام وميّل جسمك قليلاً وثنّي الكوع خفيف.",
+   "اجمع يديك أمام صدرك بحركة قوس كأنك تحضن شجرة.",
+   "ارجع ببطء لين تحس بتمدد الصدر."
+  ],
+  "mistakes": [
+   "ثني الكوع كثير فتصير حركة ضغط.",
+   "استخدام وزن ثقيل يكسر الشكل."
+  ],
+  "breathing": "زفير وأنت تجمع يديك.",
+  "alternatives": [
+   "pec-deck"
+  ],
+  "media": {
+   "video": "/media/exercises/cable-fly/video.webm",
+   "videoMp4": "/media/exercises/cable-fly/video.mp4",
+   "poster": "/media/exercises/cable-fly/poster.webp",
+   "thumb": "/media/exercises/cable-fly/thumb.webp"
+  }
+ },
+ {
+  "id": "pec-deck",
+  "name": {
+   "ar": "جهاز الفراشة",
+   "en": "Pec Deck"
+  },
+  "primaryMuscles": [
+   "chest"
+  ],
+  "secondaryMuscles": [
+   "shoulders"
+  ],
+  "equipment": "machine",
+  "difficulty": 1,
+  "mechanic": "isolation",
+  "defaults": {
+   "sets": 3,
+   "reps": "12-15",
+   "restSec": 60
+  },
+  "steps": [
+   "اضبط المقعد بحيث المقابض بمستوى الصدر.",
+   "امسك المقابض والكوع مثني خفيف.",
+   "اجمع الذراعين للأمام لين يتقابلوا.",
+   "ارجع ببطء للوضع الأول."
+  ],
+  "mistakes": [
+   "ترك الأوزان ترجع بسرعة.",
+   "رفع الكتفين."
+  ],
+  "breathing": "زفير وأنت تجمع.",
+  "alternatives": [
+   "cable-fly"
+  ],
+  "media": {
+   "video": "/media/exercises/pec-deck/video.webm",
+   "videoMp4": "/media/exercises/pec-deck/video.mp4",
+   "poster": "/media/exercises/pec-deck/poster.webp",
+   "thumb": "/media/exercises/pec-deck/thumb.webp"
+  }
+ },
+ {
+  "id": "chest-dip",
+  "name": {
+   "ar": "متوازي للصدر",
+   "en": "Chest Dip"
+  },
+  "primaryMuscles": [
+   "chest"
+  ],
+  "secondaryMuscles": [
+   "triceps",
+   "shoulders"
+  ],
+  "equipment": "bodyweight",
+  "difficulty": 3,
+  "mechanic": "compound",
+  "defaults": {
+   "sets": 3,
+   "reps": "6-12",
+   "restSec": 90
+  },
+  "steps": [
+   "امسك المتوازي وارفع جسمك والذراعين ممدودة.",
+   "ميّل جسمك للأمام قليلاً.",
+   "انزل ببطء لين يكون الكتف بمستوى الكوع.",
+   "ادفع للأعلى."
+  ],
+  "mistakes": [
+   "النزول عميق جداً يضغط على الكتف.",
+   "جسم مستقيم تماماً فيتحول التمرين للترايسبس."
+  ],
+  "breathing": "شهيق وأنت تنزل الوزن، زفير وأنت تدفع أو تسحب.",
+  "alternatives": [
+   "push-up",
+   "dumbbell-bench-press"
+  ],
+  "media": {
+   "video": "/media/exercises/chest-dip/video.webm",
+   "videoMp4": "/media/exercises/chest-dip/video.mp4",
+   "poster": "/media/exercises/chest-dip/poster.webp",
+   "thumb": "/media/exercises/chest-dip/thumb.webp"
+  }
+ },
+ {
+  "id": "lat-pulldown",
+  "name": {
+   "ar": "سحب أمامي",
+   "en": "Lat Pulldown"
+  },
+  "primaryMuscles": [
+   "lats"
+  ],
+  "secondaryMuscles": [
+   "biceps",
+   "upperBack"
+  ],
+  "equipment": "cable",
+  "difficulty": 1,
+  "mechanic": "compound",
+  "defaults": {
+   "sets": 4,
+   "reps": "8-12",
+   "restSec": 90
+  },
+  "steps": [
+   "اجلس وثبّت فخذيك تحت المسند.",
+   "امسك البار بقبضة أعرض من كتفيك.",
+   "اسحب البار لأعلى صدرك وأنت تنزل الكوعين للأسفل.",
+   "ارجع ببطء لين تمد ذراعيك بالكامل."
+  ],
+  "mistakes": [
+   "الرجوع بالجسم للخلف كثير.",
+   "سحب البار خلف الرأس."
+  ],
+  "breathing": "زفير وأنت تسحب.",
+  "alternatives": [
+   "pull-up",
+   "assisted-pull-up"
+  ],
+  "media": {
+   "video": "/media/exercises/lat-pulldown/video.webm",
+   "videoMp4": "/media/exercises/lat-pulldown/video.mp4",
+   "poster": "/media/exercises/lat-pulldown/poster.webp",
+   "thumb": "/media/exercises/lat-pulldown/thumb.webp"
+  }
+ },
+ {
+  "id": "seated-cable-row",
+  "name": {
+   "ar": "سحب أرضي بالكيبل",
+   "en": "Seated Cable Row"
+  },
+  "primaryMuscles": [
+   "upperBack",
+   "lats"
+  ],
+  "secondaryMuscles": [
+   "biceps"
+  ],
+  "equipment": "cable",
+  "difficulty": 1,
+  "mechanic": "compound",
+  "defaults": {
+   "sets": 3,
+   "reps": "10-12",
+   "restSec": 90
+  },
+  "steps": [
+   "اجلس وقدميك على المسند والركبة مثنية خفيف.",
+   "امسك المقبض وظهرك مستقيم.",
+   "اسحب المقبض لبطنك وشد لوحي الكتف ببعض.",
+   "ارجع ببطء بدون ما تقوّس ظهرك."
+  ],
+  "mistakes": [
+   "تأرجح الجسم للخلف والأمام.",
+   "تقويس أسفل الظهر."
+  ],
+  "breathing": "زفير وأنت تسحب.",
+  "alternatives": [
+   "dumbbell-row",
+   "barbell-row"
+  ],
+  "media": {
+   "video": "/media/exercises/seated-cable-row/video.webm",
+   "videoMp4": "/media/exercises/seated-cable-row/video.mp4",
+   "poster": "/media/exercises/seated-cable-row/poster.webp",
+   "thumb": "/media/exercises/seated-cable-row/thumb.webp"
+  }
+ },
+ {
+  "id": "barbell-row",
+  "name": {
+   "ar": "تجديف بالبار",
+   "en": "Barbell Row"
+  },
+  "primaryMuscles": [
+   "upperBack",
+   "lats"
+  ],
+  "secondaryMuscles": [
+   "biceps",
+   "lowerBack"
+  ],
+  "equipment": "barbell",
+  "difficulty": 3,
+  "mechanic": "compound",
+  "defaults": {
+   "sets": 4,
+   "reps": "6-10",
+   "restSec": 120
+  },
+  "steps": [
+   "قف والبار أمامك، ميّل جسمك للأمام 45 درجة والظهر مستقيم.",
+   "امسك البار بعرض الكتف.",
+   "اسحب البار لأسفل بطنك.",
+   "نزّله ببطء."
+  ],
+  "mistakes": [
+   "تقويس الظهر.",
+   "استخدام الجسم لرفع الوزن."
+  ],
+  "breathing": "زفير وأنت تسحب.",
+  "alternatives": [
+   "dumbbell-row",
+   "t-bar-row",
+   "seated-cable-row"
+  ],
+  "media": {
+   "video": "/media/exercises/barbell-row/video.webm",
+   "videoMp4": "/media/exercises/barbell-row/video.mp4",
+   "poster": "/media/exercises/barbell-row/poster.webp",
+   "thumb": "/media/exercises/barbell-row/thumb.webp"
+  }
+ },
+ {
+  "id": "dumbbell-row",
+  "name": {
+   "ar": "تجديف دمبل بيد واحدة",
+   "en": "One-Arm Dumbbell Row"
+  },
+  "primaryMuscles": [
+   "lats",
+   "upperBack"
+  ],
+  "secondaryMuscles": [
+   "biceps"
+  ],
+  "equipment": "dumbbell",
+  "difficulty": 1,
+  "mechanic": "compound",
+  "defaults": {
+   "sets": 3,
+   "reps": "10-12",
+   "restSec": 75
+  },
+  "steps": [
+   "ضع ركبة ويد على البنش والظهر مستقيم.",
+   "امسك الدمبل باليد الثانية.",
+   "اسحب الدمبل لخصرك والكوع قريب من جسمك.",
+   "نزّله ببطء لين تمد ذراعك."
+  ],
+  "mistakes": [
+   "لف الجذع أثناء السحب.",
+   "السحب بالذراع بدل الظهر."
+  ],
+  "breathing": "زفير وأنت تسحب.",
+  "alternatives": [
+   "seated-cable-row",
+   "barbell-row"
+  ],
+  "media": {
+   "video": "/media/exercises/dumbbell-row/video.webm",
+   "videoMp4": "/media/exercises/dumbbell-row/video.mp4",
+   "poster": "/media/exercises/dumbbell-row/poster.webp",
+   "thumb": "/media/exercises/dumbbell-row/thumb.webp"
+  }
+ },
+ {
+  "id": "pull-up",
+  "name": {
+   "ar": "عقلة",
+   "en": "Pull-Up"
+  },
+  "primaryMuscles": [
+   "lats"
+  ],
+  "secondaryMuscles": [
+   "biceps",
+   "upperBack"
+  ],
+  "equipment": "bodyweight",
+  "difficulty": 3,
+  "mechanic": "compound",
+  "defaults": {
+   "sets": 3,
+   "reps": "5-10",
+   "restSec": 120
+  },
+  "steps": [
+   "امسك البار بقبضة أعرض من كتفيك.",
+   "علّق جسمك والذراعين ممدودة.",
+   "اسحب جسمك لين يتعدى ذقنك البار.",
+   "انزل ببطء بالكامل."
+  ],
+  "mistakes": [
+   "التأرجح بالرجلين.",
+   "نصف المسافة بس."
+  ],
+  "breathing": "زفير وأنت تطلع.",
+  "alternatives": [
+   "assisted-pull-up",
+   "lat-pulldown"
+  ],
+  "media": {
+   "video": "/media/exercises/pull-up/video.webm",
+   "videoMp4": "/media/exercises/pull-up/video.mp4",
+   "poster": "/media/exercises/pull-up/poster.webp",
+   "thumb": "/media/exercises/pull-up/thumb.webp"
+  }
+ },
+ {
+  "id": "assisted-pull-up",
+  "name": {
+   "ar": "عقلة بالمساعدة",
+   "en": "Assisted Pull-Up"
+  },
+  "primaryMuscles": [
+   "lats"
+  ],
+  "secondaryMuscles": [
+   "biceps",
+   "upperBack"
+  ],
+  "equipment": "machine",
+  "difficulty": 1,
+  "mechanic": "compound",
+  "defaults": {
+   "sets": 3,
+   "reps": "8-12",
+   "restSec": 90
+  },
+  "steps": [
+   "اختر وزن المساعدة (كل ما زاد الوزن صار أسهل).",
+   "اركب على المسند وامسك المقابض.",
+   "اسحب جسمك للأعلى لين ذقنك فوق المقبض.",
+   "انزل ببطء."
+  ],
+  "mistakes": [
+   "الاعتماد على وزن مساعدة عالي دائماً."
+  ],
+  "breathing": "زفير وأنت تطلع.",
+  "alternatives": [
+   "lat-pulldown",
+   "pull-up"
+  ],
+  "media": {
+   "video": "/media/exercises/assisted-pull-up/video.webm",
+   "videoMp4": "/media/exercises/assisted-pull-up/video.mp4",
+   "poster": "/media/exercises/assisted-pull-up/poster.webp",
+   "thumb": "/media/exercises/assisted-pull-up/thumb.webp"
+  }
+ },
+ {
+  "id": "t-bar-row",
+  "name": {
+   "ar": "تجديف T-Bar",
+   "en": "T-Bar Row"
+  },
+  "primaryMuscles": [
+   "upperBack",
+   "lats"
+  ],
+  "secondaryMuscles": [
+   "biceps",
+   "lowerBack"
+  ],
+  "equipment": "barbell",
+  "difficulty": 2,
+  "mechanic": "compound",
+  "defaults": {
+   "sets": 3,
+   "reps": "8-10",
+   "restSec": 90
+  },
+  "steps": [
+   "قف فوق البار والمقبض بين رجليك.",
+   "ميّل للأمام والظهر مستقيم.",
+   "اسحب المقبض لصدرك.",
+   "نزّله ببطء."
+  ],
+  "mistakes": [
+   "تقويس الظهر.",
+   "هز الجسم."
+  ],
+  "breathing": "زفير وأنت تسحب.",
+  "alternatives": [
+   "barbell-row",
+   "seated-cable-row"
+  ],
+  "media": {
+   "video": "/media/exercises/t-bar-row/video.webm",
+   "videoMp4": "/media/exercises/t-bar-row/video.mp4",
+   "poster": "/media/exercises/t-bar-row/poster.webp",
+   "thumb": "/media/exercises/t-bar-row/thumb.webp"
+  }
+ },
+ {
+  "id": "straight-arm-pulldown",
+  "name": {
+   "ar": "سحب بذراع مستقيمة",
+   "en": "Straight-Arm Pulldown"
+  },
+  "primaryMuscles": [
+   "lats"
+  ],
+  "secondaryMuscles": [
+   "triceps"
+  ],
+  "equipment": "cable",
+  "difficulty": 2,
+  "mechanic": "isolation",
+  "defaults": {
+   "sets": 3,
+   "reps": "12-15",
+   "restSec": 60
+  },
+  "steps": [
+   "قف أمام الكيبل وامسك البار بذراعين شبه مستقيمة.",
+   "ميّل جسمك للأمام قليلاً.",
+   "انزل البار لفخذيك بحركة قوس.",
+   "ارجع ببطء لمستوى العين."
+  ],
+  "mistakes": [
+   "ثني الكوع وتحويلها لحركة ترايسبس."
+  ],
+  "breathing": "زفير وأنت تنزل البار.",
+  "alternatives": [
+   "lat-pulldown"
+  ],
+  "media": {
+   "video": "/media/exercises/straight-arm-pulldown/video.webm",
+   "videoMp4": "/media/exercises/straight-arm-pulldown/video.mp4",
+   "poster": "/media/exercises/straight-arm-pulldown/poster.webp",
+   "thumb": "/media/exercises/straight-arm-pulldown/thumb.webp"
+  }
+ },
+ {
+  "id": "deadlift",
+  "name": {
+   "ar": "ديدلفت",
+   "en": "Deadlift"
+  },
+  "primaryMuscles": [
+   "lowerBack",
+   "hamstrings",
+   "glutes"
+  ],
+  "secondaryMuscles": [
+   "quads",
+   "traps",
+   "forearms"
+  ],
+  "equipment": "barbell",
+  "difficulty": 3,
+  "mechanic": "compound",
+  "defaults": {
+   "sets": 3,
+   "reps": "5-8",
+   "restSec": 150
+  },
+  "steps": [
+   "قف والبار فوق منتصف قدميك.",
+   "انزل وامسك البار، الظهر مستقيم والصدر للأمام.",
+   "ادفع الأرض برجليك وارفع البار قريب من جسمك.",
+   "اقفل الحوض فوق ثم نزّل البار بنفس الطريق."
+  ],
+  "mistakes": [
+   "تقويس الظهر (أخطر خطأ).",
+   "البار بعيد عن الجسم.",
+   "رفع الحوض قبل الصدر."
+  ],
+  "breathing": "خذ نفس عميق وشد البطن قبل الرفع، وازفر فوق.",
+  "alternatives": [
+   "romanian-deadlift",
+   "back-extension"
+  ],
+  "media": {
+   "video": "/media/exercises/deadlift/video.webm",
+   "videoMp4": "/media/exercises/deadlift/video.mp4",
+   "poster": "/media/exercises/deadlift/poster.webp",
+   "thumb": "/media/exercises/deadlift/thumb.webp"
+  }
+ },
+ {
+  "id": "back-extension",
+  "name": {
+   "ar": "تمديد الظهر",
+   "en": "Back Extension"
+  },
+  "primaryMuscles": [
+   "lowerBack"
+  ],
+  "secondaryMuscles": [
+   "glutes",
+   "hamstrings"
+  ],
+  "equipment": "bodyweight",
+  "difficulty": 1,
+  "mechanic": "isolation",
+  "defaults": {
+   "sets": 3,
+   "reps": "12-15",
+   "restSec": 60
+  },
+  "steps": [
+   "ثبّت رجليك في الجهاز والحوض على المسند.",
+   "ضم يديك على صدرك.",
+   "انزل ببطء للأمام.",
+   "ارجع لين يصير جسمك خط مستقيم بدون مبالغة."
+  ],
+  "mistakes": [
+   "الرجوع للخلف أكثر من اللازم.",
+   "السرعة."
+  ],
+  "breathing": "زفير وأنت تطلع.",
+  "alternatives": [
+   "romanian-deadlift"
+  ],
+  "media": {
+   "video": "/media/exercises/back-extension/video.webm",
+   "videoMp4": "/media/exercises/back-extension/video.mp4",
+   "poster": "/media/exercises/back-extension/poster.webp",
+   "thumb": "/media/exercises/back-extension/thumb.webp"
+  }
+ },
+ {
+  "id": "overhead-press",
+  "name": {
+   "ar": "ضغط أكتاف بالبار",
+   "en": "Overhead Press"
+  },
+  "primaryMuscles": [
+   "shoulders"
+  ],
+  "secondaryMuscles": [
+   "triceps",
+   "traps"
+  ],
+  "equipment": "barbell",
+  "difficulty": 2,
+  "mechanic": "compound",
+  "defaults": {
+   "sets": 4,
+   "reps": "6-10",
+   "restSec": 120
+  },
+  "steps": [
+   "قف والبار على أعلى صدرك، قبضة بعرض الكتف.",
+   "شد البطن والمؤخرة.",
+   "ادفع البار للأعلى وحرّك رأسك للخلف قليلاً عشان يعدي.",
+   "نزّله ببطء لأعلى الصدر."
+  ],
+  "mistakes": [
+   "تقويس أسفل الظهر.",
+   "استخدام الركبة للدفع."
+  ],
+  "breathing": "شهيق وأنت تنزل الوزن، زفير وأنت تدفع أو تسحب.",
+  "alternatives": [
+   "dumbbell-shoulder-press"
+  ],
+  "media": {
+   "video": "/media/exercises/overhead-press/video.webm",
+   "videoMp4": "/media/exercises/overhead-press/video.mp4",
+   "poster": "/media/exercises/overhead-press/poster.webp",
+   "thumb": "/media/exercises/overhead-press/thumb.webp"
+  }
+ },
+ {
+  "id": "dumbbell-shoulder-press",
+  "name": {
+   "ar": "ضغط أكتاف دمبل",
+   "en": "Dumbbell Shoulder Press"
+  },
+  "primaryMuscles": [
+   "shoulders"
+  ],
+  "secondaryMuscles": [
+   "triceps"
+  ],
+  "equipment": "dumbbell",
+  "difficulty": 1,
+  "mechanic": "compound",
+  "defaults": {
+   "sets": 3,
+   "reps": "8-12",
+   "restSec": 90
+  },
+  "steps": [
+   "اجلس على بنش بمسند عمودي.",
+   "ارفع الدمبلز لمستوى الكتف والكفوف للأمام.",
+   "ادفعها للأعلى.",
+   "نزّلها ببطء لمستوى الأذن."
+  ],
+  "mistakes": [
+   "النزول قليل.",
+   "تقويس الظهر عن المسند."
+  ],
+  "breathing": "شهيق وأنت تنزل الوزن، زفير وأنت تدفع أو تسحب.",
+  "alternatives": [
+   "overhead-press"
+  ],
+  "media": {
+   "video": "/media/exercises/dumbbell-shoulder-press/video.webm",
+   "videoMp4": "/media/exercises/dumbbell-shoulder-press/video.mp4",
+   "poster": "/media/exercises/dumbbell-shoulder-press/poster.webp",
+   "thumb": "/media/exercises/dumbbell-shoulder-press/thumb.webp"
+  }
+ },
+ {
+  "id": "lateral-raise",
+  "name": {
+   "ar": "رفرفة جانبي",
+   "en": "Lateral Raise"
+  },
+  "primaryMuscles": [
+   "shoulders"
+  ],
+  "secondaryMuscles": [
+   "traps"
+  ],
+  "equipment": "dumbbell",
+  "difficulty": 1,
+  "mechanic": "isolation",
+  "defaults": {
+   "sets": 3,
+   "reps": "12-15",
+   "restSec": 60
+  },
+  "steps": [
+   "قف والدمبلز جنبك والكوع مثني خفيف.",
+   "ارفع الدمبلز للجانب لين مستوى الكتف.",
+   "وقف ثانية فوق.",
+   "نزّلها ببطء."
+  ],
+  "mistakes": [
+   "استخدام وزن ثقيل وهز الجسم.",
+   "رفع الكتفين للأذن."
+  ],
+  "breathing": "زفير وأنت ترفع.",
+  "alternatives": [
+   "front-raise"
+  ],
+  "media": {
+   "video": "/media/exercises/lateral-raise/video.webm",
+   "videoMp4": "/media/exercises/lateral-raise/video.mp4",
+   "poster": "/media/exercises/lateral-raise/poster.webp",
+   "thumb": "/media/exercises/lateral-raise/thumb.webp"
+  }
+ },
+ {
+  "id": "front-raise",
+  "name": {
+   "ar": "رفرفة أمامي",
+   "en": "Front Raise"
+  },
+  "primaryMuscles": [
+   "shoulders"
+  ],
+  "secondaryMuscles": [],
+  "equipment": "dumbbell",
+  "difficulty": 1,
+  "mechanic": "isolation",
+  "defaults": {
+   "sets": 3,
+   "reps": "12-15",
+   "restSec": 60
+  },
+  "steps": [
+   "قف والدمبلز أمام فخذيك.",
+   "ارفع دمبل للأمام لين مستوى الكتف.",
+   "نزّله ببطء.",
+   "بدّل اليد."
+  ],
+  "mistakes": [
+   "هز الجسم للخلف."
+  ],
+  "breathing": "زفير وأنت ترفع.",
+  "alternatives": [
+   "lateral-raise"
+  ],
+  "media": {
+   "video": "/media/exercises/front-raise/video.webm",
+   "videoMp4": "/media/exercises/front-raise/video.mp4",
+   "poster": "/media/exercises/front-raise/poster.webp",
+   "thumb": "/media/exercises/front-raise/thumb.webp"
+  }
+ },
+ {
+  "id": "rear-delt-fly",
+  "name": {
+   "ar": "رفرفة خلفي",
+   "en": "Rear Delt Fly"
+  },
+  "primaryMuscles": [
+   "shoulders"
+  ],
+  "secondaryMuscles": [
+   "upperBack"
+  ],
+  "equipment": "dumbbell",
+  "difficulty": 1,
+  "mechanic": "isolation",
+  "defaults": {
+   "sets": 3,
+   "reps": "12-15",
+   "restSec": 60
+  },
+  "steps": [
+   "ميّل جسمك للأمام والظهر مستقيم والدمبلز تحتك.",
+   "ارفع الدمبلز للجانب والكوع مثني خفيف.",
+   "اضغط الكتف الخلفي فوق.",
+   "نزّلها ببطء."
+  ],
+  "mistakes": [
+   "السحب بالظهر بدل الكتف الخلفي."
+  ],
+  "breathing": "زفير وأنت ترفع.",
+  "alternatives": [
+   "face-pull"
+  ],
+  "media": {
+   "video": "/media/exercises/rear-delt-fly/video.webm",
+   "videoMp4": "/media/exercises/rear-delt-fly/video.mp4",
+   "poster": "/media/exercises/rear-delt-fly/poster.webp",
+   "thumb": "/media/exercises/rear-delt-fly/thumb.webp"
+  }
+ },
+ {
+  "id": "face-pull",
+  "name": {
+   "ar": "فيس بول",
+   "en": "Face Pull"
+  },
+  "primaryMuscles": [
+   "shoulders"
+  ],
+  "secondaryMuscles": [
+   "upperBack",
+   "traps"
+  ],
+  "equipment": "cable",
+  "difficulty": 1,
+  "mechanic": "isolation",
+  "defaults": {
+   "sets": 3,
+   "reps": "12-15",
+   "restSec": 60
+  },
+  "steps": [
+   "اضبط الكيبل بمستوى الوجه مع الحبل.",
+   "امسك الحبل والإبهام للخلف.",
+   "اسحب الحبل لوجهك وافتح يديك للجانب.",
+   "ارجع ببطء."
+  ],
+  "mistakes": [
+   "سحب الحبل للصدر بدل الوجه."
+  ],
+  "breathing": "زفير وأنت تسحب.",
+  "alternatives": [
+   "rear-delt-fly"
+  ],
+  "media": {
+   "video": "/media/exercises/face-pull/video.webm",
+   "videoMp4": "/media/exercises/face-pull/video.mp4",
+   "poster": "/media/exercises/face-pull/poster.webp",
+   "thumb": "/media/exercises/face-pull/thumb.webp"
+  }
+ },
+ {
+  "id": "shrug",
+  "name": {
+   "ar": "ترابيس دمبل",
+   "en": "Dumbbell Shrug"
+  },
+  "primaryMuscles": [
+   "traps"
+  ],
+  "secondaryMuscles": [
+   "forearms"
+  ],
+  "equipment": "dumbbell",
+  "difficulty": 1,
+  "mechanic": "isolation",
+  "defaults": {
+   "sets": 3,
+   "reps": "12-15",
+   "restSec": 60
+  },
+  "steps": [
+   "قف والدمبلز جنبك.",
+   "ارفع كتفيك لأذنيك بشكل مستقيم.",
+   "وقف ثانية فوق.",
+   "نزّل ببطء."
+  ],
+  "mistakes": [
+   "تدوير الكتفين."
+  ],
+  "breathing": "زفير وأنت ترفع.",
+  "alternatives": [
+   "deadlift"
+  ],
+  "media": {
+   "video": "/media/exercises/shrug/video.webm",
+   "videoMp4": "/media/exercises/shrug/video.mp4",
+   "poster": "/media/exercises/shrug/poster.webp",
+   "thumb": "/media/exercises/shrug/thumb.webp"
+  }
+ },
+ {
+  "id": "barbell-curl",
+  "name": {
+   "ar": "بايسبس بالبار",
+   "en": "Barbell Curl"
+  },
+  "primaryMuscles": [
+   "biceps"
+  ],
+  "secondaryMuscles": [
+   "forearms"
+  ],
+  "equipment": "barbell",
+  "difficulty": 1,
+  "mechanic": "isolation",
+  "defaults": {
+   "sets": 3,
+   "reps": "8-12",
+   "restSec": 60
+  },
+  "steps": [
+   "قف والبار بقبضة بعرض الكتف والكفوف للأمام.",
+   "ثبّت الكوع جنب جسمك.",
+   "ارفع البار لصدرك.",
+   "نزّله ببطء بالكامل."
+  ],
+  "mistakes": [
+   "هز الجسم.",
+   "تحريك الكوع للأمام."
+  ],
+  "breathing": "زفير وأنت ترفع.",
+  "alternatives": [
+   "dumbbell-curl"
+  ],
+  "media": {
+   "video": "/media/exercises/barbell-curl/video.webm",
+   "videoMp4": "/media/exercises/barbell-curl/video.mp4",
+   "poster": "/media/exercises/barbell-curl/poster.webp",
+   "thumb": "/media/exercises/barbell-curl/thumb.webp"
+  }
+ },
+ {
+  "id": "dumbbell-curl",
+  "name": {
+   "ar": "بايسبس دمبل",
+   "en": "Dumbbell Curl"
+  },
+  "primaryMuscles": [
+   "biceps"
+  ],
+  "secondaryMuscles": [
+   "forearms"
+  ],
+  "equipment": "dumbbell",
+  "difficulty": 1,
+  "mechanic": "isolation",
+  "defaults": {
+   "sets": 3,
+   "reps": "10-12",
+   "restSec": 60
+  },
+  "steps": [
+   "قف والدمبلز جنبك والكفوف للأمام.",
+   "ارفع الدمبلز والكوع ثابت.",
+   "اعصر البايسبس فوق.",
+   "نزّل ببطء."
+  ],
+  "mistakes": [
+   "نصف الحركة.",
+   "السرعة."
+  ],
+  "breathing": "زفير وأنت ترفع.",
+  "alternatives": [
+   "barbell-curl",
+   "hammer-curl"
+  ],
+  "media": {
+   "video": "/media/exercises/dumbbell-curl/video.webm",
+   "videoMp4": "/media/exercises/dumbbell-curl/video.mp4",
+   "poster": "/media/exercises/dumbbell-curl/poster.webp",
+   "thumb": "/media/exercises/dumbbell-curl/thumb.webp"
+  }
+ },
+ {
+  "id": "hammer-curl",
+  "name": {
+   "ar": "هامر",
+   "en": "Hammer Curl"
+  },
+  "primaryMuscles": [
+   "biceps",
+   "forearms"
+  ],
+  "secondaryMuscles": [],
+  "equipment": "dumbbell",
+  "difficulty": 1,
+  "mechanic": "isolation",
+  "defaults": {
+   "sets": 3,
+   "reps": "10-12",
+   "restSec": 60
+  },
+  "steps": [
+   "قف والدمبلز جنبك والكفوف متقابلة.",
+   "ارفع الدمبلز والكف يبقى بنفس الاتجاه.",
+   "وقف فوق.",
+   "نزّل ببطء."
+  ],
+  "mistakes": [
+   "هز الجسم."
+  ],
+  "breathing": "زفير وأنت ترفع.",
+  "alternatives": [
+   "dumbbell-curl"
+  ],
+  "media": {
+   "video": "/media/exercises/hammer-curl/video.webm",
+   "videoMp4": "/media/exercises/hammer-curl/video.mp4",
+   "poster": "/media/exercises/hammer-curl/poster.webp",
+   "thumb": "/media/exercises/hammer-curl/thumb.webp"
+  }
+ },
+ {
+  "id": "preacher-curl",
+  "name": {
+   "ar": "بايسبس على المسند",
+   "en": "Preacher Curl"
+  },
+  "primaryMuscles": [
+   "biceps"
+  ],
+  "secondaryMuscles": [],
+  "equipment": "machine",
+  "difficulty": 1,
+  "mechanic": "isolation",
+  "defaults": {
+   "sets": 3,
+   "reps": "10-12",
+   "restSec": 60
+  },
+  "steps": [
+   "اجلس وثبّت ذراعيك على المسند.",
+   "امسك البار أو المقابض.",
+   "ارفع لين الكوع مثني بالكامل.",
+   "نزّل ببطء بدون ما تقفل الكوع بقوة."
+  ],
+  "mistakes": [
+   "ترك الوزن ينزل بسرعة."
+  ],
+  "breathing": "زفير وأنت ترفع.",
+  "alternatives": [
+   "dumbbell-curl"
+  ],
+  "media": {
+   "video": "/media/exercises/preacher-curl/video.webm",
+   "videoMp4": "/media/exercises/preacher-curl/video.mp4",
+   "poster": "/media/exercises/preacher-curl/poster.webp",
+   "thumb": "/media/exercises/preacher-curl/thumb.webp"
+  }
+ },
+ {
+  "id": "triceps-pushdown",
+  "name": {
+   "ar": "ترايسبس كيبل",
+   "en": "Triceps Pushdown"
+  },
+  "primaryMuscles": [
+   "triceps"
+  ],
+  "secondaryMuscles": [],
+  "equipment": "cable",
+  "difficulty": 1,
+  "mechanic": "isolation",
+  "defaults": {
+   "sets": 3,
+   "reps": "10-15",
+   "restSec": 60
+  },
+  "steps": [
+   "قف أمام الكيبل وامسك البار أو الحبل.",
+   "ثبّت الكوع جنب جسمك.",
+   "ادفع للأسفل لين تمد ذراعيك.",
+   "ارجع ببطء لزاوية 90."
+  ],
+  "mistakes": [
+   "تحريك الكوع.",
+   "الميلان على الوزن."
+  ],
+  "breathing": "زفير وأنت تدفع.",
+  "alternatives": [
+   "overhead-triceps-extension",
+   "bench-dip"
+  ],
+  "media": {
+   "video": "/media/exercises/triceps-pushdown/video.webm",
+   "videoMp4": "/media/exercises/triceps-pushdown/video.mp4",
+   "poster": "/media/exercises/triceps-pushdown/poster.webp",
+   "thumb": "/media/exercises/triceps-pushdown/thumb.webp"
+  }
+ },
+ {
+  "id": "overhead-triceps-extension",
+  "name": {
+   "ar": "ترايسبس خلف الرأس",
+   "en": "Overhead Triceps Extension"
+  },
+  "primaryMuscles": [
+   "triceps"
+  ],
+  "secondaryMuscles": [],
+  "equipment": "dumbbell",
+  "difficulty": 1,
+  "mechanic": "isolation",
+  "defaults": {
+   "sets": 3,
+   "reps": "10-12",
+   "restSec": 60
+  },
+  "steps": [
+   "اجلس وامسك دمبل بيديك فوق رأسك.",
+   "نزّل الدمبل خلف رأسك ببطء.",
+   "الكوع يبقى قريب من رأسك.",
+   "ارفع لين تمد ذراعيك."
+  ],
+  "mistakes": [
+   "فتح الكوعين للجانب."
+  ],
+  "breathing": "زفير وأنت ترفع.",
+  "alternatives": [
+   "triceps-pushdown",
+   "skull-crusher"
+  ],
+  "media": {
+   "video": "/media/exercises/overhead-triceps-extension/video.webm",
+   "videoMp4": "/media/exercises/overhead-triceps-extension/video.mp4",
+   "poster": "/media/exercises/overhead-triceps-extension/poster.webp",
+   "thumb": "/media/exercises/overhead-triceps-extension/thumb.webp"
+  }
+ },
+ {
+  "id": "skull-crusher",
+  "name": {
+   "ar": "سكل كراشر",
+   "en": "Skull Crusher"
+  },
+  "primaryMuscles": [
+   "triceps"
+  ],
+  "secondaryMuscles": [],
+  "equipment": "barbell",
+  "difficulty": 2,
+  "mechanic": "isolation",
+  "defaults": {
+   "sets": 3,
+   "reps": "8-12",
+   "restSec": 75
+  },
+  "steps": [
+   "استلقِ على البنش والبار فوق صدرك.",
+   "نزّل البار لجبهتك بثني الكوع فقط.",
+   "وقف لحظة.",
+   "ارجع بمد الذراعين."
+  ],
+  "mistakes": [
+   "تحريك الكتف.",
+   "وزن ثقيل جداً."
+  ],
+  "breathing": "شهيق وأنت تنزل الوزن، زفير وأنت تدفع أو تسحب.",
+  "alternatives": [
+   "overhead-triceps-extension"
+  ],
+  "media": {
+   "video": "/media/exercises/skull-crusher/video.webm",
+   "videoMp4": "/media/exercises/skull-crusher/video.mp4",
+   "poster": "/media/exercises/skull-crusher/poster.webp",
+   "thumb": "/media/exercises/skull-crusher/thumb.webp"
+  }
+ },
+ {
+  "id": "bench-dip",
+  "name": {
+   "ar": "ديبس على البنش",
+   "en": "Bench Dip"
+  },
+  "primaryMuscles": [
+   "triceps"
+  ],
+  "secondaryMuscles": [
+   "chest",
+   "shoulders"
+  ],
+  "equipment": "bodyweight",
+  "difficulty": 1,
+  "mechanic": "compound",
+  "defaults": {
+   "sets": 3,
+   "reps": "10-15",
+   "restSec": 60
+  },
+  "steps": [
+   "اجلس على طرف البنش ويديك جنبك.",
+   "حرّك حوضك للأمام والرجلين ممدودة أو مثنية.",
+   "انزل لين الكوع 90 درجة.",
+   "ادفع للأعلى."
+  ],
+  "mistakes": [
+   "النزول عميق جداً."
+  ],
+  "breathing": "شهيق وأنت تنزل الوزن، زفير وأنت تدفع أو تسحب.",
+  "alternatives": [
+   "triceps-pushdown"
+  ],
+  "media": {
+   "video": "/media/exercises/bench-dip/video.webm",
+   "videoMp4": "/media/exercises/bench-dip/video.mp4",
+   "poster": "/media/exercises/bench-dip/poster.webp",
+   "thumb": "/media/exercises/bench-dip/thumb.webp"
+  }
+ },
+ {
+  "id": "close-grip-bench-press",
+  "name": {
+   "ar": "بنش قبضة ضيقة",
+   "en": "Close-Grip Bench Press"
+  },
+  "primaryMuscles": [
+   "triceps"
+  ],
+  "secondaryMuscles": [
+   "chest",
+   "shoulders"
+  ],
+  "equipment": "barbell",
+  "difficulty": 2,
+  "mechanic": "compound",
+  "defaults": {
+   "sets": 3,
+   "reps": "8-10",
+   "restSec": 90
+  },
+  "steps": [
+   "استلقِ وامسك البار بعرض الكتف.",
+   "نزّل البار لأسفل الصدر والكوع قريب من الجسم.",
+   "ادفع للأعلى.",
+   "كرّر بتحكم."
+  ],
+  "mistakes": [
+   "قبضة ضيقة جداً تضغط على المعصم."
+  ],
+  "breathing": "شهيق وأنت تنزل الوزن، زفير وأنت تدفع أو تسحب.",
+  "alternatives": [
+   "skull-crusher",
+   "bench-dip"
+  ],
+  "media": {
+   "video": "/media/exercises/close-grip-bench-press/video.webm",
+   "videoMp4": "/media/exercises/close-grip-bench-press/video.mp4",
+   "poster": "/media/exercises/close-grip-bench-press/poster.webp",
+   "thumb": "/media/exercises/close-grip-bench-press/thumb.webp"
+  }
+ },
+ {
+  "id": "back-squat",
+  "name": {
+   "ar": "سكوات بالبار",
+   "en": "Back Squat"
+  },
+  "primaryMuscles": [
+   "quads",
+   "glutes"
+  ],
+  "secondaryMuscles": [
+   "hamstrings",
+   "lowerBack",
+   "abs"
+  ],
+  "equipment": "barbell",
+  "difficulty": 3,
+  "mechanic": "compound",
+  "defaults": {
+   "sets": 4,
+   "reps": "6-10",
+   "restSec": 150
+  },
+  "steps": [
+   "حط البار على أعلى ظهرك (مو على الرقبة).",
+   "قف وقدميك بعرض الكتف وأصابعك للخارج قليلاً.",
+   "انزل كأنك تجلس على كرسي والصدر مرفوع والركبة باتجاه الأصابع.",
+   "انزل لين الفخذ موازي للأرض أو أقل، ثم ادفع الأرض وارجع."
+  ],
+  "mistakes": [
+   "دخول الركبة للداخل.",
+   "رفع الكعب.",
+   "تقويس الظهر."
+  ],
+  "breathing": "خذ نفس عميق قبل النزول وشد البطن، وازفر وأنت طالع.",
+  "alternatives": [
+   "goblet-squat",
+   "leg-press"
+  ],
+  "media": {
+   "video": "/media/exercises/back-squat/video.webm",
+   "videoMp4": "/media/exercises/back-squat/video.mp4",
+   "poster": "/media/exercises/back-squat/poster.webp",
+   "thumb": "/media/exercises/back-squat/thumb.webp"
+  }
+ },
+ {
+  "id": "goblet-squat",
+  "name": {
+   "ar": "سكوات جوبلت",
+   "en": "Goblet Squat"
+  },
+  "primaryMuscles": [
+   "quads",
+   "glutes"
+  ],
+  "secondaryMuscles": [
+   "abs"
+  ],
+  "equipment": "dumbbell",
+  "difficulty": 1,
+  "mechanic": "compound",
+  "defaults": {
+   "sets": 3,
+   "reps": "10-12",
+   "restSec": 90
+  },
+  "steps": [
+   "امسك دمبل بيديك أمام صدرك.",
+   "قف وقدميك أعرض من كتفك بقليل.",
+   "انزل والكوع بين ركبتيك.",
+   "ادفع الأرض وارجع."
+  ],
+  "mistakes": [
+   "الميلان للأمام.",
+   "رفع الكعب."
+  ],
+  "breathing": "شهيق وأنت تنزل الوزن، زفير وأنت تدفع أو تسحب.",
+  "alternatives": [
+   "back-squat",
+   "leg-press"
+  ],
+  "media": {
+   "video": "/media/exercises/goblet-squat/video.webm",
+   "videoMp4": "/media/exercises/goblet-squat/video.mp4",
+   "poster": "/media/exercises/goblet-squat/poster.webp",
+   "thumb": "/media/exercises/goblet-squat/thumb.webp"
+  }
+ },
+ {
+  "id": "leg-press",
+  "name": {
+   "ar": "جهاز ضغط الأرجل",
+   "en": "Leg Press"
+  },
+  "primaryMuscles": [
+   "quads",
+   "glutes"
+  ],
+  "secondaryMuscles": [
+   "hamstrings"
+  ],
+  "equipment": "machine",
+  "difficulty": 1,
+  "mechanic": "compound",
+  "defaults": {
+   "sets": 4,
+   "reps": "10-12",
+   "restSec": 90
+  },
+  "steps": [
+   "اجلس وظهرك ملتصق بالمسند.",
+   "حط قدميك على المنصة بعرض الكتف.",
+   "فك القفل ونزّل المنصة لين الركبة 90 درجة.",
+   "ادفع بدون ما تقفل الركبة."
+  ],
+  "mistakes": [
+   "رفع الحوض عن المقعد.",
+   "قفل الركبة بالكامل."
+  ],
+  "breathing": "شهيق وأنت تنزل الوزن، زفير وأنت تدفع أو تسحب.",
+  "alternatives": [
+   "back-squat",
+   "goblet-squat"
+  ],
+  "media": {
+   "video": "/media/exercises/leg-press/video.webm",
+   "videoMp4": "/media/exercises/leg-press/video.mp4",
+   "poster": "/media/exercises/leg-press/poster.webp",
+   "thumb": "/media/exercises/leg-press/thumb.webp"
+  }
+ },
+ {
+  "id": "romanian-deadlift",
+  "name": {
+   "ar": "ديدلفت روماني",
+   "en": "Romanian Deadlift"
+  },
+  "primaryMuscles": [
+   "hamstrings",
+   "glutes"
+  ],
+  "secondaryMuscles": [
+   "lowerBack"
+  ],
+  "equipment": "barbell",
+  "difficulty": 2,
+  "mechanic": "compound",
+  "defaults": {
+   "sets": 3,
+   "reps": "8-10",
+   "restSec": 120
+  },
+  "steps": [
+   "قف والبار أمام فخذيك.",
+   "ادفع حوضك للخلف والركبة مثنية خفيف.",
+   "نزّل البار قريب من رجليك لين تحس بشد في الخلفية.",
+   "ادفع الحوض للأمام وارجع."
+  ],
+  "mistakes": [
+   "تقويس الظهر.",
+   "ثني الركبة كثير فيصير سكوات."
+  ],
+  "breathing": "شهيق وأنت تنزل الوزن، زفير وأنت تدفع أو تسحب.",
+  "alternatives": [
+   "leg-curl",
+   "back-extension"
+  ],
+  "media": {
+   "video": "/media/exercises/romanian-deadlift/video.webm",
+   "videoMp4": "/media/exercises/romanian-deadlift/video.mp4",
+   "poster": "/media/exercises/romanian-deadlift/poster.webp",
+   "thumb": "/media/exercises/romanian-deadlift/thumb.webp"
+  }
+ },
+ {
+  "id": "walking-lunge",
+  "name": {
+   "ar": "طعنات أمامية",
+   "en": "Walking Lunge"
+  },
+  "primaryMuscles": [
+   "quads",
+   "glutes"
+  ],
+  "secondaryMuscles": [
+   "hamstrings",
+   "adductors"
+  ],
+  "equipment": "dumbbell",
+  "difficulty": 2,
+  "mechanic": "compound",
+  "defaults": {
+   "sets": 3,
+   "reps": "10/رجل",
+   "restSec": 75
+  },
+  "steps": [
+   "امسك دمبل بكل يد.",
+   "خذ خطوة واسعة للأمام.",
+   "انزل لين الركبة الخلفية تقترب من الأرض.",
+   "ادفع بالرجل الأمامية وتقدم بالرجل الثانية."
+  ],
+  "mistakes": [
+   "الخطوة قصيرة.",
+   "الركبة تتعدى الأصابع كثير."
+  ],
+  "breathing": "شهيق وأنت تنزل الوزن، زفير وأنت تدفع أو تسحب.",
+  "alternatives": [
+   "bulgarian-split-squat"
+  ],
+  "media": {
+   "video": "/media/exercises/walking-lunge/video.webm",
+   "videoMp4": "/media/exercises/walking-lunge/video.mp4",
+   "poster": "/media/exercises/walking-lunge/poster.webp",
+   "thumb": "/media/exercises/walking-lunge/thumb.webp"
+  }
+ },
+ {
+  "id": "bulgarian-split-squat",
+  "name": {
+   "ar": "سكوات بلغاري",
+   "en": "Bulgarian Split Squat"
+  },
+  "primaryMuscles": [
+   "quads",
+   "glutes"
+  ],
+  "secondaryMuscles": [
+   "adductors"
+  ],
+  "equipment": "dumbbell",
+  "difficulty": 3,
+  "mechanic": "compound",
+  "defaults": {
+   "sets": 3,
+   "reps": "8/رجل",
+   "restSec": 90
+  },
+  "steps": [
+   "حط مشط رجلك الخلفية على البنش.",
+   "الرجل الأمامية خطوة كبيرة للأمام.",
+   "انزل مستقيم لين الفخذ الأمامي موازي للأرض.",
+   "ادفع وارجع."
+  ],
+  "mistakes": [
+   "الرجل الأمامية قريبة جداً من البنش."
+  ],
+  "breathing": "شهيق وأنت تنزل الوزن، زفير وأنت تدفع أو تسحب.",
+  "alternatives": [
+   "walking-lunge"
+  ],
+  "media": {
+   "video": "/media/exercises/bulgarian-split-squat/video.webm",
+   "videoMp4": "/media/exercises/bulgarian-split-squat/video.mp4",
+   "poster": "/media/exercises/bulgarian-split-squat/poster.webp",
+   "thumb": "/media/exercises/bulgarian-split-squat/thumb.webp"
+  }
+ },
+ {
+  "id": "leg-extension",
+  "name": {
+   "ar": "جهاز الرجل الأمامي",
+   "en": "Leg Extension"
+  },
+  "primaryMuscles": [
+   "quads"
+  ],
+  "secondaryMuscles": [],
+  "equipment": "machine",
+  "difficulty": 1,
+  "mechanic": "isolation",
+  "defaults": {
+   "sets": 3,
+   "reps": "12-15",
+   "restSec": 60
+  },
+  "steps": [
+   "اضبط المسند فوق الكاحل.",
+   "امسك المقابض جنبك.",
+   "ارفع رجليك لين تمدها.",
+   "نزّل ببطء."
+  ],
+  "mistakes": [
+   "هز الجسم.",
+   "ترك الوزن ينزل بسرعة."
+  ],
+  "breathing": "زفير وأنت ترفع.",
+  "alternatives": [
+   "goblet-squat"
+  ],
+  "media": {
+   "video": "/media/exercises/leg-extension/video.webm",
+   "videoMp4": "/media/exercises/leg-extension/video.mp4",
+   "poster": "/media/exercises/leg-extension/poster.webp",
+   "thumb": "/media/exercises/leg-extension/thumb.webp"
+  }
+ },
+ {
+  "id": "leg-curl",
+  "name": {
+   "ar": "جهاز الرجل الخلفي",
+   "en": "Leg Curl"
+  },
+  "primaryMuscles": [
+   "hamstrings"
+  ],
+  "secondaryMuscles": [
+   "calves"
+  ],
+  "equipment": "machine",
+  "difficulty": 1,
+  "mechanic": "isolation",
+  "defaults": {
+   "sets": 3,
+   "reps": "12-15",
+   "restSec": 60
+  },
+  "steps": [
+   "استلقِ أو اجلس حسب الجهاز والمسند فوق الكعب.",
+   "اثنِ رجليك للخلف.",
+   "اعصر العضلة الخلفية.",
+   "ارجع ببطء."
+  ],
+  "mistakes": [
+   "رفع الحوض."
+  ],
+  "breathing": "زفير وأنت تثني.",
+  "alternatives": [
+   "romanian-deadlift"
+  ],
+  "media": {
+   "video": "/media/exercises/leg-curl/video.webm",
+   "videoMp4": "/media/exercises/leg-curl/video.mp4",
+   "poster": "/media/exercises/leg-curl/poster.webp",
+   "thumb": "/media/exercises/leg-curl/thumb.webp"
+  }
+ },
+ {
+  "id": "hip-thrust",
+  "name": {
+   "ar": "هيب ثرست",
+   "en": "Hip Thrust"
+  },
+  "primaryMuscles": [
+   "glutes"
+  ],
+  "secondaryMuscles": [
+   "hamstrings"
+  ],
+  "equipment": "barbell",
+  "difficulty": 2,
+  "mechanic": "compound",
+  "defaults": {
+   "sets": 3,
+   "reps": "8-12",
+   "restSec": 90
+  },
+  "steps": [
+   "اسند ظهرك العلوي على البنش والبار فوق حوضك (مع وسادة).",
+   "القدمين بعرض الكتف.",
+   "ادفع حوضك للأعلى لين جسمك يصير مستقيم من الكتف للركبة.",
+   "اعصر المؤخرة فوق ثم نزّل."
+  ],
+  "mistakes": [
+   "تقويس الظهر بدل رفع الحوض."
+  ],
+  "breathing": "زفير وأنت ترفع.",
+  "alternatives": [
+   "romanian-deadlift"
+  ],
+  "media": {
+   "video": "/media/exercises/hip-thrust/video.webm",
+   "videoMp4": "/media/exercises/hip-thrust/video.mp4",
+   "poster": "/media/exercises/hip-thrust/poster.webp",
+   "thumb": "/media/exercises/hip-thrust/thumb.webp"
+  }
+ },
+ {
+  "id": "standing-calf-raise",
+  "name": {
+   "ar": "سمانة واقف",
+   "en": "Standing Calf Raise"
+  },
+  "primaryMuscles": [
+   "calves"
+  ],
+  "secondaryMuscles": [],
+  "equipment": "machine",
+  "difficulty": 1,
+  "mechanic": "isolation",
+  "defaults": {
+   "sets": 4,
+   "reps": "12-20",
+   "restSec": 45
+  },
+  "steps": [
+   "قف ومشط قدميك على الحافة.",
+   "نزّل كعبك لين تحس بتمدد.",
+   "ارفع على أطراف أصابعك لأعلى نقطة.",
+   "وقف ثانية ثم نزّل."
+  ],
+  "mistakes": [
+   "الحركة سريعة وقصيرة."
+  ],
+  "breathing": "تنفس بشكل طبيعي.",
+  "alternatives": [
+   "leg-press"
+  ],
+  "media": {
+   "video": "/media/exercises/standing-calf-raise/video.webm",
+   "videoMp4": "/media/exercises/standing-calf-raise/video.mp4",
+   "poster": "/media/exercises/standing-calf-raise/poster.webp",
+   "thumb": "/media/exercises/standing-calf-raise/thumb.webp"
+  }
+ },
+ {
+  "id": "plank",
+  "name": {
+   "ar": "بلانك",
+   "en": "Plank"
+  },
+  "primaryMuscles": [
+   "abs"
+  ],
+  "secondaryMuscles": [
+   "obliques",
+   "shoulders"
+  ],
+  "equipment": "bodyweight",
+  "difficulty": 1,
+  "mechanic": "isolation",
+  "defaults": {
+   "sets": 3,
+   "reps": "30-60 ث",
+   "restSec": 45
+  },
+  "steps": [
+   "حط ساعديك على الأرض والكوع تحت الكتف.",
+   "مد رجليك وارفع جسمك.",
+   "شد البطن والمؤخرة وخلّ الجسم خط مستقيم.",
+   "اثبت للوقت المطلوب."
+  ],
+  "mistakes": [
+   "نزول الحوض.",
+   "رفع المؤخرة عالي."
+  ],
+  "breathing": "تنفس بهدوء ولا تحبس نفسك.",
+  "alternatives": [
+   "dead-bug"
+  ],
+  "media": {
+   "video": "/media/exercises/plank/video.webm",
+   "videoMp4": "/media/exercises/plank/video.mp4",
+   "poster": "/media/exercises/plank/poster.webp",
+   "thumb": "/media/exercises/plank/thumb.webp"
+  }
+ },
+ {
+  "id": "crunch",
+  "name": {
+   "ar": "كرنش",
+   "en": "Crunch"
+  },
+  "primaryMuscles": [
+   "abs"
+  ],
+  "secondaryMuscles": [],
+  "equipment": "bodyweight",
+  "difficulty": 1,
+  "mechanic": "isolation",
+  "defaults": {
+   "sets": 3,
+   "reps": "15-20",
+   "restSec": 45
+  },
+  "steps": [
+   "استلقِ والركبة مثنية.",
+   "حط يديك على صدرك أو جنب رأسك.",
+   "ارفع كتفيك عن الأرض بشد البطن.",
+   "نزّل ببطء."
+  ],
+  "mistakes": [
+   "سحب الرقبة باليدين."
+  ],
+  "breathing": "زفير وأنت تطلع.",
+  "alternatives": [
+   "cable-crunch"
+  ],
+  "media": {
+   "video": "/media/exercises/crunch/video.webm",
+   "videoMp4": "/media/exercises/crunch/video.mp4",
+   "poster": "/media/exercises/crunch/poster.webp",
+   "thumb": "/media/exercises/crunch/thumb.webp"
+  }
+ },
+ {
+  "id": "hanging-knee-raise",
+  "name": {
+   "ar": "رفع الركبة معلق",
+   "en": "Hanging Knee Raise"
+  },
+  "primaryMuscles": [
+   "abs"
+  ],
+  "secondaryMuscles": [
+   "obliques",
+   "forearms"
+  ],
+  "equipment": "bodyweight",
+  "difficulty": 2,
+  "mechanic": "isolation",
+  "defaults": {
+   "sets": 3,
+   "reps": "10-15",
+   "restSec": 60
+  },
+  "steps": [
+   "علّق نفسك على البار.",
+   "ارفع ركبتيك لصدرك.",
+   "وقف لحظة.",
+   "نزّل ببطء بدون تأرجح."
+  ],
+  "mistakes": [
+   "التأرجح."
+  ],
+  "breathing": "زفير وأنت ترفع.",
+  "alternatives": [
+   "crunch"
+  ],
+  "media": {
+   "video": "/media/exercises/hanging-knee-raise/video.webm",
+   "videoMp4": "/media/exercises/hanging-knee-raise/video.mp4",
+   "poster": "/media/exercises/hanging-knee-raise/poster.webp",
+   "thumb": "/media/exercises/hanging-knee-raise/thumb.webp"
+  }
+ },
+ {
+  "id": "russian-twist",
+  "name": {
+   "ar": "روسيان تويست",
+   "en": "Russian Twist"
+  },
+  "primaryMuscles": [
+   "obliques"
+  ],
+  "secondaryMuscles": [
+   "abs"
+  ],
+  "equipment": "bodyweight",
+  "difficulty": 1,
+  "mechanic": "isolation",
+  "defaults": {
+   "sets": 3,
+   "reps": "20",
+   "restSec": 45
+  },
+  "steps": [
+   "اجلس وميّل جسمك للخلف والركبة مثنية.",
+   "ارفع قدميك عن الأرض (اختياري).",
+   "لف جذعك يمين ويسار.",
+   "خلّ الظهر مستقيم."
+  ],
+  "mistakes": [
+   "تحريك اليدين بس بدون الجذع."
+  ],
+  "breathing": "تنفس مع كل لفة.",
+  "alternatives": [
+   "plank"
+  ],
+  "media": {
+   "video": "/media/exercises/russian-twist/video.webm",
+   "videoMp4": "/media/exercises/russian-twist/video.mp4",
+   "poster": "/media/exercises/russian-twist/poster.webp",
+   "thumb": "/media/exercises/russian-twist/thumb.webp"
+  }
+ },
+ {
+  "id": "cable-crunch",
+  "name": {
+   "ar": "كرنش كيبل",
+   "en": "Cable Crunch"
+  },
+  "primaryMuscles": [
+   "abs"
+  ],
+  "secondaryMuscles": [],
+  "equipment": "cable",
+  "difficulty": 2,
+  "mechanic": "isolation",
+  "defaults": {
+   "sets": 3,
+   "reps": "12-15",
+   "restSec": 60
+  },
+  "steps": [
+   "اركع أمام الكيبل وامسك الحبل جنب رأسك.",
+   "ثبّت حوضك.",
+   "اثنِ جذعك للأسفل بشد البطن.",
+   "ارجع ببطء."
+  ],
+  "mistakes": [
+   "السحب باليدين بدل البطن."
+  ],
+  "breathing": "زفير وأنت تنزل.",
+  "alternatives": [
+   "crunch"
+  ],
+  "media": {
+   "video": "/media/exercises/cable-crunch/video.webm",
+   "videoMp4": "/media/exercises/cable-crunch/video.mp4",
+   "poster": "/media/exercises/cable-crunch/poster.webp",
+   "thumb": "/media/exercises/cable-crunch/thumb.webp"
+  }
+ },
+ {
+  "id": "dead-bug",
+  "name": {
+   "ar": "ديد بق",
+   "en": "Dead Bug"
+  },
+  "primaryMuscles": [
+   "abs"
+  ],
+  "secondaryMuscles": [
+   "obliques"
+  ],
+  "equipment": "bodyweight",
+  "difficulty": 1,
+  "mechanic": "isolation",
+  "defaults": {
+   "sets": 3,
+   "reps": "10/جهة",
+   "restSec": 45
+  },
+  "steps": [
+   "استلقِ وارفع يديك للسقف والركبة 90 درجة.",
+   "الصق أسفل ظهرك بالأرض.",
+   "مد يد ورجل عكسية ببطء.",
+   "ارجع وبدّل."
+  ],
+  "mistakes": [
+   "رفع أسفل الظهر عن الأرض."
+  ],
+  "breathing": "زفير وأنت تمد.",
+  "alternatives": [
+   "plank"
+  ],
+  "media": {
+   "video": "/media/exercises/dead-bug/video.webm",
+   "videoMp4": "/media/exercises/dead-bug/video.mp4",
+   "poster": "/media/exercises/dead-bug/poster.webp",
+   "thumb": "/media/exercises/dead-bug/thumb.webp"
+  }
+ },
+ {
+  "id": "bodyweight-squat",
+  "name": {
+   "ar": "سكوات بوزن الجسم",
+   "en": "Bodyweight Squat"
+  },
+  "primaryMuscles": [
+   "quads",
+   "glutes"
+  ],
+  "secondaryMuscles": [
+   "hamstrings"
+  ],
+  "equipment": "bodyweight",
+  "difficulty": 1,
+  "mechanic": "compound",
+  "defaults": {
+   "sets": 3,
+   "reps": "15-20",
+   "restSec": 60
+  },
+  "steps": [
+   "قف وقدميك بعرض الكتف ويديك أمامك.",
+   "انزل كأنك تجلس على كرسي والصدر مرفوع.",
+   "انزل لين الفخذ موازي للأرض.",
+   "ادفع بالكعب وارجع."
+  ],
+  "mistakes": [
+   "دخول الركبة للداخل.",
+   "رفع الكعب."
+  ],
+  "breathing": "شهيق وأنت تنزل الوزن، زفير وأنت تدفع أو تسحب.",
+  "alternatives": [
+   "goblet-squat",
+   "leg-press"
+  ],
+  "media": {
+   "video": "/media/exercises/bodyweight-squat/video.webm",
+   "videoMp4": "/media/exercises/bodyweight-squat/video.mp4",
+   "poster": "/media/exercises/bodyweight-squat/poster.webp",
+   "thumb": "/media/exercises/bodyweight-squat/thumb.webp"
+  }
+ },
+ {
+  "id": "glute-bridge",
+  "name": {
+   "ar": "جسر المؤخرة",
+   "en": "Glute Bridge"
+  },
+  "primaryMuscles": [
+   "glutes"
+  ],
+  "secondaryMuscles": [
+   "hamstrings",
+   "lowerBack"
+  ],
+  "equipment": "bodyweight",
+  "difficulty": 1,
+  "mechanic": "isolation",
+  "defaults": {
+   "sets": 3,
+   "reps": "15-20",
+   "restSec": 45
+  },
+  "steps": [
+   "استلقِ على ظهرك والركبة مثنية والقدم على الأرض.",
+   "ادفع بالكعب وارفع حوضك.",
+   "اعصر المؤخرة فوق ثانيتين.",
+   "نزّل ببطء."
+  ],
+  "mistakes": [
+   "تقويس الظهر بدل رفع الحوض."
+  ],
+  "breathing": "زفير وأنت ترفع.",
+  "alternatives": [
+   "hip-thrust"
+  ],
+  "media": {
+   "video": "/media/exercises/glute-bridge/video.webm",
+   "videoMp4": "/media/exercises/glute-bridge/video.mp4",
+   "poster": "/media/exercises/glute-bridge/poster.webp",
+   "thumb": "/media/exercises/glute-bridge/thumb.webp"
+  }
+ },
+ {
+  "id": "bodyweight-lunge",
+  "name": {
+   "ar": "طعنات بوزن الجسم",
+   "en": "Bodyweight Reverse Lunge"
+  },
+  "primaryMuscles": [
+   "quads",
+   "glutes"
+  ],
+  "secondaryMuscles": [
+   "hamstrings",
+   "adductors"
+  ],
+  "equipment": "bodyweight",
+  "difficulty": 1,
+  "mechanic": "compound",
+  "defaults": {
+   "sets": 3,
+   "reps": "10/رجل",
+   "restSec": 60
+  },
+  "steps": [
+   "قف ويديك على خصرك.",
+   "ارجع بخطوة كبيرة للخلف.",
+   "انزل لين الركبتين 90 درجة.",
+   "ادفع بالرجل الأمامية وارجع."
+  ],
+  "mistakes": [
+   "الميلان للأمام.",
+   "الخطوة قصيرة."
+  ],
+  "breathing": "شهيق وأنت تنزل الوزن، زفير وأنت تدفع أو تسحب.",
+  "alternatives": [
+   "walking-lunge",
+   "bulgarian-split-squat"
+  ],
+  "media": {
+   "video": "/media/exercises/bodyweight-lunge/video.webm",
+   "videoMp4": "/media/exercises/bodyweight-lunge/video.mp4",
+   "poster": "/media/exercises/bodyweight-lunge/poster.webp",
+   "thumb": "/media/exercises/bodyweight-lunge/thumb.webp"
+  }
+ },
+ {
+  "id": "pike-push-up",
+  "name": {
+   "ar": "ضغط بايك للأكتاف",
+   "en": "Pike Push-Up"
+  },
+  "primaryMuscles": [
+   "shoulders"
+  ],
+  "secondaryMuscles": [
+   "triceps",
+   "traps"
+  ],
+  "equipment": "bodyweight",
+  "difficulty": 2,
+  "mechanic": "compound",
+  "defaults": {
+   "sets": 3,
+   "reps": "8-12",
+   "restSec": 75
+  },
+  "steps": [
+   "ابدأ بوضع الضغط ثم ارفع حوضك لفوق بشكل حرف V مقلوب.",
+   "اثنِ الكوع ونزّل رأسك باتجاه الأرض بين يديك.",
+   "ادفع للأعلى لين تمد ذراعيك.",
+   "خلّ الحوض مرفوع طول الحركة."
+  ],
+  "mistakes": [
+   "نزول الحوض فيتحول لضغط عادي."
+  ],
+  "breathing": "شهيق وأنت تنزل الوزن، زفير وأنت تدفع أو تسحب.",
+  "alternatives": [
+   "dumbbell-shoulder-press"
+  ],
+  "media": {
+   "video": "/media/exercises/pike-push-up/video.webm",
+   "videoMp4": "/media/exercises/pike-push-up/video.mp4",
+   "poster": "/media/exercises/pike-push-up/poster.webp",
+   "thumb": "/media/exercises/pike-push-up/thumb.webp"
+  }
+ },
+ {
+  "id": "superman",
+  "name": {
+   "ar": "سوبرمان",
+   "en": "Superman"
+  },
+  "primaryMuscles": [
+   "lowerBack"
+  ],
+  "secondaryMuscles": [
+   "glutes",
+   "upperBack"
+  ],
+  "equipment": "bodyweight",
+  "difficulty": 1,
+  "mechanic": "isolation",
+  "defaults": {
+   "sets": 3,
+   "reps": "12-15",
+   "restSec": 45
+  },
+  "steps": [
+   "انبطح على بطنك ويديك ممدودة للأمام.",
+   "ارفع يديك وصدرك ورجليك عن الأرض بنفس الوقت.",
+   "اثبت ثانيتين.",
+   "نزّل ببطء."
+  ],
+  "mistakes": [
+   "رفع الرأس لفوق كثير يضغط على الرقبة."
+  ],
+  "breathing": "زفير وأنت ترفع.",
+  "alternatives": [
+   "back-extension"
+  ],
+  "media": {
+   "video": "/media/exercises/superman/video.webm",
+   "videoMp4": "/media/exercises/superman/video.mp4",
+   "poster": "/media/exercises/superman/poster.webp",
+   "thumb": "/media/exercises/superman/thumb.webp"
+  }
+ },
+ {
+  "id": "bodyweight-calf-raise",
+  "name": {
+   "ar": "سمانة بوزن الجسم",
+   "en": "Bodyweight Calf Raise"
+  },
+  "primaryMuscles": [
+   "calves"
+  ],
+  "secondaryMuscles": [],
+  "equipment": "bodyweight",
+  "difficulty": 1,
+  "mechanic": "isolation",
+  "defaults": {
+   "sets": 3,
+   "reps": "15-25",
+   "restSec": 45
+  },
+  "steps": [
+   "قف ومشط قدميك على درجة أو حافة، وامسك الجدار للتوازن.",
+   "نزّل كعبك لين تحس بتمدد.",
+   "ارفع على أطراف أصابعك لأعلى نقطة.",
+   "وقف ثانية ثم نزّل ببطء."
+  ],
+  "mistakes": [
+   "الحركة سريعة وقصيرة."
+  ],
+  "breathing": "تنفس بشكل طبيعي.",
+  "alternatives": [
+   "standing-calf-raise"
+  ],
+  "media": {
+   "video": "/media/exercises/bodyweight-calf-raise/video.webm",
+   "videoMp4": "/media/exercises/bodyweight-calf-raise/video.mp4",
+   "poster": "/media/exercises/bodyweight-calf-raise/poster.webp",
+   "thumb": "/media/exercises/bodyweight-calf-raise/thumb.webp"
+  }
+ },
+ {
+  "id": "single-leg-rdl",
+  "name": {
+   "ar": "ديدلفت روماني برجل وحدة",
+   "en": "Single-Leg Romanian Deadlift"
+  },
+  "primaryMuscles": [
+   "hamstrings",
+   "glutes"
+  ],
+  "secondaryMuscles": [
+   "lowerBack"
+  ],
+  "equipment": "bodyweight",
+  "difficulty": 2,
+  "mechanic": "compound",
+  "defaults": {
+   "sets": 3,
+   "reps": "10/رجل",
+   "restSec": 60
+  },
+  "steps": [
+   "قف على رجل وحدة والركبة مثنية خفيف.",
+   "ميّل جسمك للأمام وارفع الرجل الثانية للخلف بخط مستقيم.",
+   "انزل لين تحس بشد في الفخذ الخلفي والظهر مستقيم.",
+   "ارجع بشد المؤخرة."
+  ],
+  "mistakes": [
+   "لف الحوض للجانب.",
+   "تقويس الظهر."
+  ],
+  "breathing": "شهيق وأنت تنزل الوزن، زفير وأنت تدفع أو تسحب.",
+  "alternatives": [
+   "romanian-deadlift",
+   "glute-bridge"
+  ],
+  "media": {
+   "video": "/media/exercises/single-leg-rdl/video.webm",
+   "videoMp4": "/media/exercises/single-leg-rdl/video.mp4",
+   "poster": "/media/exercises/single-leg-rdl/poster.webp",
+   "thumb": "/media/exercises/single-leg-rdl/thumb.webp"
+  }
+ },
+ {
+  "id": "decline-bench-press",
+  "name": {
+   "ar": "بنش مائل لتحت",
+   "en": "Decline Bench Press"
+  },
+  "primaryMuscles": [
+   "chest"
+  ],
+  "secondaryMuscles": [
+   "triceps",
+   "shoulders"
+  ],
+  "equipment": "barbell",
+  "difficulty": 2,
+  "mechanic": "compound",
+  "defaults": {
+   "sets": 3,
+   "reps": "8-10",
+   "restSec": 90
+  },
+  "steps": [
+   "ثبّت رجليك على البنش المائل لتحت",
+   "انزل البار لأسفل صدرك ببطء",
+   "ادفع للأعلى لين تمد ذراعيك"
+  ],
+  "mistakes": [
+   "نزول البار على الرقبة",
+   "ترتيد البار"
+  ],
+  "breathing": "شهيق وأنت تنزل الوزن، زفير وأنت تدفع أو تسحب.",
+  "alternatives": [
+   "barbell-bench-press",
+   "dumbbell-bench-press"
+  ],
+  "media": {
+   "video": "/media/exercises/decline-bench-press/video.webm",
+   "videoMp4": "/media/exercises/decline-bench-press/video.mp4",
+   "poster": "/media/exercises/decline-bench-press/poster.webp",
+   "thumb": "/media/exercises/decline-bench-press/thumb.webp"
+  }
+ },
+ {
+  "id": "incline-barbell-press",
+  "name": {
+   "ar": "بنش مائل بالبار",
+   "en": "Incline Barbell Press"
+  },
+  "primaryMuscles": [
+   "chest"
+  ],
+  "secondaryMuscles": [
+   "shoulders",
+   "triceps"
+  ],
+  "equipment": "barbell",
+  "difficulty": 2,
+  "mechanic": "compound",
+  "defaults": {
+   "sets": 4,
+   "reps": "6-10",
+   "restSec": 120
+  },
+  "steps": [
+   "اضبط البنش على 30 درجة",
+   "نزّل البار لأعلى صدرك والكوع 45 درجة",
+   "ادفع للأعلى بخط مستقيم"
+  ],
+  "mistakes": [
+   "زاوية عالية تشغل الكتف أكثر",
+   "رفع المؤخرة"
+  ],
+  "breathing": "شهيق وأنت تنزل الوزن، زفير وأنت تدفع أو تسحب.",
+  "alternatives": [
+   "incline-dumbbell-press"
+  ],
+  "media": {
+   "video": "/media/exercises/incline-barbell-press/video.webm",
+   "videoMp4": "/media/exercises/incline-barbell-press/video.mp4",
+   "poster": "/media/exercises/incline-barbell-press/poster.webp",
+   "thumb": "/media/exercises/incline-barbell-press/thumb.webp"
+  }
+ },
+ {
+  "id": "machine-incline-press",
+  "name": {
+   "ar": "جهاز ضغط مائل",
+   "en": "Incline Machine Press"
+  },
+  "primaryMuscles": [
+   "chest"
+  ],
+  "secondaryMuscles": [
+   "shoulders",
+   "triceps"
+  ],
+  "equipment": "machine",
+  "difficulty": 1,
+  "mechanic": "compound",
+  "defaults": {
+   "sets": 3,
+   "reps": "10-12",
+   "restSec": 75
+  },
+  "steps": [
+   "اضبط المقعد بحيث المقابض بأعلى الصدر",
+   "ادفع للأمام والأعلى",
+   "ارجع ببطء بدون ما ترتاح الأوزان"
+  ],
+  "mistakes": [
+   "رفع الكتفين"
+  ],
+  "breathing": "شهيق وأنت تنزل الوزن، زفير وأنت تدفع أو تسحب.",
+  "alternatives": [
+   "incline-dumbbell-press"
+  ],
+  "media": {
+   "video": "/media/exercises/machine-incline-press/video.webm",
+   "videoMp4": "/media/exercises/machine-incline-press/video.mp4",
+   "poster": "/media/exercises/machine-incline-press/poster.webp",
+   "thumb": "/media/exercises/machine-incline-press/thumb.webp"
+  }
+ },
+ {
+  "id": "low-high-cable-fly",
+  "name": {
+   "ar": "تفتيح كيبل من تحت لفوق",
+   "en": "Low-to-High Cable Fly"
+  },
+  "primaryMuscles": [
+   "chest"
+  ],
+  "secondaryMuscles": [
+   "shoulders"
+  ],
+  "equipment": "cable",
+  "difficulty": 2,
+  "mechanic": "isolation",
+  "defaults": {
+   "sets": 3,
+   "reps": "12-15",
+   "restSec": 60
+  },
+  "steps": [
+   "اضبط البكرات تحت وامسك المقابض",
+   "ارفع يديك بقوس لين تتقابل بمستوى الذقن",
+   "نزّل ببطء"
+  ],
+  "mistakes": [
+   "ثني الكوع كثير"
+  ],
+  "breathing": "زفير وقت المجهود، شهيق وأنت ترجع.",
+  "alternatives": [
+   "cable-fly",
+   "pec-deck"
+  ],
+  "media": {
+   "video": "/media/exercises/low-high-cable-fly/video.webm",
+   "videoMp4": "/media/exercises/low-high-cable-fly/video.mp4",
+   "poster": "/media/exercises/low-high-cable-fly/poster.webp",
+   "thumb": "/media/exercises/low-high-cable-fly/thumb.webp"
+  }
+ },
+ {
+  "id": "dumbbell-fly",
+  "name": {
+   "ar": "تفتيح دمبل",
+   "en": "Dumbbell Fly"
+  },
+  "primaryMuscles": [
+   "chest"
+  ],
+  "secondaryMuscles": [
+   "shoulders"
+  ],
+  "equipment": "dumbbell",
+  "difficulty": 2,
+  "mechanic": "isolation",
+  "defaults": {
+   "sets": 3,
+   "reps": "10-12",
+   "restSec": 60
+  },
+  "steps": [
+   "استلقِ والدمبلز فوق صدرك والكوع مثني خفيف",
+   "افتح يديك للجانب لين تحس بتمدد",
+   "اجمعها بنفس القوس"
+  ],
+  "mistakes": [
+   "النزول عميق جداً يضغط على الكتف",
+   "مد الكوع بالكامل"
+  ],
+  "breathing": "شهيق وأنت تنزل الوزن، زفير وأنت تدفع أو تسحب.",
+  "alternatives": [
+   "cable-fly",
+   "pec-deck"
+  ],
+  "media": {
+   "video": "/media/exercises/dumbbell-fly/video.webm",
+   "videoMp4": "/media/exercises/dumbbell-fly/video.mp4",
+   "poster": "/media/exercises/dumbbell-fly/poster.webp",
+   "thumb": "/media/exercises/dumbbell-fly/thumb.webp"
+  }
+ },
+ {
+  "id": "dumbbell-pullover",
+  "name": {
+   "ar": "بول أوفر دمبل",
+   "en": "Dumbbell Pullover"
+  },
+  "primaryMuscles": [
+   "chest",
+   "lats"
+  ],
+  "secondaryMuscles": [
+   "triceps"
+  ],
+  "equipment": "dumbbell",
+  "difficulty": 2,
+  "mechanic": "isolation",
+  "defaults": {
+   "sets": 3,
+   "reps": "10-12",
+   "restSec": 60
+  },
+  "steps": [
+   "استلقِ وامسك دمبل بيديك فوق صدرك",
+   "نزّله خلف رأسك ببطء والكوع مثني خفيف",
+   "ارجعه فوق صدرك"
+  ],
+  "mistakes": [
+   "تقويس الظهر كثير"
+  ],
+  "breathing": "شهيق وأنت تنزل الوزن، زفير وأنت تدفع أو تسحب.",
+  "alternatives": [
+   "straight-arm-pulldown"
+  ],
+  "media": {
+   "video": "/media/exercises/dumbbell-pullover/video.webm",
+   "videoMp4": "/media/exercises/dumbbell-pullover/video.mp4",
+   "poster": "/media/exercises/dumbbell-pullover/poster.webp",
+   "thumb": "/media/exercises/dumbbell-pullover/thumb.webp"
+  }
+ },
+ {
+  "id": "incline-push-up",
+  "name": {
+   "ar": "ضغط مائل (يدينك مرفوعة)",
+   "en": "Incline Push-Up"
+  },
+  "primaryMuscles": [
+   "chest"
+  ],
+  "secondaryMuscles": [
+   "triceps",
+   "shoulders"
+  ],
+  "equipment": "bodyweight",
+  "difficulty": 1,
+  "mechanic": "compound",
+  "defaults": {
+   "sets": 3,
+   "reps": "10-15",
+   "restSec": 45
+  },
+  "steps": [
+   "حط يديك على بنش أو طاولة ثابتة",
+   "جسمك مستقيم والبطن مشدود",
+   "انزل لين صدرك يقرب من الحافة وادفع"
+  ],
+  "mistakes": [
+   "نزول الحوض"
+  ],
+  "breathing": "شهيق وأنت تنزل الوزن، زفير وأنت تدفع أو تسحب.",
+  "alternatives": [
+   "push-up"
+  ],
+  "media": {
+   "video": "/media/exercises/incline-push-up/video.webm",
+   "videoMp4": "/media/exercises/incline-push-up/video.mp4",
+   "poster": "/media/exercises/incline-push-up/poster.webp",
+   "thumb": "/media/exercises/incline-push-up/thumb.webp"
+  }
+ },
+ {
+  "id": "decline-push-up",
+  "name": {
+   "ar": "ضغط مائل (رجلينك مرفوعة)",
+   "en": "Decline Push-Up"
+  },
+  "primaryMuscles": [
+   "chest"
+  ],
+  "secondaryMuscles": [
+   "shoulders",
+   "triceps"
+  ],
+  "equipment": "bodyweight",
+  "difficulty": 2,
+  "mechanic": "compound",
+  "defaults": {
+   "sets": 3,
+   "reps": "8-12",
+   "restSec": 60
+  },
+  "steps": [
+   "حط رجليك على بنش ويديك على الأرض",
+   "انزل بصدرك للأرض",
+   "ادفع وارجع"
+  ],
+  "mistakes": [
+   "رفع الحوض"
+  ],
+  "breathing": "شهيق وأنت تنزل الوزن، زفير وأنت تدفع أو تسحب.",
+  "alternatives": [
+   "push-up",
+   "incline-dumbbell-press"
+  ],
+  "media": {
+   "video": "/media/exercises/decline-push-up/video.webm",
+   "videoMp4": "/media/exercises/decline-push-up/video.mp4",
+   "poster": "/media/exercises/decline-push-up/poster.webp",
+   "thumb": "/media/exercises/decline-push-up/thumb.webp"
+  }
+ },
+ {
+  "id": "diamond-push-up",
+  "name": {
+   "ar": "ضغط الماسة",
+   "en": "Diamond Push-Up"
+  },
+  "primaryMuscles": [
+   "triceps",
+   "chest"
+  ],
+  "secondaryMuscles": [
+   "shoulders"
+  ],
+  "equipment": "bodyweight",
+  "difficulty": 2,
+  "mechanic": "compound",
+  "defaults": {
+   "sets": 3,
+   "reps": "8-12",
+   "restSec": 60
+  },
+  "steps": [
+   "يديك تحت صدرك والأصابع تشكل ماسة",
+   "انزل والكوع قريب من جسمك",
+   "ادفع للأعلى"
+  ],
+  "mistakes": [
+   "فتح الكوع للجانب"
+  ],
+  "breathing": "شهيق وأنت تنزل الوزن، زفير وأنت تدفع أو تسحب.",
+  "alternatives": [
+   "close-grip-bench-press",
+   "push-up"
+  ],
+  "media": {
+   "video": "/media/exercises/diamond-push-up/video.webm",
+   "videoMp4": "/media/exercises/diamond-push-up/video.mp4",
+   "poster": "/media/exercises/diamond-push-up/poster.webp",
+   "thumb": "/media/exercises/diamond-push-up/thumb.webp"
+  }
+ },
+ {
+  "id": "smith-bench-press",
+  "name": {
+   "ar": "بنش على السميث",
+   "en": "Smith Machine Bench Press"
+  },
+  "primaryMuscles": [
+   "chest"
+  ],
+  "secondaryMuscles": [
+   "triceps",
+   "shoulders"
+  ],
+  "equipment": "machine",
+  "difficulty": 1,
+  "mechanic": "compound",
+  "defaults": {
+   "sets": 3,
+   "reps": "8-12",
+   "restSec": 90
+  },
+  "steps": [
+   "استلقِ والبار فوق منتصف صدرك",
+   "فك القفل ونزّل ببطء",
+   "ادفع للأعلى"
+  ],
+  "mistakes": [
+   "البنش في مكان خاطئ تحت البار"
+  ],
+  "breathing": "شهيق وأنت تنزل الوزن، زفير وأنت تدفع أو تسحب.",
+  "alternatives": [
+   "barbell-bench-press"
+  ],
+  "media": {
+   "video": "/media/exercises/smith-bench-press/video.webm",
+   "videoMp4": "/media/exercises/smith-bench-press/video.mp4",
+   "poster": "/media/exercises/smith-bench-press/poster.webp",
+   "thumb": "/media/exercises/smith-bench-press/thumb.webp"
+  }
+ },
+ {
+  "id": "svend-press",
+  "name": {
+   "ar": "سفيند برس",
+   "en": "Svend Press"
+  },
+  "primaryMuscles": [
+   "chest"
+  ],
+  "secondaryMuscles": [
+   "shoulders"
+  ],
+  "equipment": "dumbbell",
+  "difficulty": 1,
+  "mechanic": "isolation",
+  "defaults": {
+   "sets": 3,
+   "reps": "12-15",
+   "restSec": 45
+  },
+  "steps": [
+   "اضغط دمبل خفيف بين كفوفك أمام صدرك",
+   "ادفعه للأمام وأنت تضغط بقوة",
+   "ارجعه لصدرك"
+  ],
+  "mistakes": [
+   "الضغط بين اليدين يخف"
+  ],
+  "breathing": "زفير وقت المجهود، شهيق وأنت ترجع.",
+  "alternatives": [
+   "cable-fly"
+  ],
+  "media": {
+   "video": "/media/exercises/svend-press/video.webm",
+   "videoMp4": "/media/exercises/svend-press/video.mp4",
+   "poster": "/media/exercises/svend-press/poster.webp",
+   "thumb": "/media/exercises/svend-press/thumb.webp"
+  }
+ },
+ {
+  "id": "high-cable-crossover",
+  "name": {
+   "ar": "كيبل كروس من فوق",
+   "en": "High Cable Crossover"
+  },
+  "primaryMuscles": [
+   "chest"
+  ],
+  "secondaryMuscles": [
+   "shoulders"
+  ],
+  "equipment": "cable",
+  "difficulty": 1,
+  "mechanic": "isolation",
+  "defaults": {
+   "sets": 3,
+   "reps": "12-15",
+   "restSec": 60
+  },
+  "steps": [
+   "اضبط البكرات فوق وامسك المقابض",
+   "انزل يديك بقوس لأسفل وقدام",
+   "اعصر الصدر ثم ارجع ببطء"
+  ],
+  "mistakes": [
+   "هز الجسم"
+  ],
+  "breathing": "زفير وقت المجهود، شهيق وأنت ترجع.",
+  "alternatives": [
+   "cable-fly",
+   "pec-deck"
+  ],
+  "media": {
+   "video": "/media/exercises/high-cable-crossover/video.webm",
+   "videoMp4": "/media/exercises/high-cable-crossover/video.mp4",
+   "poster": "/media/exercises/high-cable-crossover/poster.webp",
+   "thumb": "/media/exercises/high-cable-crossover/thumb.webp"
+  }
+ },
+ {
+  "id": "dumbbell-floor-press",
+  "name": {
+   "ar": "ضغط دمبل على الأرض",
+   "en": "Dumbbell Floor Press"
+  },
+  "primaryMuscles": [
+   "chest"
+  ],
+  "secondaryMuscles": [
+   "triceps"
+  ],
+  "equipment": "dumbbell",
+  "difficulty": 1,
+  "mechanic": "compound",
+  "defaults": {
+   "sets": 3,
+   "reps": "8-12",
+   "restSec": 75
+  },
+  "steps": [
+   "استلقِ على الأرض والركبة مثنية",
+   "انزل الدمبلز لين الكوع يلمس الأرض بخفة",
+   "ادفع للأعلى"
+  ],
+  "mistakes": [
+   "ترطيم الكوع بالأرض"
+  ],
+  "breathing": "شهيق وأنت تنزل الوزن، زفير وأنت تدفع أو تسحب.",
+  "alternatives": [
+   "dumbbell-bench-press"
+  ],
+  "media": {
+   "video": "/media/exercises/dumbbell-floor-press/video.webm",
+   "videoMp4": "/media/exercises/dumbbell-floor-press/video.mp4",
+   "poster": "/media/exercises/dumbbell-floor-press/poster.webp",
+   "thumb": "/media/exercises/dumbbell-floor-press/thumb.webp"
+  }
+ },
+ {
+  "id": "chin-up",
+  "name": {
+   "ar": "عقلة قبضة عكسية",
+   "en": "Chin-Up"
+  },
+  "primaryMuscles": [
+   "lats",
+   "biceps"
+  ],
+  "secondaryMuscles": [
+   "upperBack"
+  ],
+  "equipment": "bodyweight",
+  "difficulty": 3,
+  "mechanic": "compound",
+  "defaults": {
+   "sets": 3,
+   "reps": "5-10",
+   "restSec": 120
+  },
+  "steps": [
+   "امسك البار والكفوف باتجاهك بعرض الكتف",
+   "اسحب جسمك لين ذقنك فوق البار",
+   "انزل ببطء بالكامل"
+  ],
+  "mistakes": [
+   "التأرجح",
+   "نصف الحركة"
+  ],
+  "breathing": "زفير وقت المجهود، شهيق وأنت ترجع.",
+  "alternatives": [
+   "assisted-pull-up",
+   "lat-pulldown"
+  ],
+  "media": {
+   "video": "/media/exercises/chin-up/video.webm",
+   "videoMp4": "/media/exercises/chin-up/video.mp4",
+   "poster": "/media/exercises/chin-up/poster.webp",
+   "thumb": "/media/exercises/chin-up/thumb.webp"
+  }
+ },
+ {
+  "id": "inverted-row",
+  "name": {
+   "ar": "تجديف معكوس",
+   "en": "Inverted Row"
+  },
+  "primaryMuscles": [
+   "upperBack",
+   "lats"
+  ],
+  "secondaryMuscles": [
+   "biceps"
+  ],
+  "equipment": "bodyweight",
+  "difficulty": 2,
+  "mechanic": "compound",
+  "defaults": {
+   "sets": 3,
+   "reps": "8-12",
+   "restSec": 75
+  },
+  "steps": [
+   "علّق نفسك تحت بار منخفض أو طاولة متينة",
+   "جسمك مستقيم",
+   "اسحب صدرك للبار ثم انزل"
+  ],
+  "mistakes": [
+   "نزول الحوض"
+  ],
+  "breathing": "زفير وقت المجهود، شهيق وأنت ترجع.",
+  "alternatives": [
+   "seated-cable-row",
+   "dumbbell-row"
+  ],
+  "media": {
+   "video": "/media/exercises/inverted-row/video.webm",
+   "videoMp4": "/media/exercises/inverted-row/video.mp4",
+   "poster": "/media/exercises/inverted-row/poster.webp",
+   "thumb": "/media/exercises/inverted-row/thumb.webp"
+  }
+ },
+ {
+  "id": "chest-supported-row",
+  "name": {
+   "ar": "تجديف دمبل على بنش مائل",
+   "en": "Chest-Supported Row"
+  },
+  "primaryMuscles": [
+   "upperBack",
+   "lats"
+  ],
+  "secondaryMuscles": [
+   "biceps"
+  ],
+  "equipment": "dumbbell",
+  "difficulty": 1,
+  "mechanic": "compound",
+  "defaults": {
+   "sets": 3,
+   "reps": "10-12",
+   "restSec": 75
+  },
+  "steps": [
+   "انبطح على بنش مائل والدمبلز تحتك",
+   "اسحب الدمبلز لخصرك واعصر لوحي الكتف",
+   "نزّل ببطء"
+  ],
+  "mistakes": [
+   "رفع الصدر عن البنش"
+  ],
+  "breathing": "زفير وقت المجهود، شهيق وأنت ترجع.",
+  "alternatives": [
+   "dumbbell-row",
+   "seated-cable-row"
+  ],
+  "media": {
+   "video": "/media/exercises/chest-supported-row/video.webm",
+   "videoMp4": "/media/exercises/chest-supported-row/video.mp4",
+   "poster": "/media/exercises/chest-supported-row/poster.webp",
+   "thumb": "/media/exercises/chest-supported-row/thumb.webp"
+  }
+ },
+ {
+  "id": "machine-row",
+  "name": {
+   "ar": "جهاز التجديف",
+   "en": "Machine Row"
+  },
+  "primaryMuscles": [
+   "upperBack",
+   "lats"
+  ],
+  "secondaryMuscles": [
+   "biceps"
+  ],
+  "equipment": "machine",
+  "difficulty": 1,
+  "mechanic": "compound",
+  "defaults": {
+   "sets": 3,
+   "reps": "10-12",
+   "restSec": 75
+  },
+  "steps": [
+   "اضبط المقعد وصدرك على المسند",
+   "اسحب المقابض لجسمك",
+   "ارجع ببطء"
+  ],
+  "mistakes": [
+   "هز الجسم"
+  ],
+  "breathing": "زفير وقت المجهود، شهيق وأنت ترجع.",
+  "alternatives": [
+   "seated-cable-row"
+  ],
+  "media": {
+   "video": "/media/exercises/machine-row/video.webm",
+   "videoMp4": "/media/exercises/machine-row/video.mp4",
+   "poster": "/media/exercises/machine-row/poster.webp",
+   "thumb": "/media/exercises/machine-row/thumb.webp"
+  }
+ },
+ {
+  "id": "close-grip-pulldown",
+  "name": {
+   "ar": "سحب أمامي قبضة ضيقة",
+   "en": "Close-Grip Pulldown"
+  },
+  "primaryMuscles": [
+   "lats"
+  ],
+  "secondaryMuscles": [
+   "biceps"
+  ],
+  "equipment": "cable",
+  "difficulty": 1,
+  "mechanic": "compound",
+  "defaults": {
+   "sets": 3,
+   "reps": "10-12",
+   "restSec": 75
+  },
+  "steps": [
+   "امسك المقبض الضيق (V)",
+   "اسحب لأعلى صدرك والكوع لتحت",
+   "ارجع ببطء"
+  ],
+  "mistakes": [
+   "الرجوع للخلف كثير"
+  ],
+  "breathing": "زفير وقت المجهود، شهيق وأنت ترجع.",
+  "alternatives": [
+   "lat-pulldown"
+  ],
+  "media": {
+   "video": "/media/exercises/close-grip-pulldown/video.webm",
+   "videoMp4": "/media/exercises/close-grip-pulldown/video.mp4",
+   "poster": "/media/exercises/close-grip-pulldown/poster.webp",
+   "thumb": "/media/exercises/close-grip-pulldown/thumb.webp"
+  }
+ },
+ {
+  "id": "single-arm-cable-row",
+  "name": {
+   "ar": "تجديف كيبل بيد وحدة",
+   "en": "Single-Arm Cable Row"
+  },
+  "primaryMuscles": [
+   "lats",
+   "upperBack"
+  ],
+  "secondaryMuscles": [
+   "biceps"
+  ],
+  "equipment": "cable",
+  "difficulty": 1,
+  "mechanic": "compound",
+  "defaults": {
+   "sets": 3,
+   "reps": "10-12/جهة",
+   "restSec": 60
+  },
+  "steps": [
+   "اضبط الكيبل بمستوى الصدر",
+   "اسحب المقبض لخصرك",
+   "ارجع ومد ذراعك"
+  ],
+  "mistakes": [
+   "لف الجسم كثير"
+  ],
+  "breathing": "زفير وقت المجهود، شهيق وأنت ترجع.",
+  "alternatives": [
+   "dumbbell-row"
+  ],
+  "media": {
+   "video": "/media/exercises/single-arm-cable-row/video.webm",
+   "videoMp4": "/media/exercises/single-arm-cable-row/video.mp4",
+   "poster": "/media/exercises/single-arm-cable-row/poster.webp",
+   "thumb": "/media/exercises/single-arm-cable-row/thumb.webp"
+  }
+ },
+ {
+  "id": "pendlay-row",
+  "name": {
+   "ar": "تجديف بندلاي",
+   "en": "Pendlay Row"
+  },
+  "primaryMuscles": [
+   "upperBack",
+   "lats"
+  ],
+  "secondaryMuscles": [
+   "lowerBack",
+   "biceps"
+  ],
+  "equipment": "barbell",
+  "difficulty": 3,
+  "mechanic": "compound",
+  "defaults": {
+   "sets": 4,
+   "reps": "5-8",
+   "restSec": 120
+  },
+  "steps": [
+   "ميّل جسمك لين يكون موازي للأرض والبار على الأرض",
+   "اسحب البار بقوة لبطنك",
+   "رجّعه للأرض كل تكرار"
+  ],
+  "mistakes": [
+   "تقويس الظهر"
+  ],
+  "breathing": "زفير وقت المجهود، شهيق وأنت ترجع.",
+  "alternatives": [
+   "barbell-row"
+  ],
+  "media": {
+   "video": "/media/exercises/pendlay-row/video.webm",
+   "videoMp4": "/media/exercises/pendlay-row/video.mp4",
+   "poster": "/media/exercises/pendlay-row/poster.webp",
+   "thumb": "/media/exercises/pendlay-row/thumb.webp"
+  }
+ },
+ {
+  "id": "rack-pull",
+  "name": {
+   "ar": "راك بول",
+   "en": "Rack Pull"
+  },
+  "primaryMuscles": [
+   "lowerBack",
+   "traps"
+  ],
+  "secondaryMuscles": [
+   "glutes",
+   "hamstrings",
+   "forearms"
+  ],
+  "equipment": "barbell",
+  "difficulty": 2,
+  "mechanic": "compound",
+  "defaults": {
+   "sets": 3,
+   "reps": "5-8",
+   "restSec": 150
+  },
+  "steps": [
+   "حط البار على الحامل بمستوى الركبة",
+   "امسكه والظهر مستقيم",
+   "اسحب لين تقف وتقفل الحوض"
+  ],
+  "mistakes": [
+   "تقويس الظهر"
+  ],
+  "breathing": "زفير وقت المجهود، شهيق وأنت ترجع.",
+  "alternatives": [
+   "deadlift"
+  ],
+  "media": {
+   "video": "/media/exercises/rack-pull/video.webm",
+   "videoMp4": "/media/exercises/rack-pull/video.mp4",
+   "poster": "/media/exercises/rack-pull/poster.webp",
+   "thumb": "/media/exercises/rack-pull/thumb.webp"
+  }
+ },
+ {
+  "id": "good-morning",
+  "name": {
+   "ar": "جود مورننق",
+   "en": "Good Morning"
+  },
+  "primaryMuscles": [
+   "hamstrings",
+   "lowerBack"
+  ],
+  "secondaryMuscles": [
+   "glutes"
+  ],
+  "equipment": "barbell",
+  "difficulty": 2,
+  "mechanic": "compound",
+  "defaults": {
+   "sets": 3,
+   "reps": "8-10",
+   "restSec": 90
+  },
+  "steps": [
+   "البار على ظهرك والركبة مثنية خفيف",
+   "ادفع حوضك للخلف وميّل جسمك",
+   "ارجع بشد المؤخرة"
+  ],
+  "mistakes": [
+   "تقويس الظهر",
+   "وزن ثقيل"
+  ],
+  "breathing": "شهيق وأنت تنزل الوزن، زفير وأنت تدفع أو تسحب.",
+  "alternatives": [
+   "romanian-deadlift"
+  ],
+  "media": {
+   "video": "/media/exercises/good-morning/video.webm",
+   "videoMp4": "/media/exercises/good-morning/video.mp4",
+   "poster": "/media/exercises/good-morning/poster.webp",
+   "thumb": "/media/exercises/good-morning/thumb.webp"
+  }
+ },
+ {
+  "id": "cable-pullover",
+  "name": {
+   "ar": "بول أوفر كيبل",
+   "en": "Cable Pullover"
+  },
+  "primaryMuscles": [
+   "lats"
+  ],
+  "secondaryMuscles": [
+   "triceps"
+  ],
+  "equipment": "cable",
+  "difficulty": 1,
+  "mechanic": "isolation",
+  "defaults": {
+   "sets": 3,
+   "reps": "12-15",
+   "restSec": 60
+  },
+  "steps": [
+   "امسك الحبل والكيبل فوق",
+   "انزل يديك لفخذيك بقوس",
+   "ارجع ببطء"
+  ],
+  "mistakes": [
+   "ثني الكوع كثير"
+  ],
+  "breathing": "زفير وقت المجهود، شهيق وأنت ترجع.",
+  "alternatives": [
+   "straight-arm-pulldown"
+  ],
+  "media": {
+   "video": "/media/exercises/cable-pullover/video.webm",
+   "videoMp4": "/media/exercises/cable-pullover/video.mp4",
+   "poster": "/media/exercises/cable-pullover/poster.webp",
+   "thumb": "/media/exercises/cable-pullover/thumb.webp"
+  }
+ },
+ {
+  "id": "reverse-grip-pulldown",
+  "name": {
+   "ar": "سحب أمامي قبضة عكسية",
+   "en": "Reverse-Grip Pulldown"
+  },
+  "primaryMuscles": [
+   "lats"
+  ],
+  "secondaryMuscles": [
+   "biceps"
+  ],
+  "equipment": "cable",
+  "difficulty": 1,
+  "mechanic": "compound",
+  "defaults": {
+   "sets": 3,
+   "reps": "10-12",
+   "restSec": 75
+  },
+  "steps": [
+   "امسك البار والكفوف باتجاهك",
+   "اسحب لأعلى صدرك",
+   "ارجع ببطء"
+  ],
+  "mistakes": [
+   "السحب بالذراع بس"
+  ],
+  "breathing": "زفير وقت المجهود، شهيق وأنت ترجع.",
+  "alternatives": [
+   "lat-pulldown"
+  ],
+  "media": {
+   "video": "/media/exercises/reverse-grip-pulldown/video.webm",
+   "videoMp4": "/media/exercises/reverse-grip-pulldown/video.mp4",
+   "poster": "/media/exercises/reverse-grip-pulldown/poster.webp",
+   "thumb": "/media/exercises/reverse-grip-pulldown/thumb.webp"
+  }
+ },
+ {
+  "id": "bird-dog",
+  "name": {
+   "ar": "بيرد دوق",
+   "en": "Bird Dog"
+  },
+  "primaryMuscles": [
+   "lowerBack",
+   "abs"
+  ],
+  "secondaryMuscles": [
+   "glutes"
+  ],
+  "equipment": "bodyweight",
+  "difficulty": 1,
+  "mechanic": "isolation",
+  "defaults": {
+   "sets": 3,
+   "reps": "10/جهة",
+   "restSec": 45
+  },
+  "steps": [
+   "على يديك وركبك والظهر مستقيم",
+   "مد يد ورجل عكسية",
+   "ثبّت ثانيتين وبدّل"
+  ],
+  "mistakes": [
+   "لف الحوض"
+  ],
+  "breathing": "زفير وقت المجهود، شهيق وأنت ترجع.",
+  "alternatives": [
+   "dead-bug",
+   "superman"
+  ],
+  "media": {
+   "video": "/media/exercises/bird-dog/video.webm",
+   "videoMp4": "/media/exercises/bird-dog/video.mp4",
+   "poster": "/media/exercises/bird-dog/poster.webp",
+   "thumb": "/media/exercises/bird-dog/thumb.webp"
+  }
+ },
+ {
+  "id": "single-arm-pulldown",
+  "name": {
+   "ar": "سحب أمامي بيد وحدة",
+   "en": "Single-Arm Pulldown"
+  },
+  "primaryMuscles": [
+   "lats"
+  ],
+  "secondaryMuscles": [
+   "biceps"
+  ],
+  "equipment": "cable",
+  "difficulty": 2,
+  "mechanic": "isolation",
+  "defaults": {
+   "sets": 3,
+   "reps": "10-12/جهة",
+   "restSec": 60
+  },
+  "steps": [
+   "امسك المقبض بيد وحدة فوق",
+   "اسحب الكوع لجنبك",
+   "ارجع بالكامل"
+  ],
+  "mistakes": [
+   "لف الجسم"
+  ],
+  "breathing": "زفير وقت المجهود، شهيق وأنت ترجع.",
+  "alternatives": [
+   "lat-pulldown"
+  ],
+  "media": {
+   "video": "/media/exercises/single-arm-pulldown/video.webm",
+   "videoMp4": "/media/exercises/single-arm-pulldown/video.mp4",
+   "poster": "/media/exercises/single-arm-pulldown/poster.webp",
+   "thumb": "/media/exercises/single-arm-pulldown/thumb.webp"
+  }
+ },
+ {
+  "id": "renegade-row",
+  "name": {
+   "ar": "رينيقيد رو",
+   "en": "Renegade Row"
+  },
+  "primaryMuscles": [
+   "upperBack",
+   "lats"
+  ],
+  "secondaryMuscles": [
+   "abs",
+   "shoulders"
+  ],
+  "equipment": "dumbbell",
+  "difficulty": 3,
+  "mechanic": "compound",
+  "defaults": {
+   "sets": 3,
+   "reps": "8/جهة",
+   "restSec": 75
+  },
+  "steps": [
+   "وضعية الضغط ويديك على دمبلز",
+   "اسحب دمبل لخصرك وثبّت جسمك",
+   "بدّل الجهة"
+  ],
+  "mistakes": [
+   "لف الحوض"
+  ],
+  "breathing": "زفير وقت المجهود، شهيق وأنت ترجع.",
+  "alternatives": [
+   "dumbbell-row"
+  ],
+  "media": {
+   "video": "/media/exercises/renegade-row/video.webm",
+   "videoMp4": "/media/exercises/renegade-row/video.mp4",
+   "poster": "/media/exercises/renegade-row/poster.webp",
+   "thumb": "/media/exercises/renegade-row/thumb.webp"
+  }
+ },
+ {
+  "id": "arnold-press",
+  "name": {
+   "ar": "ضغط أرنولد",
+   "en": "Arnold Press"
+  },
+  "primaryMuscles": [
+   "shoulders"
+  ],
+  "secondaryMuscles": [
+   "triceps"
+  ],
+  "equipment": "dumbbell",
+  "difficulty": 2,
+  "mechanic": "compound",
+  "defaults": {
+   "sets": 3,
+   "reps": "8-12",
+   "restSec": 75
+  },
+  "steps": [
+   "ابدأ والدمبلز أمام وجهك والكفوف لك",
+   "لف الكفوف للخارج وأنت تدفع فوق",
+   "ارجع بنفس الحركة"
+  ],
+  "mistakes": [
+   "تقويس الظهر"
+  ],
+  "breathing": "شهيق وأنت تنزل الوزن، زفير وأنت تدفع أو تسحب.",
+  "alternatives": [
+   "dumbbell-shoulder-press"
+  ],
+  "media": {
+   "video": "/media/exercises/arnold-press/video.webm",
+   "videoMp4": "/media/exercises/arnold-press/video.mp4",
+   "poster": "/media/exercises/arnold-press/poster.webp",
+   "thumb": "/media/exercises/arnold-press/thumb.webp"
+  }
+ },
+ {
+  "id": "machine-shoulder-press",
+  "name": {
+   "ar": "جهاز ضغط الأكتاف",
+   "en": "Machine Shoulder Press"
+  },
+  "primaryMuscles": [
+   "shoulders"
+  ],
+  "secondaryMuscles": [
+   "triceps"
+  ],
+  "equipment": "machine",
+  "difficulty": 1,
+  "mechanic": "compound",
+  "defaults": {
+   "sets": 3,
+   "reps": "10-12",
+   "restSec": 75
+  },
+  "steps": [
+   "اضبط المقعد والمقابض بمستوى الكتف",
+   "ادفع للأعلى",
+   "نزّل ببطء"
+  ],
+  "mistakes": [
+   "رفع الظهر عن المسند"
+  ],
+  "breathing": "شهيق وأنت تنزل الوزن، زفير وأنت تدفع أو تسحب.",
+  "alternatives": [
+   "dumbbell-shoulder-press"
+  ],
+  "media": {
+   "video": "/media/exercises/machine-shoulder-press/video.webm",
+   "videoMp4": "/media/exercises/machine-shoulder-press/video.mp4",
+   "poster": "/media/exercises/machine-shoulder-press/poster.webp",
+   "thumb": "/media/exercises/machine-shoulder-press/thumb.webp"
+  }
+ },
+ {
+  "id": "cable-lateral-raise",
+  "name": {
+   "ar": "رفرفة جانبي كيبل",
+   "en": "Cable Lateral Raise"
+  },
+  "primaryMuscles": [
+   "shoulders"
+  ],
+  "secondaryMuscles": [],
+  "equipment": "cable",
+  "difficulty": 2,
+  "mechanic": "isolation",
+  "defaults": {
+   "sets": 3,
+   "reps": "12-15/جهة",
+   "restSec": 45
+  },
+  "steps": [
+   "قف جنب الكيبل وامسكه باليد البعيدة",
+   "ارفع ذراعك للجانب لين الكتف",
+   "نزّل ببطء"
+  ],
+  "mistakes": [
+   "هز الجسم"
+  ],
+  "breathing": "زفير وقت المجهود، شهيق وأنت ترجع.",
+  "alternatives": [
+   "lateral-raise"
+  ],
+  "media": {
+   "video": "/media/exercises/cable-lateral-raise/video.webm",
+   "videoMp4": "/media/exercises/cable-lateral-raise/video.mp4",
+   "poster": "/media/exercises/cable-lateral-raise/poster.webp",
+   "thumb": "/media/exercises/cable-lateral-raise/thumb.webp"
+  }
+ },
+ {
+  "id": "reverse-pec-deck",
+  "name": {
+   "ar": "فراشة عكسي",
+   "en": "Reverse Pec Deck"
+  },
+  "primaryMuscles": [
+   "shoulders"
+  ],
+  "secondaryMuscles": [
+   "upperBack"
+  ],
+  "equipment": "machine",
+  "difficulty": 1,
+  "mechanic": "isolation",
+  "defaults": {
+   "sets": 3,
+   "reps": "12-15",
+   "restSec": 60
+  },
+  "steps": [
+   "اجلس ووجهك للجهاز",
+   "افتح يديك للخلف والكوع مثني خفيف",
+   "ارجع ببطء"
+  ],
+  "mistakes": [
+   "السحب بالظهر"
+  ],
+  "breathing": "زفير وقت المجهود، شهيق وأنت ترجع.",
+  "alternatives": [
+   "rear-delt-fly",
+   "face-pull"
+  ],
+  "media": {
+   "video": "/media/exercises/reverse-pec-deck/video.webm",
+   "videoMp4": "/media/exercises/reverse-pec-deck/video.mp4",
+   "poster": "/media/exercises/reverse-pec-deck/poster.webp",
+   "thumb": "/media/exercises/reverse-pec-deck/thumb.webp"
+  }
+ },
+ {
+  "id": "landmine-press",
+  "name": {
+   "ar": "لاندماين برس",
+   "en": "Landmine Press"
+  },
+  "primaryMuscles": [
+   "shoulders",
+   "chest"
+  ],
+  "secondaryMuscles": [
+   "triceps"
+  ],
+  "equipment": "barbell",
+  "difficulty": 2,
+  "mechanic": "compound",
+  "defaults": {
+   "sets": 3,
+   "reps": "8-10/جهة",
+   "restSec": 75
+  },
+  "steps": [
+   "حط طرف البار بزاوية وامسك الطرف الثاني بيد",
+   "ادفعه للأعلى والأمام",
+   "نزّله لكتفك"
+  ],
+  "mistakes": [
+   "تقويس الظهر"
+  ],
+  "breathing": "شهيق وأنت تنزل الوزن، زفير وأنت تدفع أو تسحب.",
+  "alternatives": [
+   "dumbbell-shoulder-press"
+  ],
+  "media": {
+   "video": "/media/exercises/landmine-press/video.webm",
+   "videoMp4": "/media/exercises/landmine-press/video.mp4",
+   "poster": "/media/exercises/landmine-press/poster.webp",
+   "thumb": "/media/exercises/landmine-press/thumb.webp"
+  }
+ },
+ {
+  "id": "incline-y-raise",
+  "name": {
+   "ar": "رفع Y على بنش مائل",
+   "en": "Incline Y-Raise"
+  },
+  "primaryMuscles": [
+   "shoulders"
+  ],
+  "secondaryMuscles": [
+   "upperBack",
+   "traps"
+  ],
+  "equipment": "dumbbell",
+  "difficulty": 1,
+  "mechanic": "isolation",
+  "defaults": {
+   "sets": 3,
+   "reps": "12-15",
+   "restSec": 45
+  },
+  "steps": [
+   "انبطح على بنش مائل ودمبلز خفيفة",
+   "ارفع يديك بشكل حرف Y",
+   "نزّل ببطء"
+  ],
+  "mistakes": [
+   "وزن ثقيل"
+  ],
+  "breathing": "زفير وقت المجهود، شهيق وأنت ترجع.",
+  "alternatives": [
+   "face-pull"
+  ],
+  "media": {
+   "video": "/media/exercises/incline-y-raise/video.webm",
+   "videoMp4": "/media/exercises/incline-y-raise/video.mp4",
+   "poster": "/media/exercises/incline-y-raise/poster.webp",
+   "thumb": "/media/exercises/incline-y-raise/thumb.webp"
+  }
+ },
+ {
+  "id": "barbell-shrug",
+  "name": {
+   "ar": "ترابيس بار",
+   "en": "Barbell Shrug"
+  },
+  "primaryMuscles": [
+   "traps"
+  ],
+  "secondaryMuscles": [
+   "forearms"
+  ],
+  "equipment": "barbell",
+  "difficulty": 1,
+  "mechanic": "isolation",
+  "defaults": {
+   "sets": 3,
+   "reps": "10-15",
+   "restSec": 60
+  },
+  "steps": [
+   "امسك البار أمام فخذيك",
+   "ارفع كتفيك لأذنيك",
+   "نزّل ببطء"
+  ],
+  "mistakes": [
+   "تدوير الكتفين"
+  ],
+  "breathing": "زفير وقت المجهود، شهيق وأنت ترجع.",
+  "alternatives": [
+   "shrug"
+  ],
+  "media": {
+   "video": "/media/exercises/barbell-shrug/video.webm",
+   "videoMp4": "/media/exercises/barbell-shrug/video.mp4",
+   "poster": "/media/exercises/barbell-shrug/poster.webp",
+   "thumb": "/media/exercises/barbell-shrug/thumb.webp"
+  }
+ },
+ {
+  "id": "cable-rear-delt-fly",
+  "name": {
+   "ar": "رفرفة خلفي كيبل",
+   "en": "Cable Rear Delt Fly"
+  },
+  "primaryMuscles": [
+   "shoulders"
+  ],
+  "secondaryMuscles": [
+   "upperBack"
+  ],
+  "equipment": "cable",
+  "difficulty": 2,
+  "mechanic": "isolation",
+  "defaults": {
+   "sets": 3,
+   "reps": "12-15",
+   "restSec": 45
+  },
+  "steps": [
+   "اضبط الكيبلين بمستوى الكتف وتقاطع يديك",
+   "افتح يديك للخلف",
+   "ارجع ببطء"
+  ],
+  "mistakes": [
+   "ثني الكوع كثير"
+  ],
+  "breathing": "زفير وقت المجهود، شهيق وأنت ترجع.",
+  "alternatives": [
+   "rear-delt-fly",
+   "face-pull"
+  ],
+  "media": {
+   "video": "/media/exercises/cable-rear-delt-fly/video.webm",
+   "videoMp4": "/media/exercises/cable-rear-delt-fly/video.mp4",
+   "poster": "/media/exercises/cable-rear-delt-fly/poster.webp",
+   "thumb": "/media/exercises/cable-rear-delt-fly/thumb.webp"
+  }
+ },
+ {
+  "id": "seated-lateral-raise",
+  "name": {
+   "ar": "رفرفة جانبي جالس",
+   "en": "Seated Lateral Raise"
+  },
+  "primaryMuscles": [
+   "shoulders"
+  ],
+  "secondaryMuscles": [],
+  "equipment": "dumbbell",
+  "difficulty": 1,
+  "mechanic": "isolation",
+  "defaults": {
+   "sets": 3,
+   "reps": "12-15",
+   "restSec": 45
+  },
+  "steps": [
+   "اجلس على طرف البنش والدمبلز جنبك",
+   "ارفعها للجانب لين الكتف",
+   "نزّل ببطء"
+  ],
+  "mistakes": [
+   "رفع الكتفين"
+  ],
+  "breathing": "زفير وقت المجهود، شهيق وأنت ترجع.",
+  "alternatives": [
+   "lateral-raise"
+  ],
+  "media": {
+   "video": "/media/exercises/seated-lateral-raise/video.webm",
+   "videoMp4": "/media/exercises/seated-lateral-raise/video.mp4",
+   "poster": "/media/exercises/seated-lateral-raise/poster.webp",
+   "thumb": "/media/exercises/seated-lateral-raise/thumb.webp"
+  }
+ },
+ {
+  "id": "push-press",
+  "name": {
+   "ar": "بوش برس",
+   "en": "Push Press"
+  },
+  "primaryMuscles": [
+   "shoulders"
+  ],
+  "secondaryMuscles": [
+   "triceps",
+   "quads"
+  ],
+  "equipment": "barbell",
+  "difficulty": 3,
+  "mechanic": "compound",
+  "defaults": {
+   "sets": 3,
+   "reps": "5-8",
+   "restSec": 120
+  },
+  "steps": [
+   "البار على أعلى صدرك",
+   "انزل ربع سكوات بسرعة",
+   "ادفع برجليك والبار فوق رأسك"
+  ],
+  "mistakes": [
+   "تقويس الظهر"
+  ],
+  "breathing": "شهيق وأنت تنزل الوزن، زفير وأنت تدفع أو تسحب.",
+  "alternatives": [
+   "overhead-press"
+  ],
+  "media": {
+   "video": "/media/exercises/push-press/video.webm",
+   "videoMp4": "/media/exercises/push-press/video.mp4",
+   "poster": "/media/exercises/push-press/poster.webp",
+   "thumb": "/media/exercises/push-press/thumb.webp"
+  }
+ },
+ {
+  "id": "ez-bar-curl",
+  "name": {
+   "ar": "بايسبس بار EZ",
+   "en": "EZ-Bar Curl"
+  },
+  "primaryMuscles": [
+   "biceps"
+  ],
+  "secondaryMuscles": [
+   "forearms"
+  ],
+  "equipment": "barbell",
+  "difficulty": 1,
+  "mechanic": "isolation",
+  "defaults": {
+   "sets": 3,
+   "reps": "8-12",
+   "restSec": 60
+  },
+  "steps": [
+   "امسك البار المتعرج",
+   "ارفع والكوع ثابت",
+   "نزّل ببطء"
+  ],
+  "mistakes": [
+   "هز الجسم"
+  ],
+  "breathing": "زفير وقت المجهود، شهيق وأنت ترجع.",
+  "alternatives": [
+   "barbell-curl"
+  ],
+  "media": {
+   "video": "/media/exercises/ez-bar-curl/video.webm",
+   "videoMp4": "/media/exercises/ez-bar-curl/video.mp4",
+   "poster": "/media/exercises/ez-bar-curl/poster.webp",
+   "thumb": "/media/exercises/ez-bar-curl/thumb.webp"
+  }
+ },
+ {
+  "id": "concentration-curl",
+  "name": {
+   "ar": "بايسبس تركيز",
+   "en": "Concentration Curl"
+  },
+  "primaryMuscles": [
+   "biceps"
+  ],
+  "secondaryMuscles": [],
+  "equipment": "dumbbell",
+  "difficulty": 1,
+  "mechanic": "isolation",
+  "defaults": {
+   "sets": 3,
+   "reps": "10-12/جهة",
+   "restSec": 45
+  },
+  "steps": [
+   "اجلس وكوعك على فخذك الداخلي",
+   "ارفع الدمبل لكتفك",
+   "نزّل ببطء"
+  ],
+  "mistakes": [
+   "تحريك الكتف"
+  ],
+  "breathing": "زفير وقت المجهود، شهيق وأنت ترجع.",
+  "alternatives": [
+   "dumbbell-curl"
+  ],
+  "media": {
+   "video": "/media/exercises/concentration-curl/video.webm",
+   "videoMp4": "/media/exercises/concentration-curl/video.mp4",
+   "poster": "/media/exercises/concentration-curl/poster.webp",
+   "thumb": "/media/exercises/concentration-curl/thumb.webp"
+  }
+ },
+ {
+  "id": "incline-dumbbell-curl",
+  "name": {
+   "ar": "بايسبس على بنش مائل",
+   "en": "Incline Dumbbell Curl"
+  },
+  "primaryMuscles": [
+   "biceps"
+  ],
+  "secondaryMuscles": [],
+  "equipment": "dumbbell",
+  "difficulty": 2,
+  "mechanic": "isolation",
+  "defaults": {
+   "sets": 3,
+   "reps": "10-12",
+   "restSec": 60
+  },
+  "steps": [
+   "اجلس على بنش مائل 45 درجة والذراع مدلاة",
+   "ارفع الدمبلز والكوع ثابت",
+   "نزّل لين تمد بالكامل"
+  ],
+  "mistakes": [
+   "تقديم الكوع"
+  ],
+  "breathing": "زفير وقت المجهود، شهيق وأنت ترجع.",
+  "alternatives": [
+   "dumbbell-curl"
+  ],
+  "media": {
+   "video": "/media/exercises/incline-dumbbell-curl/video.webm",
+   "videoMp4": "/media/exercises/incline-dumbbell-curl/video.mp4",
+   "poster": "/media/exercises/incline-dumbbell-curl/poster.webp",
+   "thumb": "/media/exercises/incline-dumbbell-curl/thumb.webp"
+  }
+ },
+ {
+  "id": "cable-curl",
+  "name": {
+   "ar": "بايسبس كيبل",
+   "en": "Cable Curl"
+  },
+  "primaryMuscles": [
+   "biceps"
+  ],
+  "secondaryMuscles": [
+   "forearms"
+  ],
+  "equipment": "cable",
+  "difficulty": 1,
+  "mechanic": "isolation",
+  "defaults": {
+   "sets": 3,
+   "reps": "10-15",
+   "restSec": 45
+  },
+  "steps": [
+   "امسك البار بالكيبل السفلي",
+   "ارفع والكوع جنبك",
+   "نزّل ببطء"
+  ],
+  "mistakes": [
+   "الميلان للخلف"
+  ],
+  "breathing": "زفير وقت المجهود، شهيق وأنت ترجع.",
+  "alternatives": [
+   "barbell-curl"
+  ],
+  "media": {
+   "video": "/media/exercises/cable-curl/video.webm",
+   "videoMp4": "/media/exercises/cable-curl/video.mp4",
+   "poster": "/media/exercises/cable-curl/poster.webp",
+   "thumb": "/media/exercises/cable-curl/thumb.webp"
+  }
+ },
+ {
+  "id": "spider-curl",
+  "name": {
+   "ar": "سبايدر كيرل",
+   "en": "Spider Curl"
+  },
+  "primaryMuscles": [
+   "biceps"
+  ],
+  "secondaryMuscles": [],
+  "equipment": "dumbbell",
+  "difficulty": 2,
+  "mechanic": "isolation",
+  "defaults": {
+   "sets": 3,
+   "reps": "10-12",
+   "restSec": 45
+  },
+  "steps": [
+   "انبطح على بنش مائل والذراع مدلاة",
+   "ارفع الدمبلز",
+   "اعصر فوق ونزّل"
+  ],
+  "mistakes": [
+   "التأرجح"
+  ],
+  "breathing": "زفير وقت المجهود، شهيق وأنت ترجع.",
+  "alternatives": [
+   "preacher-curl"
+  ],
+  "media": {
+   "video": "/media/exercises/spider-curl/video.webm",
+   "videoMp4": "/media/exercises/spider-curl/video.mp4",
+   "poster": "/media/exercises/spider-curl/poster.webp",
+   "thumb": "/media/exercises/spider-curl/thumb.webp"
+  }
+ },
+ {
+  "id": "reverse-curl",
+  "name": {
+   "ar": "بايسبس قبضة عكسية",
+   "en": "Reverse Curl"
+  },
+  "primaryMuscles": [
+   "forearms",
+   "biceps"
+  ],
+  "secondaryMuscles": [],
+  "equipment": "barbell",
+  "difficulty": 1,
+  "mechanic": "isolation",
+  "defaults": {
+   "sets": 3,
+   "reps": "10-12",
+   "restSec": 45
+  },
+  "steps": [
+   "امسك البار والكفوف لتحت",
+   "ارفع والكوع ثابت",
+   "نزّل ببطء"
+  ],
+  "mistakes": [
+   "هز الجسم"
+  ],
+  "breathing": "زفير وقت المجهود، شهيق وأنت ترجع.",
+  "alternatives": [
+   "hammer-curl"
+  ],
+  "media": {
+   "video": "/media/exercises/reverse-curl/video.webm",
+   "videoMp4": "/media/exercises/reverse-curl/video.mp4",
+   "poster": "/media/exercises/reverse-curl/poster.webp",
+   "thumb": "/media/exercises/reverse-curl/thumb.webp"
+  }
+ },
+ {
+  "id": "wrist-curl",
+  "name": {
+   "ar": "تمرين المعصم",
+   "en": "Wrist Curl"
+  },
+  "primaryMuscles": [
+   "forearms"
+  ],
+  "secondaryMuscles": [],
+  "equipment": "dumbbell",
+  "difficulty": 1,
+  "mechanic": "isolation",
+  "defaults": {
+   "sets": 3,
+   "reps": "15-20",
+   "restSec": 45
+  },
+  "steps": [
+   "اجلس وساعدك على فخذك والكف لفوق",
+   "ارفع المعصم بس",
+   "نزّل ببطء"
+  ],
+  "mistakes": [
+   "تحريك الساعد"
+  ],
+  "breathing": "زفير وقت المجهود، شهيق وأنت ترجع.",
+  "alternatives": [
+   "reverse-curl"
+  ],
+  "media": {
+   "video": "/media/exercises/wrist-curl/video.webm",
+   "videoMp4": "/media/exercises/wrist-curl/video.mp4",
+   "poster": "/media/exercises/wrist-curl/poster.webp",
+   "thumb": "/media/exercises/wrist-curl/thumb.webp"
+  }
+ },
+ {
+  "id": "rope-hammer-curl",
+  "name": {
+   "ar": "هامر بالحبل",
+   "en": "Rope Hammer Curl"
+  },
+  "primaryMuscles": [
+   "biceps",
+   "forearms"
+  ],
+  "secondaryMuscles": [],
+  "equipment": "cable",
+  "difficulty": 1,
+  "mechanic": "isolation",
+  "defaults": {
+   "sets": 3,
+   "reps": "12-15",
+   "restSec": 45
+  },
+  "steps": [
+   "امسك الحبل بالكيبل السفلي",
+   "ارفع والكفوف متقابلة",
+   "نزّل ببطء"
+  ],
+  "mistakes": [
+   "تحريك الكوع"
+  ],
+  "breathing": "زفير وقت المجهود، شهيق وأنت ترجع.",
+  "alternatives": [
+   "hammer-curl"
+  ],
+  "media": {
+   "video": "/media/exercises/rope-hammer-curl/video.webm",
+   "videoMp4": "/media/exercises/rope-hammer-curl/video.mp4",
+   "poster": "/media/exercises/rope-hammer-curl/poster.webp",
+   "thumb": "/media/exercises/rope-hammer-curl/thumb.webp"
+  }
+ },
+ {
+  "id": "rope-pushdown",
+  "name": {
+   "ar": "ترايسبس بالحبل",
+   "en": "Rope Pushdown"
+  },
+  "primaryMuscles": [
+   "triceps"
+  ],
+  "secondaryMuscles": [],
+  "equipment": "cable",
+  "difficulty": 1,
+  "mechanic": "isolation",
+  "defaults": {
+   "sets": 3,
+   "reps": "12-15",
+   "restSec": 45
+  },
+  "steps": [
+   "امسك الحبل والكوع جنبك",
+   "ادفع لتحت وافتح الحبل آخر الحركة",
+   "ارجع ببطء"
+  ],
+  "mistakes": [
+   "تحريك الكوع للأمام"
+  ],
+  "breathing": "زفير وقت المجهود، شهيق وأنت ترجع.",
+  "alternatives": [
+   "triceps-pushdown"
+  ],
+  "media": {
+   "video": "/media/exercises/rope-pushdown/video.webm",
+   "videoMp4": "/media/exercises/rope-pushdown/video.mp4",
+   "poster": "/media/exercises/rope-pushdown/poster.webp",
+   "thumb": "/media/exercises/rope-pushdown/thumb.webp"
+  }
+ },
+ {
+  "id": "overhead-cable-extension",
+  "name": {
+   "ar": "ترايسبس كيبل خلف الرأس",
+   "en": "Overhead Cable Extension"
+  },
+  "primaryMuscles": [
+   "triceps"
+  ],
+  "secondaryMuscles": [],
+  "equipment": "cable",
+  "difficulty": 2,
+  "mechanic": "isolation",
+  "defaults": {
+   "sets": 3,
+   "reps": "12-15",
+   "restSec": 60
+  },
+  "steps": [
+   "ظهرك للكيبل وامسك الحبل خلف رأسك",
+   "مد ذراعيك للأمام والأعلى",
+   "ارجع ببطء"
+  ],
+  "mistakes": [
+   "فتح الكوع"
+  ],
+  "breathing": "زفير وقت المجهود، شهيق وأنت ترجع.",
+  "alternatives": [
+   "overhead-triceps-extension"
+  ],
+  "media": {
+   "video": "/media/exercises/overhead-cable-extension/video.webm",
+   "videoMp4": "/media/exercises/overhead-cable-extension/video.mp4",
+   "poster": "/media/exercises/overhead-cable-extension/poster.webp",
+   "thumb": "/media/exercises/overhead-cable-extension/thumb.webp"
+  }
+ },
+ {
+  "id": "dumbbell-kickback",
+  "name": {
+   "ar": "كيك باك ترايسبس",
+   "en": "Dumbbell Kickback"
+  },
+  "primaryMuscles": [
+   "triceps"
+  ],
+  "secondaryMuscles": [],
+  "equipment": "dumbbell",
+  "difficulty": 1,
+  "mechanic": "isolation",
+  "defaults": {
+   "sets": 3,
+   "reps": "12-15/جهة",
+   "restSec": 45
+  },
+  "steps": [
+   "ميّل جسمك والكوع جنبك بزاوية 90",
+   "مد ذراعك للخلف",
+   "ارجع ببطء"
+  ],
+  "mistakes": [
+   "نزول الكوع"
+  ],
+  "breathing": "زفير وقت المجهود، شهيق وأنت ترجع.",
+  "alternatives": [
+   "triceps-pushdown"
+  ],
+  "media": {
+   "video": "/media/exercises/dumbbell-kickback/video.webm",
+   "videoMp4": "/media/exercises/dumbbell-kickback/video.mp4",
+   "poster": "/media/exercises/dumbbell-kickback/poster.webp",
+   "thumb": "/media/exercises/dumbbell-kickback/thumb.webp"
+  }
+ },
+ {
+  "id": "machine-dip",
+  "name": {
+   "ar": "جهاز الديبس",
+   "en": "Machine Dip"
+  },
+  "primaryMuscles": [
+   "triceps"
+  ],
+  "secondaryMuscles": [
+   "chest",
+   "shoulders"
+  ],
+  "equipment": "machine",
+  "difficulty": 1,
+  "mechanic": "compound",
+  "defaults": {
+   "sets": 3,
+   "reps": "10-12",
+   "restSec": 60
+  },
+  "steps": [
+   "اجلس وامسك المقابض",
+   "ادفع لتحت لين تمد ذراعيك",
+   "ارجع ببطء"
+  ],
+  "mistakes": [
+   "رفع الكتفين"
+  ],
+  "breathing": "شهيق وأنت تنزل الوزن، زفير وأنت تدفع أو تسحب.",
+  "alternatives": [
+   "bench-dip",
+   "triceps-pushdown"
+  ],
+  "media": {
+   "video": "/media/exercises/machine-dip/video.webm",
+   "videoMp4": "/media/exercises/machine-dip/video.mp4",
+   "poster": "/media/exercises/machine-dip/poster.webp",
+   "thumb": "/media/exercises/machine-dip/thumb.webp"
+  }
+ },
+ {
+  "id": "farmer-walk",
+  "name": {
+   "ar": "مشي المزارع",
+   "en": "Farmer's Walk"
+  },
+  "primaryMuscles": [
+   "forearms",
+   "traps"
+  ],
+  "secondaryMuscles": [
+   "abs",
+   "glutes"
+  ],
+  "equipment": "dumbbell",
+  "difficulty": 1,
+  "mechanic": "compound",
+  "defaults": {
+   "sets": 3,
+   "reps": "30-40 ث",
+   "restSec": 60
+  },
+  "steps": [
+   "امسك دمبلز ثقيلة جنبك",
+   "امشِ بخطوات قصيرة والظهر مستقيم",
+   "الكتف لتحت والبطن مشدود"
+  ],
+  "mistakes": [
+   "الميلان لجهة"
+  ],
+  "breathing": "تنفس بشكل طبيعي وثابت.",
+  "alternatives": [
+   "shrug"
+  ],
+  "media": {
+   "video": "/media/exercises/farmer-walk/video.webm",
+   "videoMp4": "/media/exercises/farmer-walk/video.mp4",
+   "poster": "/media/exercises/farmer-walk/poster.webp",
+   "thumb": "/media/exercises/farmer-walk/thumb.webp"
+  }
+ },
+ {
+  "id": "machine-curl",
+  "name": {
+   "ar": "جهاز البايسبس",
+   "en": "Machine Curl"
+  },
+  "primaryMuscles": [
+   "biceps"
+  ],
+  "secondaryMuscles": [],
+  "equipment": "machine",
+  "difficulty": 1,
+  "mechanic": "isolation",
+  "defaults": {
+   "sets": 3,
+   "reps": "10-12",
+   "restSec": 45
+  },
+  "steps": [
+   "اضبط المقعد والكوع على المسند",
+   "ارفع المقابض",
+   "نزّل ببطء"
+  ],
+  "mistakes": [
+   "ترك الوزن يطيح"
+  ],
+  "breathing": "زفير وقت المجهود، شهيق وأنت ترجع.",
+  "alternatives": [
+   "preacher-curl"
+  ],
+  "media": {
+   "video": "/media/exercises/machine-curl/video.webm",
+   "videoMp4": "/media/exercises/machine-curl/video.mp4",
+   "poster": "/media/exercises/machine-curl/poster.webp",
+   "thumb": "/media/exercises/machine-curl/thumb.webp"
+  }
+ },
+ {
+  "id": "zottman-curl",
+  "name": {
+   "ar": "زوتمان كيرل",
+   "en": "Zottman Curl"
+  },
+  "primaryMuscles": [
+   "biceps",
+   "forearms"
+  ],
+  "secondaryMuscles": [],
+  "equipment": "dumbbell",
+  "difficulty": 2,
+  "mechanic": "isolation",
+  "defaults": {
+   "sets": 3,
+   "reps": "10-12",
+   "restSec": 45
+  },
+  "steps": [
+   "ارفع الدمبلز والكف لفوق",
+   "لف الكف لتحت فوق",
+   "نزّل ببطء بالقبضة العكسية"
+  ],
+  "mistakes": [
+   "السرعة"
+  ],
+  "breathing": "زفير وقت المجهود، شهيق وأنت ترجع.",
+  "alternatives": [
+   "hammer-curl"
+  ],
+  "media": {
+   "video": "/media/exercises/zottman-curl/video.webm",
+   "videoMp4": "/media/exercises/zottman-curl/video.mp4",
+   "poster": "/media/exercises/zottman-curl/poster.webp",
+   "thumb": "/media/exercises/zottman-curl/thumb.webp"
+  }
+ },
+ {
+  "id": "tate-press",
+  "name": {
+   "ar": "تيت برس",
+   "en": "Tate Press"
+  },
+  "primaryMuscles": [
+   "triceps"
+  ],
+  "secondaryMuscles": [
+   "chest"
+  ],
+  "equipment": "dumbbell",
+  "difficulty": 2,
+  "mechanic": "isolation",
+  "defaults": {
+   "sets": 3,
+   "reps": "10-12",
+   "restSec": 60
+  },
+  "steps": [
+   "استلقِ والدمبلز فوق صدرك والكفوف لقدام",
+   "نزّل الدمبلز لصدرك بثني الكوع للجانب",
+   "ادفع للأعلى"
+  ],
+  "mistakes": [
+   "وزن ثقيل"
+  ],
+  "breathing": "زفير وقت المجهود، شهيق وأنت ترجع.",
+  "alternatives": [
+   "skull-crusher"
+  ],
+  "media": {
+   "video": "/media/exercises/tate-press/video.webm",
+   "videoMp4": "/media/exercises/tate-press/video.mp4",
+   "poster": "/media/exercises/tate-press/poster.webp",
+   "thumb": "/media/exercises/tate-press/thumb.webp"
+  }
+ },
+ {
+  "id": "front-squat",
+  "name": {
+   "ar": "سكوات أمامي",
+   "en": "Front Squat"
+  },
+  "primaryMuscles": [
+   "quads"
+  ],
+  "secondaryMuscles": [
+   "glutes",
+   "abs"
+  ],
+  "equipment": "barbell",
+  "difficulty": 3,
+  "mechanic": "compound",
+  "defaults": {
+   "sets": 4,
+   "reps": "5-8",
+   "restSec": 150
+  },
+  "steps": [
+   "البار على مقدمة كتفك والكوع مرفوع",
+   "انزل والصدر مرفوع",
+   "ادفع وارجع"
+  ],
+  "mistakes": [
+   "نزول الكوع",
+   "الميلان للأمام"
+  ],
+  "breathing": "خذ نفس عميق وشد البطن قبل النزول، وازفر وأنت طالع.",
+  "alternatives": [
+   "back-squat",
+   "goblet-squat"
+  ],
+  "media": {
+   "video": "/media/exercises/front-squat/video.webm",
+   "videoMp4": "/media/exercises/front-squat/video.mp4",
+   "poster": "/media/exercises/front-squat/poster.webp",
+   "thumb": "/media/exercises/front-squat/thumb.webp"
+  }
+ },
+ {
+  "id": "hack-squat",
+  "name": {
+   "ar": "جهاز الهاك سكوات",
+   "en": "Hack Squat"
+  },
+  "primaryMuscles": [
+   "quads"
+  ],
+  "secondaryMuscles": [
+   "glutes"
+  ],
+  "equipment": "machine",
+  "difficulty": 2,
+  "mechanic": "compound",
+  "defaults": {
+   "sets": 3,
+   "reps": "8-12",
+   "restSec": 120
+  },
+  "steps": [
+   "ظهرك على المسند والكتف تحت الوسائد",
+   "انزل لين الركبة 90 درجة",
+   "ادفع بالكعب"
+  ],
+  "mistakes": [
+   "رفع الكعب"
+  ],
+  "breathing": "شهيق وأنت تنزل الوزن، زفير وأنت تدفع أو تسحب.",
+  "alternatives": [
+   "leg-press"
+  ],
+  "media": {
+   "video": "/media/exercises/hack-squat/video.webm",
+   "videoMp4": "/media/exercises/hack-squat/video.mp4",
+   "poster": "/media/exercises/hack-squat/poster.webp",
+   "thumb": "/media/exercises/hack-squat/thumb.webp"
+  }
+ },
+ {
+  "id": "smith-squat",
+  "name": {
+   "ar": "سكوات سميث",
+   "en": "Smith Machine Squat"
+  },
+  "primaryMuscles": [
+   "quads",
+   "glutes"
+  ],
+  "secondaryMuscles": [
+   "hamstrings"
+  ],
+  "equipment": "machine",
+  "difficulty": 1,
+  "mechanic": "compound",
+  "defaults": {
+   "sets": 3,
+   "reps": "8-12",
+   "restSec": 90
+  },
+  "steps": [
+   "البار على ظهرك وقدميك قدام شوي",
+   "انزل لين الفخذ موازي",
+   "ادفع وارجع"
+  ],
+  "mistakes": [
+   "الركبة للداخل"
+  ],
+  "breathing": "خذ نفس عميق وشد البطن قبل النزول، وازفر وأنت طالع.",
+  "alternatives": [
+   "back-squat",
+   "leg-press"
+  ],
+  "media": {
+   "video": "/media/exercises/smith-squat/video.webm",
+   "videoMp4": "/media/exercises/smith-squat/video.mp4",
+   "poster": "/media/exercises/smith-squat/poster.webp",
+   "thumb": "/media/exercises/smith-squat/thumb.webp"
+  }
+ },
+ {
+  "id": "sumo-squat",
+  "name": {
+   "ar": "سكوات سومو",
+   "en": "Sumo Squat"
+  },
+  "primaryMuscles": [
+   "adductors",
+   "glutes"
+  ],
+  "secondaryMuscles": [
+   "quads"
+  ],
+  "equipment": "dumbbell",
+  "difficulty": 1,
+  "mechanic": "compound",
+  "defaults": {
+   "sets": 3,
+   "reps": "12-15",
+   "restSec": 60
+  },
+  "steps": [
+   "قدميك واسعة والأصابع للخارج وامسك دمبل بين رجليك",
+   "انزل مستقيم",
+   "ادفع وارجع"
+  ],
+  "mistakes": [
+   "دخول الركبة"
+  ],
+  "breathing": "شهيق وأنت تنزل الوزن، زفير وأنت تدفع أو تسحب.",
+  "alternatives": [
+   "goblet-squat"
+  ],
+  "media": {
+   "video": "/media/exercises/sumo-squat/video.webm",
+   "videoMp4": "/media/exercises/sumo-squat/video.mp4",
+   "poster": "/media/exercises/sumo-squat/poster.webp",
+   "thumb": "/media/exercises/sumo-squat/thumb.webp"
+  }
+ },
+ {
+  "id": "step-up",
+  "name": {
+   "ar": "صعود البنش",
+   "en": "Step-Up"
+  },
+  "primaryMuscles": [
+   "quads",
+   "glutes"
+  ],
+  "secondaryMuscles": [
+   "hamstrings"
+  ],
+  "equipment": "dumbbell",
+  "difficulty": 1,
+  "mechanic": "compound",
+  "defaults": {
+   "sets": 3,
+   "reps": "10/رجل",
+   "restSec": 60
+  },
+  "steps": [
+   "امسك دمبلز وقف أمام بنش",
+   "اطلع برجل وحدة وادفع بالكعب",
+   "انزل بتحكم"
+  ],
+  "mistakes": [
+   "الدفع بالرجل الخلفية"
+  ],
+  "breathing": "شهيق وأنت تنزل الوزن، زفير وأنت تدفع أو تسحب.",
+  "alternatives": [
+   "walking-lunge",
+   "bulgarian-split-squat"
+  ],
+  "media": {
+   "video": "/media/exercises/step-up/video.webm",
+   "videoMp4": "/media/exercises/step-up/video.mp4",
+   "poster": "/media/exercises/step-up/poster.webp",
+   "thumb": "/media/exercises/step-up/thumb.webp"
+  }
+ },
+ {
+  "id": "dumbbell-reverse-lunge",
+  "name": {
+   "ar": "طعنات خلفية بالدمبل",
+   "en": "Dumbbell Reverse Lunge"
+  },
+  "primaryMuscles": [
+   "quads",
+   "glutes"
+  ],
+  "secondaryMuscles": [
+   "hamstrings"
+  ],
+  "equipment": "dumbbell",
+  "difficulty": 1,
+  "mechanic": "compound",
+  "defaults": {
+   "sets": 3,
+   "reps": "10/رجل",
+   "restSec": 60
+  },
+  "steps": [
+   "امسك دمبلز",
+   "ارجع بخطوة للخلف وانزل",
+   "ادفع بالرجل الأمامية وارجع"
+  ],
+  "mistakes": [
+   "الميلان للأمام"
+  ],
+  "breathing": "شهيق وأنت تنزل الوزن، زفير وأنت تدفع أو تسحب.",
+  "alternatives": [
+   "walking-lunge"
+  ],
+  "media": {
+   "video": "/media/exercises/dumbbell-reverse-lunge/video.webm",
+   "videoMp4": "/media/exercises/dumbbell-reverse-lunge/video.mp4",
+   "poster": "/media/exercises/dumbbell-reverse-lunge/poster.webp",
+   "thumb": "/media/exercises/dumbbell-reverse-lunge/thumb.webp"
+  }
+ },
+ {
+  "id": "lateral-lunge",
+  "name": {
+   "ar": "طعنات جانبية",
+   "en": "Lateral Lunge"
+  },
+  "primaryMuscles": [
+   "adductors",
+   "quads"
+  ],
+  "secondaryMuscles": [
+   "glutes"
+  ],
+  "equipment": "bodyweight",
+  "difficulty": 1,
+  "mechanic": "compound",
+  "defaults": {
+   "sets": 3,
+   "reps": "10/جهة",
+   "restSec": 45
+  },
+  "steps": [
+   "قف ورجليك مضمومة",
+   "خذ خطوة كبيرة للجانب وانزل على هالرجل",
+   "ادفع وارجع"
+  ],
+  "mistakes": [
+   "الركبة تتعدى الأصابع"
+  ],
+  "breathing": "شهيق وأنت تنزل الوزن، زفير وأنت تدفع أو تسحب.",
+  "alternatives": [
+   "sumo-squat"
+  ],
+  "media": {
+   "video": "/media/exercises/lateral-lunge/video.webm",
+   "videoMp4": "/media/exercises/lateral-lunge/video.mp4",
+   "poster": "/media/exercises/lateral-lunge/poster.webp",
+   "thumb": "/media/exercises/lateral-lunge/thumb.webp"
+  }
+ },
+ {
+  "id": "sumo-deadlift",
+  "name": {
+   "ar": "ديدلفت سومو",
+   "en": "Sumo Deadlift"
+  },
+  "primaryMuscles": [
+   "glutes",
+   "hamstrings"
+  ],
+  "secondaryMuscles": [
+   "adductors",
+   "lowerBack",
+   "quads"
+  ],
+  "equipment": "barbell",
+  "difficulty": 3,
+  "mechanic": "compound",
+  "defaults": {
+   "sets": 3,
+   "reps": "5-8",
+   "restSec": 150
+  },
+  "steps": [
+   "قدميك واسعة والقبضة بين رجليك",
+   "الظهر مستقيم والصدر للأمام",
+   "ادفع الأرض وارفع"
+  ],
+  "mistakes": [
+   "تقويس الظهر"
+  ],
+  "breathing": "خذ نفس عميق وشد البطن قبل النزول، وازفر وأنت طالع.",
+  "alternatives": [
+   "deadlift",
+   "romanian-deadlift"
+  ],
+  "media": {
+   "video": "/media/exercises/sumo-deadlift/video.webm",
+   "videoMp4": "/media/exercises/sumo-deadlift/video.mp4",
+   "poster": "/media/exercises/sumo-deadlift/poster.webp",
+   "thumb": "/media/exercises/sumo-deadlift/thumb.webp"
+  }
+ },
+ {
+  "id": "dumbbell-rdl",
+  "name": {
+   "ar": "ديدلفت روماني بالدمبل",
+   "en": "Dumbbell Romanian Deadlift"
+  },
+  "primaryMuscles": [
+   "hamstrings",
+   "glutes"
+  ],
+  "secondaryMuscles": [
+   "lowerBack"
+  ],
+  "equipment": "dumbbell",
+  "difficulty": 1,
+  "mechanic": "compound",
+  "defaults": {
+   "sets": 3,
+   "reps": "10-12",
+   "restSec": 75
+  },
+  "steps": [
+   "امسك الدمبلز أمام فخذيك",
+   "ادفع حوضك للخلف ونزّل الدمبلز قريب من رجليك",
+   "ارجع بشد المؤخرة"
+  ],
+  "mistakes": [
+   "تقويس الظهر"
+  ],
+  "breathing": "شهيق وأنت تنزل الوزن، زفير وأنت تدفع أو تسحب.",
+  "alternatives": [
+   "romanian-deadlift",
+   "single-leg-rdl"
+  ],
+  "media": {
+   "video": "/media/exercises/dumbbell-rdl/video.webm",
+   "videoMp4": "/media/exercises/dumbbell-rdl/video.mp4",
+   "poster": "/media/exercises/dumbbell-rdl/poster.webp",
+   "thumb": "/media/exercises/dumbbell-rdl/thumb.webp"
+  }
+ },
+ {
+  "id": "seated-leg-curl",
+  "name": {
+   "ar": "جهاز الرجل الخلفي جالس",
+   "en": "Seated Leg Curl"
+  },
+  "primaryMuscles": [
+   "hamstrings"
+  ],
+  "secondaryMuscles": [],
+  "equipment": "machine",
+  "difficulty": 1,
+  "mechanic": "isolation",
+  "defaults": {
+   "sets": 3,
+   "reps": "12-15",
+   "restSec": 60
+  },
+  "steps": [
+   "اجلس والمسند فوق الكاحل",
+   "اثنِ رجليك لتحت",
+   "ارجع ببطء"
+  ],
+  "mistakes": [
+   "رفع الحوض"
+  ],
+  "breathing": "زفير وقت المجهود، شهيق وأنت ترجع.",
+  "alternatives": [
+   "leg-curl"
+  ],
+  "media": {
+   "video": "/media/exercises/seated-leg-curl/video.webm",
+   "videoMp4": "/media/exercises/seated-leg-curl/video.mp4",
+   "poster": "/media/exercises/seated-leg-curl/poster.webp",
+   "thumb": "/media/exercises/seated-leg-curl/thumb.webp"
+  }
+ },
+ {
+  "id": "nordic-curl",
+  "name": {
+   "ar": "نورديك كيرل",
+   "en": "Nordic Curl"
+  },
+  "primaryMuscles": [
+   "hamstrings"
+  ],
+  "secondaryMuscles": [
+   "glutes"
+  ],
+  "equipment": "bodyweight",
+  "difficulty": 3,
+  "mechanic": "isolation",
+  "defaults": {
+   "sets": 3,
+   "reps": "4-8",
+   "restSec": 90
+  },
+  "steps": [
+   "اركع وثبّت كاحلك تحت شي ثابت",
+   "انزل للأمام ببطء بجسم مستقيم",
+   "ادفع بيديك وارجع"
+  ],
+  "mistakes": [
+   "ثني الحوض"
+  ],
+  "breathing": "شهيق وأنت تنزل الوزن، زفير وأنت تدفع أو تسحب.",
+  "alternatives": [
+   "leg-curl"
+  ],
+  "media": {
+   "video": "/media/exercises/nordic-curl/video.webm",
+   "videoMp4": "/media/exercises/nordic-curl/video.mp4",
+   "poster": "/media/exercises/nordic-curl/poster.webp",
+   "thumb": "/media/exercises/nordic-curl/thumb.webp"
+  }
+ },
+ {
+  "id": "cable-kickback",
+  "name": {
+   "ar": "كيك باك مؤخرة كيبل",
+   "en": "Cable Glute Kickback"
+  },
+  "primaryMuscles": [
+   "glutes"
+  ],
+  "secondaryMuscles": [
+   "hamstrings"
+  ],
+  "equipment": "cable",
+  "difficulty": 1,
+  "mechanic": "isolation",
+  "defaults": {
+   "sets": 3,
+   "reps": "12-15/رجل",
+   "restSec": 45
+  },
+  "steps": [
+   "اربط الكاحل بالكيبل السفلي",
+   "ادفع رجلك للخلف واعصر المؤخرة",
+   "ارجع ببطء"
+  ],
+  "mistakes": [
+   "تقويس الظهر"
+  ],
+  "breathing": "زفير وقت المجهود، شهيق وأنت ترجع.",
+  "alternatives": [
+   "glute-bridge",
+   "hip-thrust"
+  ],
+  "media": {
+   "video": "/media/exercises/cable-kickback/video.webm",
+   "videoMp4": "/media/exercises/cable-kickback/video.mp4",
+   "poster": "/media/exercises/cable-kickback/poster.webp",
+   "thumb": "/media/exercises/cable-kickback/thumb.webp"
+  }
+ },
+ {
+  "id": "hip-abduction",
+  "name": {
+   "ar": "جهاز فتح الأرجل",
+   "en": "Hip Abduction Machine"
+  },
+  "primaryMuscles": [
+   "glutes"
+  ],
+  "secondaryMuscles": [],
+  "equipment": "machine",
+  "difficulty": 1,
+  "mechanic": "isolation",
+  "defaults": {
+   "sets": 3,
+   "reps": "15-20",
+   "restSec": 45
+  },
+  "steps": [
+   "اجلس والوسائد على جنب ركبتك",
+   "افتح رجليك للخارج",
+   "ارجع ببطء"
+  ],
+  "mistakes": [
+   "السرعة"
+  ],
+  "breathing": "زفير وقت المجهود، شهيق وأنت ترجع.",
+  "alternatives": [
+   "lateral-lunge"
+  ],
+  "media": {
+   "video": "/media/exercises/hip-abduction/video.webm",
+   "videoMp4": "/media/exercises/hip-abduction/video.mp4",
+   "poster": "/media/exercises/hip-abduction/poster.webp",
+   "thumb": "/media/exercises/hip-abduction/thumb.webp"
+  }
+ },
+ {
+  "id": "hip-adduction",
+  "name": {
+   "ar": "جهاز ضم الأرجل",
+   "en": "Hip Adduction Machine"
+  },
+  "primaryMuscles": [
+   "adductors"
+  ],
+  "secondaryMuscles": [],
+  "equipment": "machine",
+  "difficulty": 1,
+  "mechanic": "isolation",
+  "defaults": {
+   "sets": 3,
+   "reps": "15-20",
+   "restSec": 45
+  },
+  "steps": [
+   "اجلس والوسائد داخل ركبتك",
+   "ضم رجليك",
+   "ارجع ببطء"
+  ],
+  "mistakes": [
+   "ترك الوزن يرجع بسرعة"
+  ],
+  "breathing": "زفير وقت المجهود، شهيق وأنت ترجع.",
+  "alternatives": [
+   "sumo-squat"
+  ],
+  "media": {
+   "video": "/media/exercises/hip-adduction/video.webm",
+   "videoMp4": "/media/exercises/hip-adduction/video.mp4",
+   "poster": "/media/exercises/hip-adduction/poster.webp",
+   "thumb": "/media/exercises/hip-adduction/thumb.webp"
+  }
+ },
+ {
+  "id": "seated-calf-raise",
+  "name": {
+   "ar": "سمانة جالس",
+   "en": "Seated Calf Raise"
+  },
+  "primaryMuscles": [
+   "calves"
+  ],
+  "secondaryMuscles": [],
+  "equipment": "machine",
+  "difficulty": 1,
+  "mechanic": "isolation",
+  "defaults": {
+   "sets": 4,
+   "reps": "15-20",
+   "restSec": 45
+  },
+  "steps": [
+   "اجلس والوسادة فوق ركبتك",
+   "نزّل الكعب لين تحس بتمدد",
+   "ارفع لأعلى نقطة"
+  ],
+  "mistakes": [
+   "الحركة القصيرة"
+  ],
+  "breathing": "تنفس بشكل طبيعي.",
+  "alternatives": [
+   "standing-calf-raise"
+  ],
+  "media": {
+   "video": "/media/exercises/seated-calf-raise/video.webm",
+   "videoMp4": "/media/exercises/seated-calf-raise/video.mp4",
+   "poster": "/media/exercises/seated-calf-raise/poster.webp",
+   "thumb": "/media/exercises/seated-calf-raise/thumb.webp"
+  }
+ },
+ {
+  "id": "leg-press-calf-raise",
+  "name": {
+   "ar": "سمانة على جهاز الأرجل",
+   "en": "Leg Press Calf Raise"
+  },
+  "primaryMuscles": [
+   "calves"
+  ],
+  "secondaryMuscles": [],
+  "equipment": "machine",
+  "difficulty": 1,
+  "mechanic": "isolation",
+  "defaults": {
+   "sets": 3,
+   "reps": "15-20",
+   "restSec": 45
+  },
+  "steps": [
+   "حط أطراف أصابعك على حافة المنصة",
+   "ادفع بأطراف الأصابع",
+   "ارجع ببطء"
+  ],
+  "mistakes": [
+   "ثني الركبة"
+  ],
+  "breathing": "تنفس بشكل طبيعي.",
+  "alternatives": [
+   "standing-calf-raise"
+  ],
+  "media": {
+   "video": "/media/exercises/leg-press-calf-raise/video.webm",
+   "videoMp4": "/media/exercises/leg-press-calf-raise/video.mp4",
+   "poster": "/media/exercises/leg-press-calf-raise/poster.webp",
+   "thumb": "/media/exercises/leg-press-calf-raise/thumb.webp"
+  }
+ },
+ {
+  "id": "wall-sit",
+  "name": {
+   "ar": "الجلوس على الجدار",
+   "en": "Wall Sit"
+  },
+  "primaryMuscles": [
+   "quads"
+  ],
+  "secondaryMuscles": [
+   "glutes"
+  ],
+  "equipment": "bodyweight",
+  "difficulty": 1,
+  "mechanic": "isolation",
+  "defaults": {
+   "sets": 3,
+   "reps": "30-60 ث",
+   "restSec": 60
+  },
+  "steps": [
+   "اسند ظهرك على الجدار",
+   "انزل لين الركبة 90 درجة",
+   "اثبت"
+  ],
+  "mistakes": [
+   "الركبة تتعدى الأصابع"
+  ],
+  "breathing": "تنفس بهدوء.",
+  "alternatives": [
+   "bodyweight-squat"
+  ],
+  "media": {
+   "video": "/media/exercises/wall-sit/video.webm",
+   "videoMp4": "/media/exercises/wall-sit/video.mp4",
+   "poster": "/media/exercises/wall-sit/poster.webp",
+   "thumb": "/media/exercises/wall-sit/thumb.webp"
+  }
+ },
+ {
+  "id": "jump-squat",
+  "name": {
+   "ar": "سكوات بقفزة",
+   "en": "Jump Squat"
+  },
+  "primaryMuscles": [
+   "quads",
+   "glutes"
+  ],
+  "secondaryMuscles": [
+   "calves"
+  ],
+  "equipment": "bodyweight",
+  "difficulty": 2,
+  "mechanic": "compound",
+  "defaults": {
+   "sets": 3,
+   "reps": "10-12",
+   "restSec": 60
+  },
+  "steps": [
+   "انزل سكوات",
+   "انفجر لفوق بقفزة",
+   "انزل بنعومة على أطراف أصابعك"
+  ],
+  "mistakes": [
+   "النزول بقوة على الكعب"
+  ],
+  "breathing": "زفير وقت المجهود، شهيق وأنت ترجع.",
+  "alternatives": [
+   "bodyweight-squat"
+  ],
+  "media": {
+   "video": "/media/exercises/jump-squat/video.webm",
+   "videoMp4": "/media/exercises/jump-squat/video.mp4",
+   "poster": "/media/exercises/jump-squat/poster.webp",
+   "thumb": "/media/exercises/jump-squat/thumb.webp"
+  }
+ },
+ {
+  "id": "single-leg-glute-bridge",
+  "name": {
+   "ar": "جسر المؤخرة برجل وحدة",
+   "en": "Single-Leg Glute Bridge"
+  },
+  "primaryMuscles": [
+   "glutes"
+  ],
+  "secondaryMuscles": [
+   "hamstrings"
+  ],
+  "equipment": "bodyweight",
+  "difficulty": 1,
+  "mechanic": "isolation",
+  "defaults": {
+   "sets": 3,
+   "reps": "12/رجل",
+   "restSec": 45
+  },
+  "steps": [
+   "استلقِ ورجل مثنية والثانية مرفوعة",
+   "ادفع بكعبك وارفع حوضك",
+   "نزّل ببطء"
+  ],
+  "mistakes": [
+   "نزول الحوض لجهة"
+  ],
+  "breathing": "زفير وقت المجهود، شهيق وأنت ترجع.",
+  "alternatives": [
+   "glute-bridge",
+   "hip-thrust"
+  ],
+  "media": {
+   "video": "/media/exercises/single-leg-glute-bridge/video.webm",
+   "videoMp4": "/media/exercises/single-leg-glute-bridge/video.mp4",
+   "poster": "/media/exercises/single-leg-glute-bridge/poster.webp",
+   "thumb": "/media/exercises/single-leg-glute-bridge/thumb.webp"
+  }
+ },
+ {
+  "id": "donkey-kick",
+  "name": {
+   "ar": "ركلة الحمار",
+   "en": "Donkey Kick"
+  },
+  "primaryMuscles": [
+   "glutes"
+  ],
+  "secondaryMuscles": [],
+  "equipment": "bodyweight",
+  "difficulty": 1,
+  "mechanic": "isolation",
+  "defaults": {
+   "sets": 3,
+   "reps": "15/رجل",
+   "restSec": 30
+  },
+  "steps": [
+   "على يديك وركبك",
+   "ارفع رجل للسقف والركبة مثنية",
+   "اعصر ونزّل"
+  ],
+  "mistakes": [
+   "تقويس الظهر"
+  ],
+  "breathing": "زفير وقت المجهود، شهيق وأنت ترجع.",
+  "alternatives": [
+   "cable-kickback"
+  ],
+  "media": {
+   "video": "/media/exercises/donkey-kick/video.webm",
+   "videoMp4": "/media/exercises/donkey-kick/video.mp4",
+   "poster": "/media/exercises/donkey-kick/poster.webp",
+   "thumb": "/media/exercises/donkey-kick/thumb.webp"
+  }
+ },
+ {
+  "id": "dumbbell-hip-thrust",
+  "name": {
+   "ar": "هيب ثرست بالدمبل",
+   "en": "Dumbbell Hip Thrust"
+  },
+  "primaryMuscles": [
+   "glutes"
+  ],
+  "secondaryMuscles": [
+   "hamstrings"
+  ],
+  "equipment": "dumbbell",
+  "difficulty": 1,
+  "mechanic": "compound",
+  "defaults": {
+   "sets": 3,
+   "reps": "12-15",
+   "restSec": 60
+  },
+  "steps": [
+   "اسند ظهرك على البنش والدمبل على حوضك",
+   "ادفع حوضك للأعلى",
+   "اعصر ونزّل"
+  ],
+  "mistakes": [
+   "تقويس الظهر"
+  ],
+  "breathing": "زفير وقت المجهود، شهيق وأنت ترجع.",
+  "alternatives": [
+   "hip-thrust",
+   "glute-bridge"
+  ],
+  "media": {
+   "video": "/media/exercises/dumbbell-hip-thrust/video.webm",
+   "videoMp4": "/media/exercises/dumbbell-hip-thrust/video.mp4",
+   "poster": "/media/exercises/dumbbell-hip-thrust/poster.webp",
+   "thumb": "/media/exercises/dumbbell-hip-thrust/thumb.webp"
+  }
+ },
+ {
+  "id": "curtsy-lunge",
+  "name": {
+   "ar": "طعنات كيرتسي",
+   "en": "Curtsy Lunge"
+  },
+  "primaryMuscles": [
+   "glutes",
+   "quads"
+  ],
+  "secondaryMuscles": [
+   "adductors"
+  ],
+  "equipment": "bodyweight",
+  "difficulty": 2,
+  "mechanic": "compound",
+  "defaults": {
+   "sets": 3,
+   "reps": "10/رجل",
+   "restSec": 45
+  },
+  "steps": [
+   "ارجع برجل للخلف وبالعرض خلف الثانية",
+   "انزل ببطء",
+   "ادفع وارجع"
+  ],
+  "mistakes": [
+   "الركبة للداخل"
+  ],
+  "breathing": "شهيق وأنت تنزل الوزن، زفير وأنت تدفع أو تسحب.",
+  "alternatives": [
+   "bodyweight-lunge"
+  ],
+  "media": {
+   "video": "/media/exercises/curtsy-lunge/video.webm",
+   "videoMp4": "/media/exercises/curtsy-lunge/video.mp4",
+   "poster": "/media/exercises/curtsy-lunge/poster.webp",
+   "thumb": "/media/exercises/curtsy-lunge/thumb.webp"
+  }
+ },
+ {
+  "id": "assisted-pistol-squat",
+  "name": {
+   "ar": "بستل سكوات بالمساعدة",
+   "en": "Assisted Pistol Squat"
+  },
+  "primaryMuscles": [
+   "quads",
+   "glutes"
+  ],
+  "secondaryMuscles": [],
+  "equipment": "bodyweight",
+  "difficulty": 3,
+  "mechanic": "compound",
+  "defaults": {
+   "sets": 3,
+   "reps": "5-8/رجل",
+   "restSec": 90
+  },
+  "steps": [
+   "امسك شي ثابت وقف على رجل وحدة",
+   "انزل والرجل الثانية قدامك",
+   "ادفع بالكعب وارجع"
+  ],
+  "mistakes": [
+   "رفع الكعب"
+  ],
+  "breathing": "شهيق وأنت تنزل الوزن، زفير وأنت تدفع أو تسحب.",
+  "alternatives": [
+   "bulgarian-split-squat"
+  ],
+  "media": {
+   "video": "/media/exercises/assisted-pistol-squat/video.webm",
+   "videoMp4": "/media/exercises/assisted-pistol-squat/video.mp4",
+   "poster": "/media/exercises/assisted-pistol-squat/poster.webp",
+   "thumb": "/media/exercises/assisted-pistol-squat/thumb.webp"
+  }
+ },
+ {
+  "id": "frog-pump",
+  "name": {
+   "ar": "فروق بمب",
+   "en": "Frog Pump"
+  },
+  "primaryMuscles": [
+   "glutes"
+  ],
+  "secondaryMuscles": [],
+  "equipment": "bodyweight",
+  "difficulty": 1,
+  "mechanic": "isolation",
+  "defaults": {
+   "sets": 3,
+   "reps": "20-25",
+   "restSec": 30
+  },
+  "steps": [
+   "استلقِ وضم باطن قدميك والركبة للخارج",
+   "ارفع حوضك واعصر",
+   "نزّل"
+  ],
+  "mistakes": [
+   "الدفع بالظهر"
+  ],
+  "breathing": "زفير وقت المجهود، شهيق وأنت ترجع.",
+  "alternatives": [
+   "glute-bridge"
+  ],
+  "media": {
+   "video": "/media/exercises/frog-pump/video.webm",
+   "videoMp4": "/media/exercises/frog-pump/video.mp4",
+   "poster": "/media/exercises/frog-pump/poster.webp",
+   "thumb": "/media/exercises/frog-pump/thumb.webp"
+  }
+ },
+ {
+  "id": "side-plank",
+  "name": {
+   "ar": "بلانك جانبي",
+   "en": "Side Plank"
+  },
+  "primaryMuscles": [
+   "obliques"
+  ],
+  "secondaryMuscles": [
+   "abs",
+   "shoulders"
+  ],
+  "equipment": "bodyweight",
+  "difficulty": 1,
+  "mechanic": "isolation",
+  "defaults": {
+   "sets": 3,
+   "reps": "20-40 ث",
+   "restSec": 30
+  },
+  "steps": [
+   "استلقِ على جنبك والكوع تحت الكتف",
+   "ارفع حوضك لين جسمك مستقيم",
+   "اثبت"
+  ],
+  "mistakes": [
+   "نزول الحوض"
+  ],
+  "breathing": "تنفس بهدوء.",
+  "alternatives": [
+   "plank"
+  ],
+  "media": {
+   "video": "/media/exercises/side-plank/video.webm",
+   "videoMp4": "/media/exercises/side-plank/video.mp4",
+   "poster": "/media/exercises/side-plank/poster.webp",
+   "thumb": "/media/exercises/side-plank/thumb.webp"
+  }
+ },
+ {
+  "id": "bicycle-crunch",
+  "name": {
+   "ar": "كرنش الدراجة",
+   "en": "Bicycle Crunch"
+  },
+  "primaryMuscles": [
+   "obliques",
+   "abs"
+  ],
+  "secondaryMuscles": [],
+  "equipment": "bodyweight",
+  "difficulty": 1,
+  "mechanic": "isolation",
+  "defaults": {
+   "sets": 3,
+   "reps": "20",
+   "restSec": 45
+  },
+  "steps": [
+   "استلقِ ويديك جنب رأسك",
+   "قرّب الكوع للركبة العكسية وأنت تمد الرجل الثانية",
+   "بدّل ببطء"
+  ],
+  "mistakes": [
+   "سحب الرقبة"
+  ],
+  "breathing": "زفير وقت المجهود، شهيق وأنت ترجع.",
+  "alternatives": [
+   "russian-twist"
+  ],
+  "media": {
+   "video": "/media/exercises/bicycle-crunch/video.webm",
+   "videoMp4": "/media/exercises/bicycle-crunch/video.mp4",
+   "poster": "/media/exercises/bicycle-crunch/poster.webp",
+   "thumb": "/media/exercises/bicycle-crunch/thumb.webp"
+  }
+ },
+ {
+  "id": "lying-leg-raise",
+  "name": {
+   "ar": "رفع الرجلين مستلقي",
+   "en": "Lying Leg Raise"
+  },
+  "primaryMuscles": [
+   "abs"
+  ],
+  "secondaryMuscles": [],
+  "equipment": "bodyweight",
+  "difficulty": 2,
+  "mechanic": "isolation",
+  "defaults": {
+   "sets": 3,
+   "reps": "10-15",
+   "restSec": 45
+  },
+  "steps": [
+   "استلقِ ويديك تحت حوضك",
+   "ارفع رجليك مستقيمة لين 90",
+   "نزّلها ببطء بدون ما تلمس الأرض"
+  ],
+  "mistakes": [
+   "تقويس أسفل الظهر"
+  ],
+  "breathing": "زفير وقت المجهود، شهيق وأنت ترجع.",
+  "alternatives": [
+   "hanging-knee-raise"
+  ],
+  "media": {
+   "video": "/media/exercises/lying-leg-raise/video.webm",
+   "videoMp4": "/media/exercises/lying-leg-raise/video.mp4",
+   "poster": "/media/exercises/lying-leg-raise/poster.webp",
+   "thumb": "/media/exercises/lying-leg-raise/thumb.webp"
+  }
+ },
+ {
+  "id": "mountain-climber",
+  "name": {
+   "ar": "متسلق الجبل",
+   "en": "Mountain Climber"
+  },
+  "primaryMuscles": [
+   "abs"
+  ],
+  "secondaryMuscles": [
+   "shoulders",
+   "quads"
+  ],
+  "equipment": "bodyweight",
+  "difficulty": 1,
+  "mechanic": "compound",
+  "defaults": {
+   "sets": 3,
+   "reps": "30 ث",
+   "restSec": 30
+  },
+  "steps": [
+   "وضعية الضغط",
+   "قرّب ركبة لصدرك وبدّل بسرعة",
+   "خلّ الحوض منخفض"
+  ],
+  "mistakes": [
+   "رفع الحوض"
+  ],
+  "breathing": "تنفس بإيقاع.",
+  "alternatives": [
+   "plank"
+  ],
+  "media": {
+   "video": "/media/exercises/mountain-climber/video.webm",
+   "videoMp4": "/media/exercises/mountain-climber/video.mp4",
+   "poster": "/media/exercises/mountain-climber/poster.webp",
+   "thumb": "/media/exercises/mountain-climber/thumb.webp"
+  }
+ },
+ {
+  "id": "ab-wheel-rollout",
+  "name": {
+   "ar": "عجلة البطن",
+   "en": "Ab Wheel Rollout"
+  },
+  "primaryMuscles": [
+   "abs"
+  ],
+  "secondaryMuscles": [
+   "lats",
+   "shoulders"
+  ],
+  "equipment": "bodyweight",
+  "difficulty": 3,
+  "mechanic": "isolation",
+  "defaults": {
+   "sets": 3,
+   "reps": "6-10",
+   "restSec": 60
+  },
+  "steps": [
+   "اركع وامسك العجلة",
+   "دحرجها للأمام ببطء والبطن مشدود",
+   "ارجع بشد البطن"
+  ],
+  "mistakes": [
+   "تقويس الظهر"
+  ],
+  "breathing": "زفير وقت المجهود، شهيق وأنت ترجع.",
+  "alternatives": [
+   "plank"
+  ],
+  "media": {
+   "video": "/media/exercises/ab-wheel-rollout/video.webm",
+   "videoMp4": "/media/exercises/ab-wheel-rollout/video.mp4",
+   "poster": "/media/exercises/ab-wheel-rollout/poster.webp",
+   "thumb": "/media/exercises/ab-wheel-rollout/thumb.webp"
+  }
+ },
+ {
+  "id": "pallof-press",
+  "name": {
+   "ar": "بالوف برس",
+   "en": "Pallof Press"
+  },
+  "primaryMuscles": [
+   "obliques",
+   "abs"
+  ],
+  "secondaryMuscles": [],
+  "equipment": "cable",
+  "difficulty": 1,
+  "mechanic": "isolation",
+  "defaults": {
+   "sets": 3,
+   "reps": "10/جهة",
+   "restSec": 45
+  },
+  "steps": [
+   "قف جنب الكيبل وامسك المقبض على صدرك",
+   "ادفع يديك للأمام وقاوم اللف",
+   "ارجع"
+  ],
+  "mistakes": [
+   "لف الجسم"
+  ],
+  "breathing": "زفير وقت المجهود، شهيق وأنت ترجع.",
+  "alternatives": [
+   "side-plank"
+  ],
+  "media": {
+   "video": "/media/exercises/pallof-press/video.webm",
+   "videoMp4": "/media/exercises/pallof-press/video.mp4",
+   "poster": "/media/exercises/pallof-press/poster.webp",
+   "thumb": "/media/exercises/pallof-press/thumb.webp"
+  }
+ },
+ {
+  "id": "cable-woodchop",
+  "name": {
+   "ar": "حطّاب الكيبل",
+   "en": "Cable Woodchop"
+  },
+  "primaryMuscles": [
+   "obliques"
+  ],
+  "secondaryMuscles": [
+   "abs",
+   "shoulders"
+  ],
+  "equipment": "cable",
+  "difficulty": 1,
+  "mechanic": "isolation",
+  "defaults": {
+   "sets": 3,
+   "reps": "12/جهة",
+   "restSec": 45
+  },
+  "steps": [
+   "اضبط الكيبل فوق وامسك المقبض بيديك",
+   "لف جسمك وانزل بالمقبض للركبة العكسية",
+   "ارجع بتحكم"
+  ],
+  "mistakes": [
+   "السحب بالذراع بس"
+  ],
+  "breathing": "زفير وقت المجهود، شهيق وأنت ترجع.",
+  "alternatives": [
+   "russian-twist"
+  ],
+  "media": {
+   "video": "/media/exercises/cable-woodchop/video.webm",
+   "videoMp4": "/media/exercises/cable-woodchop/video.mp4",
+   "poster": "/media/exercises/cable-woodchop/poster.webp",
+   "thumb": "/media/exercises/cable-woodchop/thumb.webp"
+  }
+ },
+ {
+  "id": "hollow-hold",
+  "name": {
+   "ar": "هولو هولد",
+   "en": "Hollow Hold"
+  },
+  "primaryMuscles": [
+   "abs"
+  ],
+  "secondaryMuscles": [],
+  "equipment": "bodyweight",
+  "difficulty": 2,
+  "mechanic": "isolation",
+  "defaults": {
+   "sets": 3,
+   "reps": "20-40 ث",
+   "restSec": 45
+  },
+  "steps": [
+   "استلقِ وارفع كتفك ورجلك عن الأرض",
+   "الصق أسفل ظهرك بالأرض",
+   "اثبت"
+  ],
+  "mistakes": [
+   "رفع أسفل الظهر"
+  ],
+  "breathing": "تنفس بهدوء.",
+  "alternatives": [
+   "dead-bug"
+  ],
+  "media": {
+   "video": "/media/exercises/hollow-hold/video.webm",
+   "videoMp4": "/media/exercises/hollow-hold/video.mp4",
+   "poster": "/media/exercises/hollow-hold/poster.webp",
+   "thumb": "/media/exercises/hollow-hold/thumb.webp"
+  }
+ },
+ {
+  "id": "reverse-crunch",
+  "name": {
+   "ar": "كرنش عكسي",
+   "en": "Reverse Crunch"
+  },
+  "primaryMuscles": [
+   "abs"
+  ],
+  "secondaryMuscles": [],
+  "equipment": "bodyweight",
+  "difficulty": 1,
+  "mechanic": "isolation",
+  "defaults": {
+   "sets": 3,
+   "reps": "12-15",
+   "restSec": 45
+  },
+  "steps": [
+   "استلقِ والركبة مثنية فوق",
+   "ارفع حوضك لصدرك",
+   "نزّل ببطء"
+  ],
+  "mistakes": [
+   "التأرجح"
+  ],
+  "breathing": "زفير وقت المجهود، شهيق وأنت ترجع.",
+  "alternatives": [
+   "crunch"
+  ],
+  "media": {
+   "video": "/media/exercises/reverse-crunch/video.webm",
+   "videoMp4": "/media/exercises/reverse-crunch/video.mp4",
+   "poster": "/media/exercises/reverse-crunch/poster.webp",
+   "thumb": "/media/exercises/reverse-crunch/thumb.webp"
+  }
+ },
+ {
+  "id": "flutter-kicks",
+  "name": {
+   "ar": "ركلات الرفرفة",
+   "en": "Flutter Kicks"
+  },
+  "primaryMuscles": [
+   "abs"
+  ],
+  "secondaryMuscles": [],
+  "equipment": "bodyweight",
+  "difficulty": 1,
+  "mechanic": "isolation",
+  "defaults": {
+   "sets": 3,
+   "reps": "30 ث",
+   "restSec": 30
+  },
+  "steps": [
+   "استلقِ وارفع رجليك قليلاً",
+   "حرّك رجليك فوق وتحت بالتناوب",
+   "خلّ أسفل الظهر لاصق"
+  ],
+  "mistakes": [
+   "تقويس الظهر"
+  ],
+  "breathing": "تنفس بإيقاع.",
+  "alternatives": [
+   "lying-leg-raise"
+  ],
+  "media": {
+   "video": "/media/exercises/flutter-kicks/video.webm",
+   "videoMp4": "/media/exercises/flutter-kicks/video.mp4",
+   "poster": "/media/exercises/flutter-kicks/poster.webp",
+   "thumb": "/media/exercises/flutter-kicks/thumb.webp"
+  }
+ },
+ {
+  "id": "heel-touch",
+  "name": {
+   "ar": "لمس الكعب",
+   "en": "Heel Touches"
+  },
+  "primaryMuscles": [
+   "obliques"
+  ],
+  "secondaryMuscles": [],
+  "equipment": "bodyweight",
+  "difficulty": 1,
+  "mechanic": "isolation",
+  "defaults": {
+   "sets": 3,
+   "reps": "20",
+   "restSec": 30
+  },
+  "steps": [
+   "استلقِ والركبة مثنية",
+   "ارفع كتفيك قليلاً",
+   "المس كعبك يمين ويسار"
+  ],
+  "mistakes": [
+   "سحب الرقبة"
+  ],
+  "breathing": "زفير وقت المجهود، شهيق وأنت ترجع.",
+  "alternatives": [
+   "russian-twist"
+  ],
+  "media": {
+   "video": "/media/exercises/heel-touch/video.webm",
+   "videoMp4": "/media/exercises/heel-touch/video.mp4",
+   "poster": "/media/exercises/heel-touch/poster.webp",
+   "thumb": "/media/exercises/heel-touch/thumb.webp"
+  }
+ },
+ {
+  "id": "captains-chair-raise",
+  "name": {
+   "ar": "رفع الركبة على الجهاز",
+   "en": "Captain's Chair Knee Raise"
+  },
+  "primaryMuscles": [
+   "abs"
+  ],
+  "secondaryMuscles": [
+   "obliques"
+  ],
+  "equipment": "machine",
+  "difficulty": 1,
+  "mechanic": "isolation",
+  "defaults": {
+   "sets": 3,
+   "reps": "10-15",
+   "restSec": 45
+  },
+  "steps": [
+   "اسند ساعدك على الجهاز وظهرك على المسند",
+   "ارفع ركبتك لصدرك",
+   "نزّل ببطء"
+  ],
+  "mistakes": [
+   "التأرجح"
+  ],
+  "breathing": "زفير وقت المجهود، شهيق وأنت ترجع.",
+  "alternatives": [
+   "hanging-knee-raise"
+  ],
+  "media": {
+   "video": "/media/exercises/captains-chair-raise/video.webm",
+   "videoMp4": "/media/exercises/captains-chair-raise/video.mp4",
+   "poster": "/media/exercises/captains-chair-raise/poster.webp",
+   "thumb": "/media/exercises/captains-chair-raise/thumb.webp"
+  }
+ },
+ {
+  "id": "plank-shoulder-tap",
+  "name": {
+   "ar": "بلانك لمس الكتف",
+   "en": "Plank Shoulder Tap"
+  },
+  "primaryMuscles": [
+   "abs"
+  ],
+  "secondaryMuscles": [
+   "shoulders",
+   "obliques"
+  ],
+  "equipment": "bodyweight",
+  "difficulty": 2,
+  "mechanic": "isolation",
+  "defaults": {
+   "sets": 3,
+   "reps": "20",
+   "restSec": 45
+  },
+  "steps": [
+   "وضعية الضغط ورجليك واسعة شوي",
+   "المس كتفك بيدك العكسية",
+   "بدّل وخلّ الحوض ثابت"
+  ],
+  "mistakes": [
+   "تأرجح الحوض"
+  ],
+  "breathing": "زفير وقت المجهود، شهيق وأنت ترجع.",
+  "alternatives": [
+   "plank"
+  ],
+  "media": {
+   "video": "/media/exercises/plank-shoulder-tap/video.webm",
+   "videoMp4": "/media/exercises/plank-shoulder-tap/video.mp4",
+   "poster": "/media/exercises/plank-shoulder-tap/poster.webp",
+   "thumb": "/media/exercises/plank-shoulder-tap/thumb.webp"
+  }
+ },
+ {
+  "id": "dead-hang",
+  "name": {
+   "ar": "التعلق الثابت",
+   "en": "Dead Hang"
+  },
+  "primaryMuscles": [
+   "forearms",
+   "lats"
+  ],
+  "secondaryMuscles": [
+   "shoulders"
+  ],
+  "equipment": "bodyweight",
+  "difficulty": 1,
+  "mechanic": "isolation",
+  "defaults": {
+   "sets": 3,
+   "reps": "20-40 ث",
+   "restSec": 60
+  },
+  "steps": [
+   "امسك بار العقلة",
+   "علّق جسمك والكتف مرتاح",
+   "اثبت"
+  ],
+  "mistakes": [
+   "التأرجح"
+  ],
+  "breathing": "تنفس بهدوء.",
+  "alternatives": [
+   "farmer-walk"
+  ],
+  "media": {
+   "video": "/media/exercises/dead-hang/video.webm",
+   "videoMp4": "/media/exercises/dead-hang/video.mp4",
+   "poster": "/media/exercises/dead-hang/poster.webp",
+   "thumb": "/media/exercises/dead-hang/thumb.webp"
+  }
+ },
+ {
+  "id": "burpee",
+  "name": {
+   "ar": "بيربي",
+   "en": "Burpee"
+  },
+  "primaryMuscles": [
+   "quads",
+   "chest"
+  ],
+  "secondaryMuscles": [
+   "shoulders",
+   "abs"
+  ],
+  "equipment": "bodyweight",
+  "difficulty": 2,
+  "mechanic": "compound",
+  "defaults": {
+   "sets": 3,
+   "reps": "8-12",
+   "restSec": 60
+  },
+  "steps": [
+   "انزل سكوات وحط يديك",
+   "ارجع برجليك لوضع الضغط",
+   "ارجع وقُم بقفزة"
+  ],
+  "mistakes": [
+   "نزول الحوض"
+  ],
+  "breathing": "تنفس بإيقاع.",
+  "alternatives": [
+   "jump-squat",
+   "mountain-climber"
+  ],
+  "media": {
+   "video": "/media/exercises/burpee/video.webm",
+   "videoMp4": "/media/exercises/burpee/video.mp4",
+   "poster": "/media/exercises/burpee/poster.webp",
+   "thumb": "/media/exercises/burpee/thumb.webp"
+  }
+ },
+ {
+  "id": "high-knees",
+  "name": {
+   "ar": "رفع الركب",
+   "en": "High Knees"
+  },
+  "primaryMuscles": [
+   "quads"
+  ],
+  "secondaryMuscles": [
+   "calves",
+   "abs"
+  ],
+  "equipment": "bodyweight",
+  "difficulty": 1,
+  "mechanic": "compound",
+  "defaults": {
+   "sets": 3,
+   "reps": "30 ث",
+   "restSec": 30
+  },
+  "steps": [
+   "اركض بمكانك",
+   "ارفع ركبك لمستوى الحوض",
+   "حرك يديك"
+  ],
+  "mistakes": [
+   "الانحناء للخلف"
+  ],
+  "breathing": "تنفس بإيقاع.",
+  "alternatives": [
+   "mountain-climber"
+  ],
+  "media": {
+   "video": "/media/exercises/high-knees/video.webm",
+   "videoMp4": "/media/exercises/high-knees/video.mp4",
+   "poster": "/media/exercises/high-knees/poster.webp",
+   "thumb": "/media/exercises/high-knees/thumb.webp"
+  }
+ },
+ {
+  "id": "bear-crawl",
+  "name": {
+   "ar": "مشية الدب",
+   "en": "Bear Crawl"
+  },
+  "primaryMuscles": [
+   "shoulders",
+   "abs"
+  ],
+  "secondaryMuscles": [
+   "quads"
+  ],
+  "equipment": "bodyweight",
+  "difficulty": 2,
+  "mechanic": "compound",
+  "defaults": {
+   "sets": 3,
+   "reps": "20-30 ث",
+   "restSec": 45
+  },
+  "steps": [
+   "على يديك ورجليك والركبة فوق الأرض بقليل",
+   "امشِ للأمام بيد ورجل عكسية",
+   "خلّ الظهر مستقيم"
+  ],
+  "mistakes": [
+   "رفع الحوض"
+  ],
+  "breathing": "تنفس بإيقاع.",
+  "alternatives": [
+   "mountain-climber"
+  ],
+  "media": {
+   "video": "/media/exercises/bear-crawl/video.webm",
+   "videoMp4": "/media/exercises/bear-crawl/video.mp4",
+   "poster": "/media/exercises/bear-crawl/poster.webp",
+   "thumb": "/media/exercises/bear-crawl/thumb.webp"
+  }
+ }
+]
