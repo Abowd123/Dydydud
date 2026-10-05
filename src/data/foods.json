@@ -1,0 +1,3353 @@
+[
+ {
+  "id": "chicken-breast",
+  "name": {
+   "ar": "صدر دجاج مشوي",
+   "en": "Grilled chicken breast"
+  },
+  "category": "meat",
+  "role": "protein",
+  "meals": [
+   "l",
+   "d"
+  ],
+  "serving": {
+   "ar": "100 جم",
+   "en": "100 g"
+  },
+  "grams": 100,
+  "kcal": 165,
+  "protein": 31,
+  "carbs": 0,
+  "fat": 3.6,
+  "step": 0.5,
+  "min": 0.5,
+  "max": 3,
+  "vegetarian": false,
+  "lactose": false,
+  "cost": 1,
+  "generator": true,
+  "image": "/media/foods/chicken-breast.webp"
+ },
+ {
+  "id": "chicken-thigh",
+  "name": {
+   "ar": "فخذ دجاج بدون جلد",
+   "en": "Skinless chicken thigh"
+  },
+  "category": "meat",
+  "role": "protein",
+  "meals": [
+   "l",
+   "d"
+  ],
+  "serving": {
+   "ar": "100 جم",
+   "en": "100 g"
+  },
+  "grams": 100,
+  "kcal": 209,
+  "protein": 26,
+  "carbs": 0,
+  "fat": 10.9,
+  "step": 0.5,
+  "min": 0.5,
+  "max": 3,
+  "vegetarian": false,
+  "lactose": false,
+  "cost": 1,
+  "generator": true,
+  "image": "/media/foods/chicken-thigh.webp"
+ },
+ {
+  "id": "chicken-shawarma",
+  "name": {
+   "ar": "شاورما دجاج (بدون خبز)",
+   "en": "Chicken shawarma (no bread)"
+  },
+  "category": "meat",
+  "role": "protein",
+  "meals": [
+   "l",
+   "d"
+  ],
+  "serving": {
+   "ar": "100 جم",
+   "en": "100 g"
+  },
+  "grams": 100,
+  "kcal": 200,
+  "protein": 22,
+  "carbs": 3,
+  "fat": 11,
+  "step": 0.5,
+  "min": 0.5,
+  "max": 2,
+  "vegetarian": false,
+  "lactose": false,
+  "cost": 2,
+  "generator": true,
+  "image": "/media/foods/chicken-shawarma.webp"
+ },
+ {
+  "id": "lean-beef",
+  "name": {
+   "ar": "لحم بقري مفروم قليل الدهن",
+   "en": "Lean ground beef"
+  },
+  "category": "meat",
+  "role": "protein",
+  "meals": [
+   "l",
+   "d"
+  ],
+  "serving": {
+   "ar": "100 جم",
+   "en": "100 g"
+  },
+  "grams": 100,
+  "kcal": 176,
+  "protein": 20,
+  "carbs": 0,
+  "fat": 10,
+  "step": 0.5,
+  "min": 0.5,
+  "max": 2,
+  "vegetarian": false,
+  "lactose": false,
+  "cost": 2,
+  "generator": true,
+  "image": "/media/foods/lean-beef.webp"
+ },
+ {
+  "id": "beef-steak",
+  "name": {
+   "ar": "ستيك لحم",
+   "en": "Beef steak"
+  },
+  "category": "meat",
+  "role": "protein",
+  "meals": [
+   "l",
+   "d"
+  ],
+  "serving": {
+   "ar": "100 جم",
+   "en": "100 g"
+  },
+  "grams": 100,
+  "kcal": 217,
+  "protein": 26,
+  "carbs": 0,
+  "fat": 12,
+  "step": 0.5,
+  "min": 0.5,
+  "max": 2,
+  "vegetarian": false,
+  "lactose": false,
+  "cost": 3,
+  "generator": true,
+  "image": "/media/foods/beef-steak.webp"
+ },
+ {
+  "id": "lamb-lean",
+  "name": {
+   "ar": "لحم غنم قليل الدهن",
+   "en": "Lean lamb"
+  },
+  "category": "meat",
+  "role": "protein",
+  "meals": [
+   "l",
+   "d"
+  ],
+  "serving": {
+   "ar": "100 جم",
+   "en": "100 g"
+  },
+  "grams": 100,
+  "kcal": 206,
+  "protein": 27,
+  "carbs": 0,
+  "fat": 10,
+  "step": 0.5,
+  "min": 0.5,
+  "max": 2,
+  "vegetarian": false,
+  "lactose": false,
+  "cost": 3,
+  "generator": true,
+  "image": "/media/foods/lamb-lean.webp"
+ },
+ {
+  "id": "kofta",
+  "name": {
+   "ar": "كفتة مشوية",
+   "en": "Grilled kofta"
+  },
+  "category": "meat",
+  "role": "protein",
+  "meals": [
+   "l",
+   "d"
+  ],
+  "serving": {
+   "ar": "100 جم",
+   "en": "100 g"
+  },
+  "grams": 100,
+  "kcal": 250,
+  "protein": 18,
+  "carbs": 4,
+  "fat": 18,
+  "step": 0.5,
+  "min": 0.5,
+  "max": 2,
+  "vegetarian": false,
+  "lactose": false,
+  "cost": 2,
+  "generator": true,
+  "image": "/media/foods/kofta.webp"
+ },
+ {
+  "id": "beef-liver",
+  "name": {
+   "ar": "كبدة",
+   "en": "Beef liver"
+  },
+  "category": "meat",
+  "role": "protein",
+  "meals": [
+   "b",
+   "l",
+   "d"
+  ],
+  "serving": {
+   "ar": "100 جم",
+   "en": "100 g"
+  },
+  "grams": 100,
+  "kcal": 135,
+  "protein": 20,
+  "carbs": 3.9,
+  "fat": 3.6,
+  "step": 0.5,
+  "min": 0.5,
+  "max": 2,
+  "vegetarian": false,
+  "lactose": false,
+  "cost": 1,
+  "generator": true,
+  "image": "/media/foods/beef-liver.webp"
+ },
+ {
+  "id": "turkey-slices",
+  "name": {
+   "ar": "شرائح تركي",
+   "en": "Turkey slices"
+  },
+  "category": "meat",
+  "role": "protein",
+  "meals": [
+   "b",
+   "s"
+  ],
+  "serving": {
+   "ar": "50 جم",
+   "en": "50 g"
+  },
+  "grams": 50,
+  "kcal": 55,
+  "protein": 10,
+  "carbs": 1,
+  "fat": 1,
+  "step": 1,
+  "min": 1,
+  "max": 4,
+  "vegetarian": false,
+  "lactose": false,
+  "cost": 2,
+  "generator": true,
+  "image": "/media/foods/turkey-slices.webp"
+ },
+ {
+  "id": "tuna-can",
+  "name": {
+   "ar": "تونة بالماء",
+   "en": "Canned tuna in water"
+  },
+  "category": "fish",
+  "role": "protein",
+  "meals": [
+   "b",
+   "l",
+   "d"
+  ],
+  "serving": {
+   "ar": "علبة 120 جم",
+   "en": "1 can 120 g"
+  },
+  "grams": 120,
+  "kcal": 130,
+  "protein": 29,
+  "carbs": 0,
+  "fat": 1,
+  "step": 0.5,
+  "min": 0.5,
+  "max": 2,
+  "vegetarian": false,
+  "lactose": false,
+  "cost": 1,
+  "generator": true,
+  "image": "/media/foods/tuna-can.webp"
+ },
+ {
+  "id": "salmon",
+  "name": {
+   "ar": "سلمون",
+   "en": "Salmon"
+  },
+  "category": "fish",
+  "role": "protein",
+  "meals": [
+   "l",
+   "d"
+  ],
+  "serving": {
+   "ar": "100 جم",
+   "en": "100 g"
+  },
+  "grams": 100,
+  "kcal": 208,
+  "protein": 20,
+  "carbs": 0,
+  "fat": 13,
+  "step": 0.5,
+  "min": 0.5,
+  "max": 2,
+  "vegetarian": false,
+  "lactose": false,
+  "cost": 3,
+  "generator": true,
+  "image": "/media/foods/salmon.webp"
+ },
+ {
+  "id": "white-fish",
+  "name": {
+   "ar": "سمك أبيض (هامور / بلطي)",
+   "en": "White fish (hamour / tilapia)"
+  },
+  "category": "fish",
+  "role": "protein",
+  "meals": [
+   "l",
+   "d"
+  ],
+  "serving": {
+   "ar": "100 جم",
+   "en": "100 g"
+  },
+  "grams": 100,
+  "kcal": 128,
+  "protein": 26,
+  "carbs": 0,
+  "fat": 2.7,
+  "step": 0.5,
+  "min": 0.5,
+  "max": 2.5,
+  "vegetarian": false,
+  "lactose": false,
+  "cost": 2,
+  "generator": true,
+  "image": "/media/foods/white-fish.webp"
+ },
+ {
+  "id": "shrimp",
+  "name": {
+   "ar": "روبيان",
+   "en": "Shrimp"
+  },
+  "category": "fish",
+  "role": "protein",
+  "meals": [
+   "l",
+   "d"
+  ],
+  "serving": {
+   "ar": "100 جم",
+   "en": "100 g"
+  },
+  "grams": 100,
+  "kcal": 99,
+  "protein": 24,
+  "carbs": 0,
+  "fat": 0.3,
+  "step": 0.5,
+  "min": 0.5,
+  "max": 2.5,
+  "vegetarian": false,
+  "lactose": false,
+  "cost": 3,
+  "generator": true,
+  "image": "/media/foods/shrimp.webp"
+ },
+ {
+  "id": "sardines",
+  "name": {
+   "ar": "سردين معلب",
+   "en": "Canned sardines"
+  },
+  "category": "fish",
+  "role": "protein",
+  "meals": [
+   "b",
+   "l",
+   "d"
+  ],
+  "serving": {
+   "ar": "علبة 90 جم",
+   "en": "1 can 90 g"
+  },
+  "grams": 90,
+  "kcal": 190,
+  "protein": 22,
+  "carbs": 0,
+  "fat": 11,
+  "step": 1,
+  "min": 1,
+  "max": 2,
+  "vegetarian": false,
+  "lactose": false,
+  "cost": 1,
+  "generator": true,
+  "image": "/media/foods/sardines.webp"
+ },
+ {
+  "id": "egg",
+  "name": {
+   "ar": "بيض كامل",
+   "en": "Whole egg"
+  },
+  "category": "eggs",
+  "role": "protein",
+  "meals": [
+   "b",
+   "d"
+  ],
+  "serving": {
+   "ar": "بيضة",
+   "en": "1 egg"
+  },
+  "grams": 50,
+  "kcal": 72,
+  "protein": 6.3,
+  "carbs": 0.4,
+  "fat": 4.8,
+  "step": 1,
+  "min": 1,
+  "max": 5,
+  "vegetarian": true,
+  "lactose": false,
+  "cost": 1,
+  "generator": true,
+  "image": "/media/foods/egg.webp"
+ },
+ {
+  "id": "egg-whites",
+  "name": {
+   "ar": "بياض بيض",
+   "en": "Egg whites"
+  },
+  "category": "eggs",
+  "role": "protein",
+  "meals": [
+   "b",
+   "d",
+   "l"
+  ],
+  "serving": {
+   "ar": "100 جم (3 بياض)",
+   "en": "100 g (3 whites)"
+  },
+  "grams": 100,
+  "kcal": 52,
+  "protein": 11,
+  "carbs": 0.7,
+  "fat": 0.2,
+  "step": 1,
+  "min": 1,
+  "max": 4,
+  "vegetarian": true,
+  "lactose": false,
+  "cost": 1,
+  "generator": true,
+  "image": "/media/foods/egg-whites.webp"
+ },
+ {
+  "id": "shakshuka",
+  "name": {
+   "ar": "شكشوكة",
+   "en": "Shakshuka"
+  },
+  "category": "eggs",
+  "role": "protein",
+  "meals": [
+   "b"
+  ],
+  "serving": {
+   "ar": "طبق صغير (بيضتين)",
+   "en": "small plate (2 eggs)"
+  },
+  "grams": 200,
+  "kcal": 220,
+  "protein": 13,
+  "carbs": 10,
+  "fat": 14,
+  "step": 0.5,
+  "min": 0.5,
+  "max": 2,
+  "vegetarian": true,
+  "lactose": false,
+  "cost": 1,
+  "generator": true,
+  "image": "/media/foods/shakshuka.webp"
+ },
+ {
+  "id": "foul",
+  "name": {
+   "ar": "فول مدمس",
+   "en": "Foul medames"
+  },
+  "category": "legumes",
+  "role": "protein",
+  "meals": [
+   "b",
+   "d"
+  ],
+  "serving": {
+   "ar": "كوب",
+   "en": "1 cup"
+  },
+  "grams": 250,
+  "kcal": 250,
+  "protein": 13,
+  "carbs": 32,
+  "fat": 8,
+  "step": 0.5,
+  "min": 0.5,
+  "max": 2,
+  "vegetarian": true,
+  "lactose": false,
+  "cost": 1,
+  "generator": true,
+  "image": "/media/foods/foul.webp"
+ },
+ {
+  "id": "lentils",
+  "name": {
+   "ar": "عدس مطبوخ",
+   "en": "Cooked lentils"
+  },
+  "category": "legumes",
+  "role": "protein",
+  "meals": [
+   "l",
+   "d"
+  ],
+  "serving": {
+   "ar": "كوب",
+   "en": "1 cup"
+  },
+  "grams": 200,
+  "kcal": 230,
+  "protein": 18,
+  "carbs": 40,
+  "fat": 0.8,
+  "step": 0.5,
+  "min": 0.5,
+  "max": 2,
+  "vegetarian": true,
+  "lactose": false,
+  "cost": 1,
+  "generator": true,
+  "image": "/media/foods/lentils.webp"
+ },
+ {
+  "id": "lentil-soup",
+  "name": {
+   "ar": "شوربة عدس",
+   "en": "Lentil soup"
+  },
+  "category": "legumes",
+  "role": "protein",
+  "meals": [
+   "l",
+   "d"
+  ],
+  "serving": {
+   "ar": "صحن",
+   "en": "1 bowl"
+  },
+  "grams": 250,
+  "kcal": 180,
+  "protein": 10,
+  "carbs": 28,
+  "fat": 3.5,
+  "step": 0.5,
+  "min": 0.5,
+  "max": 2,
+  "vegetarian": true,
+  "lactose": false,
+  "cost": 1,
+  "generator": true,
+  "image": "/media/foods/lentil-soup.webp"
+ },
+ {
+  "id": "chickpeas",
+  "name": {
+   "ar": "حمص حب مطبوخ",
+   "en": "Cooked chickpeas"
+  },
+  "category": "legumes",
+  "role": "protein",
+  "meals": [
+   "l",
+   "d"
+  ],
+  "serving": {
+   "ar": "كوب",
+   "en": "1 cup"
+  },
+  "grams": 165,
+  "kcal": 269,
+  "protein": 14.5,
+  "carbs": 45,
+  "fat": 4.2,
+  "step": 0.5,
+  "min": 0.5,
+  "max": 1.5,
+  "vegetarian": true,
+  "lactose": false,
+  "cost": 1,
+  "generator": true,
+  "image": "/media/foods/chickpeas.webp"
+ },
+ {
+  "id": "hummus",
+  "name": {
+   "ar": "حمص بالطحينة",
+   "en": "Hummus"
+  },
+  "category": "legumes",
+  "role": "fat",
+  "meals": [
+   "b",
+   "l",
+   "d"
+  ],
+  "serving": {
+   "ar": "50 جم",
+   "en": "50 g"
+  },
+  "grams": 50,
+  "kcal": 83,
+  "protein": 4,
+  "carbs": 7,
+  "fat": 5,
+  "step": 1,
+  "min": 1,
+  "max": 3,
+  "vegetarian": true,
+  "lactose": false,
+  "cost": 1,
+  "generator": true,
+  "image": "/media/foods/hummus.webp"
+ },
+ {
+  "id": "falafel",
+  "name": {
+   "ar": "فلافل",
+   "en": "Falafel"
+  },
+  "category": "legumes",
+  "role": "protein",
+  "meals": [
+   "b"
+  ],
+  "serving": {
+   "ar": "3 حبات",
+   "en": "3 pieces"
+  },
+  "grams": 50,
+  "kcal": 167,
+  "protein": 7,
+  "carbs": 16,
+  "fat": 9,
+  "step": 1,
+  "min": 1,
+  "max": 2,
+  "vegetarian": true,
+  "lactose": false,
+  "cost": 1,
+  "generator": true,
+  "image": "/media/foods/falafel.webp"
+ },
+ {
+  "id": "tofu",
+  "name": {
+   "ar": "توفو",
+   "en": "Tofu"
+  },
+  "category": "legumes",
+  "role": "protein",
+  "meals": [
+   "b",
+   "l",
+   "d"
+  ],
+  "serving": {
+   "ar": "100 جم",
+   "en": "100 g"
+  },
+  "grams": 100,
+  "kcal": 144,
+  "protein": 15.6,
+  "carbs": 3.5,
+  "fat": 8.7,
+  "step": 0.5,
+  "min": 0.5,
+  "max": 3,
+  "vegetarian": true,
+  "lactose": false,
+  "cost": 2,
+  "generator": true,
+  "image": "/media/foods/tofu.webp"
+ },
+ {
+  "id": "red-beans",
+  "name": {
+   "ar": "فاصوليا حمراء",
+   "en": "Red kidney beans"
+  },
+  "category": "legumes",
+  "role": "protein",
+  "meals": [
+   "l",
+   "d"
+  ],
+  "serving": {
+   "ar": "كوب",
+   "en": "1 cup"
+  },
+  "grams": 177,
+  "kcal": 225,
+  "protein": 15,
+  "carbs": 40,
+  "fat": 0.9,
+  "step": 0.5,
+  "min": 0.5,
+  "max": 1.5,
+  "vegetarian": true,
+  "lactose": false,
+  "cost": 1,
+  "generator": true,
+  "image": "/media/foods/red-beans.webp"
+ },
+ {
+  "id": "greek-yogurt",
+  "name": {
+   "ar": "زبادي يوناني",
+   "en": "Greek yogurt"
+  },
+  "category": "dairy",
+  "role": "protein",
+  "meals": [
+   "b",
+   "s",
+   "l",
+   "d"
+  ],
+  "serving": {
+   "ar": "علبة 170 جم",
+   "en": "1 cup 170 g"
+  },
+  "grams": 170,
+  "kcal": 100,
+  "protein": 17,
+  "carbs": 6,
+  "fat": 0.7,
+  "step": 1,
+  "min": 1,
+  "max": 3,
+  "vegetarian": true,
+  "lactose": true,
+  "cost": 2,
+  "generator": true,
+  "image": "/media/foods/greek-yogurt.webp"
+ },
+ {
+  "id": "plain-yogurt",
+  "name": {
+   "ar": "زبادي (روب)",
+   "en": "Plain yogurt"
+  },
+  "category": "dairy",
+  "role": "protein",
+  "meals": [
+   "b",
+   "s"
+  ],
+  "serving": {
+   "ar": "علبة 170 جم",
+   "en": "1 cup 170 g"
+  },
+  "grams": 170,
+  "kcal": 104,
+  "protein": 6,
+  "carbs": 8,
+  "fat": 5.5,
+  "step": 1,
+  "min": 1,
+  "max": 2,
+  "vegetarian": true,
+  "lactose": true,
+  "cost": 1,
+  "generator": true,
+  "image": "/media/foods/plain-yogurt.webp"
+ },
+ {
+  "id": "cottage-cheese",
+  "name": {
+   "ar": "جبن قريش (كوتيج)",
+   "en": "Cottage cheese"
+  },
+  "category": "dairy",
+  "role": "protein",
+  "meals": [
+   "b",
+   "s",
+   "d"
+  ],
+  "serving": {
+   "ar": "100 جم",
+   "en": "100 g"
+  },
+  "grams": 100,
+  "kcal": 98,
+  "protein": 11,
+  "carbs": 3.4,
+  "fat": 4.3,
+  "step": 1,
+  "min": 1,
+  "max": 2,
+  "vegetarian": true,
+  "lactose": true,
+  "cost": 1,
+  "generator": true,
+  "image": "/media/foods/cottage-cheese.webp"
+ },
+ {
+  "id": "labneh",
+  "name": {
+   "ar": "لبنة",
+   "en": "Labneh"
+  },
+  "category": "dairy",
+  "role": "fat",
+  "meals": [
+   "b",
+   "s"
+  ],
+  "serving": {
+   "ar": "2 ملعقة",
+   "en": "2 tbsp"
+  },
+  "grams": 30,
+  "kcal": 50,
+  "protein": 2,
+  "carbs": 1.5,
+  "fat": 4,
+  "step": 1,
+  "min": 1,
+  "max": 3,
+  "vegetarian": true,
+  "lactose": true,
+  "cost": 1,
+  "generator": true,
+  "image": "/media/foods/labneh.webp"
+ },
+ {
+  "id": "halloumi",
+  "name": {
+   "ar": "حلوم",
+   "en": "Halloumi"
+  },
+  "category": "dairy",
+  "role": "protein",
+  "meals": [
+   "b"
+  ],
+  "serving": {
+   "ar": "50 جم",
+   "en": "50 g"
+  },
+  "grams": 50,
+  "kcal": 160,
+  "protein": 11,
+  "carbs": 1,
+  "fat": 12.5,
+  "step": 0.5,
+  "min": 0.5,
+  "max": 2,
+  "vegetarian": true,
+  "lactose": false,
+  "cost": 2,
+  "generator": true,
+  "image": "/media/foods/halloumi.webp"
+ },
+ {
+  "id": "feta",
+  "name": {
+   "ar": "جبن فيتا",
+   "en": "Feta cheese"
+  },
+  "category": "dairy",
+  "role": "fat",
+  "meals": [
+   "b",
+   "l"
+  ],
+  "serving": {
+   "ar": "30 جم",
+   "en": "30 g"
+  },
+  "grams": 30,
+  "kcal": 75,
+  "protein": 4,
+  "carbs": 1.2,
+  "fat": 6,
+  "step": 1,
+  "min": 1,
+  "max": 2,
+  "vegetarian": true,
+  "lactose": false,
+  "cost": 1,
+  "generator": true,
+  "image": "/media/foods/feta.webp"
+ },
+ {
+  "id": "white-cheese",
+  "name": {
+   "ar": "جبن أبيض (عكاوي)",
+   "en": "White cheese (akkawi)"
+  },
+  "category": "dairy",
+  "role": "protein",
+  "meals": [
+   "b"
+  ],
+  "serving": {
+   "ar": "30 جم",
+   "en": "30 g"
+  },
+  "grams": 30,
+  "kcal": 75,
+  "protein": 5,
+  "carbs": 1,
+  "fat": 6,
+  "step": 1,
+  "min": 1,
+  "max": 3,
+  "vegetarian": true,
+  "lactose": true,
+  "cost": 1,
+  "generator": true,
+  "image": "/media/foods/white-cheese.webp"
+ },
+ {
+  "id": "cheddar",
+  "name": {
+   "ar": "جبن شيدر",
+   "en": "Cheddar slice"
+  },
+  "category": "dairy",
+  "role": "fat",
+  "meals": [
+   "b"
+  ],
+  "serving": {
+   "ar": "شريحة",
+   "en": "1 slice"
+  },
+  "grams": 21,
+  "kcal": 85,
+  "protein": 5,
+  "carbs": 0.3,
+  "fat": 7,
+  "step": 1,
+  "min": 1,
+  "max": 2,
+  "vegetarian": true,
+  "lactose": false,
+  "cost": 1,
+  "generator": true,
+  "image": "/media/foods/cheddar.webp"
+ },
+ {
+  "id": "laban",
+  "name": {
+   "ar": "لبن رايب",
+   "en": "Laban (buttermilk)"
+  },
+  "category": "dairy",
+  "role": "protein",
+  "meals": [
+   "l",
+   "s"
+  ],
+  "serving": {
+   "ar": "كوب",
+   "en": "1 cup"
+  },
+  "grams": 240,
+  "kcal": 100,
+  "protein": 8,
+  "carbs": 12,
+  "fat": 2.5,
+  "step": 1,
+  "min": 1,
+  "max": 2,
+  "vegetarian": true,
+  "lactose": true,
+  "cost": 1,
+  "generator": true,
+  "image": "/media/foods/laban.webp"
+ },
+ {
+  "id": "milk-lowfat",
+  "name": {
+   "ar": "حليب قليل الدسم",
+   "en": "Low-fat milk"
+  },
+  "category": "dairy",
+  "role": "protein",
+  "meals": [
+   "b",
+   "s"
+  ],
+  "serving": {
+   "ar": "كوب",
+   "en": "1 cup"
+  },
+  "grams": 240,
+  "kcal": 102,
+  "protein": 8,
+  "carbs": 12,
+  "fat": 2.4,
+  "step": 1,
+  "min": 1,
+  "max": 2,
+  "vegetarian": true,
+  "lactose": true,
+  "cost": 1,
+  "generator": true,
+  "image": "/media/foods/milk-lowfat.webp"
+ },
+ {
+  "id": "milk-full",
+  "name": {
+   "ar": "حليب كامل الدسم",
+   "en": "Whole milk"
+  },
+  "category": "dairy",
+  "role": "protein",
+  "meals": [
+   "b",
+   "s"
+  ],
+  "serving": {
+   "ar": "كوب",
+   "en": "1 cup"
+  },
+  "grams": 240,
+  "kcal": 149,
+  "protein": 8,
+  "carbs": 12,
+  "fat": 8,
+  "step": 1,
+  "min": 1,
+  "max": 2,
+  "vegetarian": true,
+  "lactose": true,
+  "cost": 1,
+  "generator": true,
+  "image": "/media/foods/milk-full.webp"
+ },
+ {
+  "id": "lactose-free-milk",
+  "name": {
+   "ar": "حليب خالي من اللاكتوز",
+   "en": "Lactose-free milk"
+  },
+  "category": "dairy",
+  "role": "protein",
+  "meals": [
+   "b",
+   "s"
+  ],
+  "serving": {
+   "ar": "كوب",
+   "en": "1 cup"
+  },
+  "grams": 240,
+  "kcal": 102,
+  "protein": 8,
+  "carbs": 12,
+  "fat": 2.4,
+  "step": 1,
+  "min": 1,
+  "max": 2,
+  "vegetarian": true,
+  "lactose": false,
+  "cost": 2,
+  "generator": true,
+  "image": "/media/foods/lactose-free-milk.webp"
+ },
+ {
+  "id": "soy-milk",
+  "name": {
+   "ar": "حليب صويا",
+   "en": "Soy milk"
+  },
+  "category": "dairy",
+  "role": "protein",
+  "meals": [
+   "b",
+   "s"
+  ],
+  "serving": {
+   "ar": "كوب",
+   "en": "1 cup"
+  },
+  "grams": 240,
+  "kcal": 100,
+  "protein": 7,
+  "carbs": 8,
+  "fat": 4,
+  "step": 1,
+  "min": 1,
+  "max": 2,
+  "vegetarian": true,
+  "lactose": false,
+  "cost": 2,
+  "generator": true,
+  "image": "/media/foods/soy-milk.webp"
+ },
+ {
+  "id": "whey",
+  "name": {
+   "ar": "واي بروتين",
+   "en": "Whey protein"
+  },
+  "category": "supplement",
+  "role": "protein",
+  "meals": [
+   "s"
+  ],
+  "serving": {
+   "ar": "سكوب 30 جم",
+   "en": "1 scoop 30 g"
+  },
+  "grams": 30,
+  "kcal": 120,
+  "protein": 24,
+  "carbs": 3,
+  "fat": 1.5,
+  "step": 1,
+  "min": 1,
+  "max": 2,
+  "vegetarian": true,
+  "lactose": true,
+  "cost": 2,
+  "generator": true,
+  "image": "/media/foods/whey.webp"
+ },
+ {
+  "id": "whey-isolate",
+  "name": {
+   "ar": "واي آيزوليت",
+   "en": "Whey isolate"
+  },
+  "category": "supplement",
+  "role": "protein",
+  "meals": [
+   "s"
+  ],
+  "serving": {
+   "ar": "سكوب 30 جم",
+   "en": "1 scoop 30 g"
+  },
+  "grams": 30,
+  "kcal": 110,
+  "protein": 26,
+  "carbs": 1,
+  "fat": 0.5,
+  "step": 1,
+  "min": 1,
+  "max": 2,
+  "vegetarian": true,
+  "lactose": false,
+  "cost": 3,
+  "generator": true,
+  "image": "/media/foods/whey-isolate.webp"
+ },
+ {
+  "id": "protein-bar",
+  "name": {
+   "ar": "بار بروتين",
+   "en": "Protein bar"
+  },
+  "category": "snack",
+  "role": "protein",
+  "meals": [
+   "s"
+  ],
+  "serving": {
+   "ar": "بار 60 جم",
+   "en": "1 bar 60 g"
+  },
+  "grams": 60,
+  "kcal": 210,
+  "protein": 20,
+  "carbs": 22,
+  "fat": 7,
+  "step": 1,
+  "min": 1,
+  "max": 1,
+  "vegetarian": true,
+  "lactose": true,
+  "cost": 3,
+  "generator": true,
+  "image": "/media/foods/protein-bar.webp"
+ },
+ {
+  "id": "white-rice",
+  "name": {
+   "ar": "رز أبيض",
+   "en": "White rice"
+  },
+  "category": "grains",
+  "role": "carb",
+  "meals": [
+   "l",
+   "d"
+  ],
+  "serving": {
+   "ar": "كوب مطبوخ",
+   "en": "1 cup cooked"
+  },
+  "grams": 158,
+  "kcal": 205,
+  "protein": 4.3,
+  "carbs": 45,
+  "fat": 0.4,
+  "step": 0.5,
+  "min": 0.5,
+  "max": 3,
+  "vegetarian": true,
+  "lactose": false,
+  "cost": 1,
+  "generator": true,
+  "image": "/media/foods/white-rice.webp"
+ },
+ {
+  "id": "basmati-rice",
+  "name": {
+   "ar": "رز بسمتي",
+   "en": "Basmati rice"
+  },
+  "category": "grains",
+  "role": "carb",
+  "meals": [
+   "l",
+   "d"
+  ],
+  "serving": {
+   "ar": "كوب مطبوخ",
+   "en": "1 cup cooked"
+  },
+  "grams": 158,
+  "kcal": 210,
+  "protein": 4.4,
+  "carbs": 46,
+  "fat": 0.5,
+  "step": 0.5,
+  "min": 0.5,
+  "max": 3,
+  "vegetarian": true,
+  "lactose": false,
+  "cost": 1,
+  "generator": true,
+  "image": "/media/foods/basmati-rice.webp"
+ },
+ {
+  "id": "brown-rice",
+  "name": {
+   "ar": "رز بني",
+   "en": "Brown rice"
+  },
+  "category": "grains",
+  "role": "carb",
+  "meals": [
+   "l",
+   "d"
+  ],
+  "serving": {
+   "ar": "كوب مطبوخ",
+   "en": "1 cup cooked"
+  },
+  "grams": 195,
+  "kcal": 216,
+  "protein": 5,
+  "carbs": 45,
+  "fat": 1.8,
+  "step": 0.5,
+  "min": 0.5,
+  "max": 3,
+  "vegetarian": true,
+  "lactose": false,
+  "cost": 2,
+  "generator": true,
+  "image": "/media/foods/brown-rice.webp"
+ },
+ {
+  "id": "bulgur",
+  "name": {
+   "ar": "برغل",
+   "en": "Bulgur"
+  },
+  "category": "grains",
+  "role": "carb",
+  "meals": [
+   "l",
+   "d"
+  ],
+  "serving": {
+   "ar": "كوب مطبوخ",
+   "en": "1 cup cooked"
+  },
+  "grams": 182,
+  "kcal": 151,
+  "protein": 5.6,
+  "carbs": 34,
+  "fat": 0.4,
+  "step": 0.5,
+  "min": 0.5,
+  "max": 3,
+  "vegetarian": true,
+  "lactose": false,
+  "cost": 1,
+  "generator": true,
+  "image": "/media/foods/bulgur.webp"
+ },
+ {
+  "id": "freekeh",
+  "name": {
+   "ar": "فريكة",
+   "en": "Freekeh"
+  },
+  "category": "grains",
+  "role": "carb",
+  "meals": [
+   "l",
+   "d"
+  ],
+  "serving": {
+   "ar": "كوب مطبوخ",
+   "en": "1 cup cooked"
+  },
+  "grams": 160,
+  "kcal": 170,
+  "protein": 7,
+  "carbs": 34,
+  "fat": 1.2,
+  "step": 0.5,
+  "min": 0.5,
+  "max": 3,
+  "vegetarian": true,
+  "lactose": false,
+  "cost": 2,
+  "generator": true,
+  "image": "/media/foods/freekeh.webp"
+ },
+ {
+  "id": "pasta",
+  "name": {
+   "ar": "مكرونة",
+   "en": "Pasta"
+  },
+  "category": "grains",
+  "role": "carb",
+  "meals": [
+   "l",
+   "d"
+  ],
+  "serving": {
+   "ar": "كوب مطبوخ",
+   "en": "1 cup cooked"
+  },
+  "grams": 140,
+  "kcal": 220,
+  "protein": 8,
+  "carbs": 43,
+  "fat": 1.3,
+  "step": 0.5,
+  "min": 0.5,
+  "max": 3,
+  "vegetarian": true,
+  "lactose": false,
+  "cost": 1,
+  "generator": true,
+  "image": "/media/foods/pasta.webp"
+ },
+ {
+  "id": "ww-pasta",
+  "name": {
+   "ar": "مكرونة قمح كامل",
+   "en": "Whole wheat pasta"
+  },
+  "category": "grains",
+  "role": "carb",
+  "meals": [
+   "l",
+   "d"
+  ],
+  "serving": {
+   "ar": "كوب مطبوخ",
+   "en": "1 cup cooked"
+  },
+  "grams": 140,
+  "kcal": 174,
+  "protein": 7.5,
+  "carbs": 37,
+  "fat": 0.8,
+  "step": 0.5,
+  "min": 0.5,
+  "max": 3,
+  "vegetarian": true,
+  "lactose": false,
+  "cost": 2,
+  "generator": true,
+  "image": "/media/foods/ww-pasta.webp"
+ },
+ {
+  "id": "quinoa",
+  "name": {
+   "ar": "كينوا",
+   "en": "Quinoa"
+  },
+  "category": "grains",
+  "role": "carb",
+  "meals": [
+   "l",
+   "d"
+  ],
+  "serving": {
+   "ar": "كوب مطبوخ",
+   "en": "1 cup cooked"
+  },
+  "grams": 185,
+  "kcal": 222,
+  "protein": 8,
+  "carbs": 39,
+  "fat": 3.6,
+  "step": 0.5,
+  "min": 0.5,
+  "max": 2.5,
+  "vegetarian": true,
+  "lactose": false,
+  "cost": 3,
+  "generator": true,
+  "image": "/media/foods/quinoa.webp"
+ },
+ {
+  "id": "arabic-bread",
+  "name": {
+   "ar": "خبز عربي",
+   "en": "Arabic bread"
+  },
+  "category": "bread",
+  "role": "carb",
+  "meals": [
+   "b",
+   "l",
+   "d"
+  ],
+  "serving": {
+   "ar": "رغيف صغير",
+   "en": "1 small loaf"
+  },
+  "grams": 60,
+  "kcal": 165,
+  "protein": 5.5,
+  "carbs": 33,
+  "fat": 0.7,
+  "step": 0.5,
+  "min": 0.5,
+  "max": 3,
+  "vegetarian": true,
+  "lactose": false,
+  "cost": 1,
+  "generator": true,
+  "image": "/media/foods/arabic-bread.webp"
+ },
+ {
+  "id": "ww-arabic-bread",
+  "name": {
+   "ar": "خبز عربي أسمر",
+   "en": "Whole wheat Arabic bread"
+  },
+  "category": "bread",
+  "role": "carb",
+  "meals": [
+   "b",
+   "l",
+   "d"
+  ],
+  "serving": {
+   "ar": "رغيف صغير",
+   "en": "1 small loaf"
+  },
+  "grams": 60,
+  "kcal": 150,
+  "protein": 6,
+  "carbs": 30,
+  "fat": 1.5,
+  "step": 0.5,
+  "min": 0.5,
+  "max": 3,
+  "vegetarian": true,
+  "lactose": false,
+  "cost": 1,
+  "generator": true,
+  "image": "/media/foods/ww-arabic-bread.webp"
+ },
+ {
+  "id": "brown-toast",
+  "name": {
+   "ar": "توست أسمر",
+   "en": "Brown toast"
+  },
+  "category": "bread",
+  "role": "carb",
+  "meals": [
+   "b",
+   "s"
+  ],
+  "serving": {
+   "ar": "شريحة",
+   "en": "1 slice"
+  },
+  "grams": 30,
+  "kcal": 80,
+  "protein": 4,
+  "carbs": 14,
+  "fat": 1,
+  "step": 1,
+  "min": 1,
+  "max": 4,
+  "vegetarian": true,
+  "lactose": false,
+  "cost": 1,
+  "generator": true,
+  "image": "/media/foods/brown-toast.webp"
+ },
+ {
+  "id": "samoon",
+  "name": {
+   "ar": "صمون",
+   "en": "Samoon bread"
+  },
+  "category": "bread",
+  "role": "carb",
+  "meals": [
+   "b",
+   "l"
+  ],
+  "serving": {
+   "ar": "حبة",
+   "en": "1 piece"
+  },
+  "grams": 80,
+  "kcal": 220,
+  "protein": 7,
+  "carbs": 44,
+  "fat": 1.5,
+  "step": 1,
+  "min": 1,
+  "max": 2,
+  "vegetarian": true,
+  "lactose": false,
+  "cost": 1,
+  "generator": true,
+  "image": "/media/foods/samoon.webp"
+ },
+ {
+  "id": "oats",
+  "name": {
+   "ar": "شوفان",
+   "en": "Oats"
+  },
+  "category": "grains",
+  "role": "carb",
+  "meals": [
+   "b",
+   "s"
+  ],
+  "serving": {
+   "ar": "40 جم",
+   "en": "40 g"
+  },
+  "grams": 40,
+  "kcal": 150,
+  "protein": 5,
+  "carbs": 27,
+  "fat": 2.5,
+  "step": 0.5,
+  "min": 0.5,
+  "max": 3,
+  "vegetarian": true,
+  "lactose": false,
+  "cost": 1,
+  "generator": true,
+  "image": "/media/foods/oats.webp"
+ },
+ {
+  "id": "cornflakes",
+  "name": {
+   "ar": "كورن فليكس",
+   "en": "Corn flakes"
+  },
+  "category": "grains",
+  "role": "carb",
+  "meals": [
+   "b"
+  ],
+  "serving": {
+   "ar": "30 جم",
+   "en": "30 g"
+  },
+  "grams": 30,
+  "kcal": 110,
+  "protein": 2,
+  "carbs": 25,
+  "fat": 0.2,
+  "step": 1,
+  "min": 1,
+  "max": 3,
+  "vegetarian": true,
+  "lactose": false,
+  "cost": 1,
+  "generator": true,
+  "image": "/media/foods/cornflakes.webp"
+ },
+ {
+  "id": "potato",
+  "name": {
+   "ar": "بطاطس مسلوقة",
+   "en": "Boiled potato"
+  },
+  "category": "veg-starch",
+  "role": "carb",
+  "meals": [
+   "l",
+   "d"
+  ],
+  "serving": {
+   "ar": "حبة وسط 150 جم",
+   "en": "1 medium 150 g"
+  },
+  "grams": 150,
+  "kcal": 130,
+  "protein": 3,
+  "carbs": 30,
+  "fat": 0.2,
+  "step": 0.5,
+  "min": 0.5,
+  "max": 3,
+  "vegetarian": true,
+  "lactose": false,
+  "cost": 1,
+  "generator": true,
+  "image": "/media/foods/potato.webp"
+ },
+ {
+  "id": "sweet-potato",
+  "name": {
+   "ar": "بطاطا حلوة",
+   "en": "Sweet potato"
+  },
+  "category": "veg-starch",
+  "role": "carb",
+  "meals": [
+   "l",
+   "d"
+  ],
+  "serving": {
+   "ar": "150 جم",
+   "en": "150 g"
+  },
+  "grams": 150,
+  "kcal": 129,
+  "protein": 2.4,
+  "carbs": 30,
+  "fat": 0.2,
+  "step": 0.5,
+  "min": 0.5,
+  "max": 3,
+  "vegetarian": true,
+  "lactose": false,
+  "cost": 1,
+  "generator": true,
+  "image": "/media/foods/sweet-potato.webp"
+ },
+ {
+  "id": "rice-cakes",
+  "name": {
+   "ar": "كعك أرز",
+   "en": "Rice cakes"
+  },
+  "category": "snack",
+  "role": "carb",
+  "meals": [
+   "s"
+  ],
+  "serving": {
+   "ar": "2 حبة",
+   "en": "2 pieces"
+  },
+  "grams": 18,
+  "kcal": 70,
+  "protein": 1.4,
+  "carbs": 15,
+  "fat": 0.5,
+  "step": 1,
+  "min": 1,
+  "max": 3,
+  "vegetarian": true,
+  "lactose": false,
+  "cost": 1,
+  "generator": true,
+  "image": "/media/foods/rice-cakes.webp"
+ },
+ {
+  "id": "popcorn",
+  "name": {
+   "ar": "فشار بدون زيت",
+   "en": "Air-popped popcorn"
+  },
+  "category": "snack",
+  "role": "carb",
+  "meals": [
+   "s"
+  ],
+  "serving": {
+   "ar": "3 أكواب",
+   "en": "3 cups"
+  },
+  "grams": 24,
+  "kcal": 93,
+  "protein": 3,
+  "carbs": 19,
+  "fat": 1,
+  "step": 1,
+  "min": 1,
+  "max": 2,
+  "vegetarian": true,
+  "lactose": false,
+  "cost": 1,
+  "generator": true,
+  "image": "/media/foods/popcorn.webp"
+ },
+ {
+  "id": "honey",
+  "name": {
+   "ar": "عسل",
+   "en": "Honey"
+  },
+  "category": "sweet",
+  "role": "carb",
+  "meals": [
+   "b",
+   "s"
+  ],
+  "serving": {
+   "ar": "ملعقة",
+   "en": "1 tbsp"
+  },
+  "grams": 21,
+  "kcal": 64,
+  "protein": 0,
+  "carbs": 17,
+  "fat": 0,
+  "step": 1,
+  "min": 1,
+  "max": 2,
+  "vegetarian": true,
+  "lactose": false,
+  "cost": 1,
+  "generator": true,
+  "image": "/media/foods/honey.webp"
+ },
+ {
+  "id": "dates",
+  "name": {
+   "ar": "تمر",
+   "en": "Dates"
+  },
+  "category": "fruit",
+  "role": "fruit",
+  "meals": [
+   "b",
+   "s"
+  ],
+  "serving": {
+   "ar": "3 حبات",
+   "en": "3 dates"
+  },
+  "grams": 24,
+  "kcal": 70,
+  "protein": 0.6,
+  "carbs": 18,
+  "fat": 0,
+  "step": 1,
+  "min": 1,
+  "max": 3,
+  "vegetarian": true,
+  "lactose": false,
+  "cost": 1,
+  "generator": true,
+  "image": "/media/foods/dates.webp"
+ },
+ {
+  "id": "banana",
+  "name": {
+   "ar": "موز",
+   "en": "Banana"
+  },
+  "category": "fruit",
+  "role": "fruit",
+  "meals": [
+   "b",
+   "s"
+  ],
+  "serving": {
+   "ar": "حبة وسط",
+   "en": "1 medium"
+  },
+  "grams": 118,
+  "kcal": 105,
+  "protein": 1.3,
+  "carbs": 27,
+  "fat": 0.4,
+  "step": 1,
+  "min": 1,
+  "max": 2,
+  "vegetarian": true,
+  "lactose": false,
+  "cost": 1,
+  "generator": true,
+  "image": "/media/foods/banana.webp"
+ },
+ {
+  "id": "apple",
+  "name": {
+   "ar": "تفاح",
+   "en": "Apple"
+  },
+  "category": "fruit",
+  "role": "fruit",
+  "meals": [
+   "b",
+   "s"
+  ],
+  "serving": {
+   "ar": "حبة",
+   "en": "1 apple"
+  },
+  "grams": 182,
+  "kcal": 95,
+  "protein": 0.5,
+  "carbs": 25,
+  "fat": 0.3,
+  "step": 1,
+  "min": 1,
+  "max": 2,
+  "vegetarian": true,
+  "lactose": false,
+  "cost": 1,
+  "generator": true,
+  "image": "/media/foods/apple.webp"
+ },
+ {
+  "id": "orange",
+  "name": {
+   "ar": "برتقال",
+   "en": "Orange"
+  },
+  "category": "fruit",
+  "role": "fruit",
+  "meals": [
+   "b",
+   "s"
+  ],
+  "serving": {
+   "ar": "حبة",
+   "en": "1 orange"
+  },
+  "grams": 131,
+  "kcal": 62,
+  "protein": 1.2,
+  "carbs": 15,
+  "fat": 0.2,
+  "step": 1,
+  "min": 1,
+  "max": 2,
+  "vegetarian": true,
+  "lactose": false,
+  "cost": 1,
+  "generator": true,
+  "image": "/media/foods/orange.webp"
+ },
+ {
+  "id": "mango",
+  "name": {
+   "ar": "مانجو",
+   "en": "Mango"
+  },
+  "category": "fruit",
+  "role": "fruit",
+  "meals": [
+   "b",
+   "s"
+  ],
+  "serving": {
+   "ar": "كوب",
+   "en": "1 cup"
+  },
+  "grams": 165,
+  "kcal": 99,
+  "protein": 1.4,
+  "carbs": 25,
+  "fat": 0.6,
+  "step": 1,
+  "min": 1,
+  "max": 2,
+  "vegetarian": true,
+  "lactose": false,
+  "cost": 2,
+  "generator": true,
+  "image": "/media/foods/mango.webp"
+ },
+ {
+  "id": "watermelon",
+  "name": {
+   "ar": "حبحب (بطيخ)",
+   "en": "Watermelon"
+  },
+  "category": "fruit",
+  "role": "fruit",
+  "meals": [
+   "s"
+  ],
+  "serving": {
+   "ar": "كوبين",
+   "en": "2 cups"
+  },
+  "grams": 280,
+  "kcal": 85,
+  "protein": 1.7,
+  "carbs": 21,
+  "fat": 0.4,
+  "step": 1,
+  "min": 1,
+  "max": 2,
+  "vegetarian": true,
+  "lactose": false,
+  "cost": 1,
+  "generator": true,
+  "image": "/media/foods/watermelon.webp"
+ },
+ {
+  "id": "grapes",
+  "name": {
+   "ar": "عنب",
+   "en": "Grapes"
+  },
+  "category": "fruit",
+  "role": "fruit",
+  "meals": [
+   "s"
+  ],
+  "serving": {
+   "ar": "كوب",
+   "en": "1 cup"
+  },
+  "grams": 151,
+  "kcal": 104,
+  "protein": 1,
+  "carbs": 27,
+  "fat": 0.2,
+  "step": 1,
+  "min": 1,
+  "max": 2,
+  "vegetarian": true,
+  "lactose": false,
+  "cost": 1,
+  "generator": true,
+  "image": "/media/foods/grapes.webp"
+ },
+ {
+  "id": "strawberries",
+  "name": {
+   "ar": "فراولة",
+   "en": "Strawberries"
+  },
+  "category": "fruit",
+  "role": "fruit",
+  "meals": [
+   "b",
+   "s"
+  ],
+  "serving": {
+   "ar": "كوب",
+   "en": "1 cup"
+  },
+  "grams": 152,
+  "kcal": 49,
+  "protein": 1,
+  "carbs": 10,
+  "fat": 0.5,
+  "step": 1,
+  "min": 1,
+  "max": 2,
+  "vegetarian": true,
+  "lactose": false,
+  "cost": 2,
+  "generator": true,
+  "image": "/media/foods/strawberries.webp"
+ },
+ {
+  "id": "pomegranate",
+  "name": {
+   "ar": "رمان",
+   "en": "Pomegranate"
+  },
+  "category": "fruit",
+  "role": "fruit",
+  "meals": [
+   "s"
+  ],
+  "serving": {
+   "ar": "100 جم",
+   "en": "100 g"
+  },
+  "grams": 100,
+  "kcal": 83,
+  "protein": 1.7,
+  "carbs": 19,
+  "fat": 1.2,
+  "step": 1,
+  "min": 1,
+  "max": 2,
+  "vegetarian": true,
+  "lactose": false,
+  "cost": 2,
+  "generator": true,
+  "image": "/media/foods/pomegranate.webp"
+ },
+ {
+  "id": "guava",
+  "name": {
+   "ar": "جوافة",
+   "en": "Guava"
+  },
+  "category": "fruit",
+  "role": "fruit",
+  "meals": [
+   "s"
+  ],
+  "serving": {
+   "ar": "حبتين",
+   "en": "2 fruits"
+  },
+  "grams": 110,
+  "kcal": 74,
+  "protein": 2.8,
+  "carbs": 16,
+  "fat": 1,
+  "step": 1,
+  "min": 1,
+  "max": 2,
+  "vegetarian": true,
+  "lactose": false,
+  "cost": 1,
+  "generator": true,
+  "image": "/media/foods/guava.webp"
+ },
+ {
+  "id": "figs",
+  "name": {
+   "ar": "تين",
+   "en": "Figs"
+  },
+  "category": "fruit",
+  "role": "fruit",
+  "meals": [
+   "s"
+  ],
+  "serving": {
+   "ar": "حبتين",
+   "en": "2 figs"
+  },
+  "grams": 100,
+  "kcal": 74,
+  "protein": 0.8,
+  "carbs": 19,
+  "fat": 0.3,
+  "step": 1,
+  "min": 1,
+  "max": 2,
+  "vegetarian": true,
+  "lactose": false,
+  "cost": 2,
+  "generator": true,
+  "image": "/media/foods/figs.webp"
+ },
+ {
+  "id": "raisins",
+  "name": {
+   "ar": "زبيب",
+   "en": "Raisins"
+  },
+  "category": "fruit",
+  "role": "fruit",
+  "meals": [
+   "b",
+   "s"
+  ],
+  "serving": {
+   "ar": "2 ملعقة",
+   "en": "2 tbsp"
+  },
+  "grams": 18,
+  "kcal": 54,
+  "protein": 0.6,
+  "carbs": 14,
+  "fat": 0.1,
+  "step": 1,
+  "min": 1,
+  "max": 2,
+  "vegetarian": true,
+  "lactose": false,
+  "cost": 1,
+  "generator": true,
+  "image": "/media/foods/raisins.webp"
+ },
+ {
+  "id": "kiwi",
+  "name": {
+   "ar": "كيوي",
+   "en": "Kiwi"
+  },
+  "category": "fruit",
+  "role": "fruit",
+  "meals": [
+   "b",
+   "s"
+  ],
+  "serving": {
+   "ar": "حبتين",
+   "en": "2 kiwis"
+  },
+  "grams": 150,
+  "kcal": 92,
+  "protein": 1.7,
+  "carbs": 22,
+  "fat": 0.8,
+  "step": 1,
+  "min": 1,
+  "max": 2,
+  "vegetarian": true,
+  "lactose": false,
+  "cost": 2,
+  "generator": true,
+  "image": "/media/foods/kiwi.webp"
+ },
+ {
+  "id": "salad",
+  "name": {
+   "ar": "سلطة خضراء",
+   "en": "Green salad"
+  },
+  "category": "veg",
+  "role": "veg",
+  "meals": [
+   "l",
+   "d"
+  ],
+  "serving": {
+   "ar": "صحن",
+   "en": "1 bowl"
+  },
+  "grams": 150,
+  "kcal": 30,
+  "protein": 1.5,
+  "carbs": 6,
+  "fat": 0.3,
+  "step": 1,
+  "min": 1,
+  "max": 1,
+  "vegetarian": true,
+  "lactose": false,
+  "cost": 1,
+  "generator": true,
+  "image": "/media/foods/salad.webp"
+ },
+ {
+  "id": "fattoush",
+  "name": {
+   "ar": "فتوش (بدون خبز مقلي)",
+   "en": "Fattoush (no fried bread)"
+  },
+  "category": "veg",
+  "role": "veg",
+  "meals": [
+   "l",
+   "d"
+  ],
+  "serving": {
+   "ar": "صحن",
+   "en": "1 bowl"
+  },
+  "grams": 150,
+  "kcal": 60,
+  "protein": 2,
+  "carbs": 10,
+  "fat": 1.5,
+  "step": 1,
+  "min": 1,
+  "max": 1,
+  "vegetarian": true,
+  "lactose": false,
+  "cost": 1,
+  "generator": true,
+  "image": "/media/foods/fattoush.webp"
+ },
+ {
+  "id": "cucumber-tomato",
+  "name": {
+   "ar": "خيار وطماطم",
+   "en": "Cucumber & tomato"
+  },
+  "category": "veg",
+  "role": "veg",
+  "meals": [
+   "b",
+   "l",
+   "d"
+  ],
+  "serving": {
+   "ar": "صحن صغير",
+   "en": "small plate"
+  },
+  "grams": 150,
+  "kcal": 30,
+  "protein": 1.4,
+  "carbs": 6.5,
+  "fat": 0.3,
+  "step": 1,
+  "min": 1,
+  "max": 1,
+  "vegetarian": true,
+  "lactose": false,
+  "cost": 1,
+  "generator": true,
+  "image": "/media/foods/cucumber-tomato.webp"
+ },
+ {
+  "id": "grilled-veg",
+  "name": {
+   "ar": "خضار مشوية",
+   "en": "Grilled vegetables"
+  },
+  "category": "veg",
+  "role": "veg",
+  "meals": [
+   "l",
+   "d"
+  ],
+  "serving": {
+   "ar": "150 جم",
+   "en": "150 g"
+  },
+  "grams": 150,
+  "kcal": 70,
+  "protein": 2,
+  "carbs": 10,
+  "fat": 3,
+  "step": 1,
+  "min": 1,
+  "max": 1,
+  "vegetarian": true,
+  "lactose": false,
+  "cost": 1,
+  "generator": true,
+  "image": "/media/foods/grilled-veg.webp"
+ },
+ {
+  "id": "broccoli",
+  "name": {
+   "ar": "بروكلي",
+   "en": "Broccoli"
+  },
+  "category": "veg",
+  "role": "veg",
+  "meals": [
+   "l",
+   "d"
+  ],
+  "serving": {
+   "ar": "كوب",
+   "en": "1 cup"
+  },
+  "grams": 91,
+  "kcal": 31,
+  "protein": 2.5,
+  "carbs": 4.5,
+  "fat": 0.3,
+  "step": 1,
+  "min": 1,
+  "max": 1,
+  "vegetarian": true,
+  "lactose": false,
+  "cost": 1,
+  "generator": true,
+  "image": "/media/foods/broccoli.webp"
+ },
+ {
+  "id": "green-beans",
+  "name": {
+   "ar": "فاصوليا خضراء",
+   "en": "Green beans"
+  },
+  "category": "veg",
+  "role": "veg",
+  "meals": [
+   "l",
+   "d"
+  ],
+  "serving": {
+   "ar": "كوب",
+   "en": "1 cup"
+  },
+  "grams": 125,
+  "kcal": 44,
+  "protein": 2.4,
+  "carbs": 7.5,
+  "fat": 0.3,
+  "step": 1,
+  "min": 1,
+  "max": 1,
+  "vegetarian": true,
+  "lactose": false,
+  "cost": 1,
+  "generator": true,
+  "image": "/media/foods/green-beans.webp"
+ },
+ {
+  "id": "spinach",
+  "name": {
+   "ar": "سبانخ مطبوخ",
+   "en": "Cooked spinach"
+  },
+  "category": "veg",
+  "role": "veg",
+  "meals": [
+   "l",
+   "d"
+  ],
+  "serving": {
+   "ar": "كوب",
+   "en": "1 cup"
+  },
+  "grams": 180,
+  "kcal": 41,
+  "protein": 5,
+  "carbs": 4.5,
+  "fat": 0.5,
+  "step": 1,
+  "min": 1,
+  "max": 1,
+  "vegetarian": true,
+  "lactose": false,
+  "cost": 1,
+  "generator": true,
+  "image": "/media/foods/spinach.webp"
+ },
+ {
+  "id": "okra",
+  "name": {
+   "ar": "بامية",
+   "en": "Okra stew"
+  },
+  "category": "veg",
+  "role": "veg",
+  "meals": [
+   "l",
+   "d"
+  ],
+  "serving": {
+   "ar": "كوب",
+   "en": "1 cup"
+  },
+  "grams": 200,
+  "kcal": 110,
+  "protein": 3,
+  "carbs": 14,
+  "fat": 5,
+  "step": 0.5,
+  "min": 0.5,
+  "max": 1,
+  "vegetarian": true,
+  "lactose": false,
+  "cost": 1,
+  "generator": true,
+  "image": "/media/foods/okra.webp"
+ },
+ {
+  "id": "molokhia",
+  "name": {
+   "ar": "ملوخية",
+   "en": "Molokhia"
+  },
+  "category": "veg",
+  "role": "veg",
+  "meals": [
+   "l",
+   "d"
+  ],
+  "serving": {
+   "ar": "كوب",
+   "en": "1 cup"
+  },
+  "grams": 200,
+  "kcal": 95,
+  "protein": 4,
+  "carbs": 9,
+  "fat": 5,
+  "step": 0.5,
+  "min": 0.5,
+  "max": 1,
+  "vegetarian": true,
+  "lactose": false,
+  "cost": 1,
+  "generator": true,
+  "image": "/media/foods/molokhia.webp"
+ },
+ {
+  "id": "carrots",
+  "name": {
+   "ar": "جزر",
+   "en": "Carrots"
+  },
+  "category": "veg",
+  "role": "veg",
+  "meals": [
+   "l",
+   "s"
+  ],
+  "serving": {
+   "ar": "حبتين",
+   "en": "2 carrots"
+  },
+  "grams": 120,
+  "kcal": 50,
+  "protein": 1.1,
+  "carbs": 12,
+  "fat": 0.3,
+  "step": 1,
+  "min": 1,
+  "max": 1,
+  "vegetarian": true,
+  "lactose": false,
+  "cost": 1,
+  "generator": true,
+  "image": "/media/foods/carrots.webp"
+ },
+ {
+  "id": "mixed-veg",
+  "name": {
+   "ar": "خضار مشكلة سوتيه",
+   "en": "Sautéed mixed vegetables"
+  },
+  "category": "veg",
+  "role": "veg",
+  "meals": [
+   "l",
+   "d"
+  ],
+  "serving": {
+   "ar": "كوب",
+   "en": "1 cup"
+  },
+  "grams": 150,
+  "kcal": 80,
+  "protein": 3,
+  "carbs": 12,
+  "fat": 2.5,
+  "step": 1,
+  "min": 1,
+  "max": 1,
+  "vegetarian": true,
+  "lactose": false,
+  "cost": 1,
+  "generator": true,
+  "image": "/media/foods/mixed-veg.webp"
+ },
+ {
+  "id": "tabbouleh",
+  "name": {
+   "ar": "تبولة",
+   "en": "Tabbouleh"
+  },
+  "category": "veg",
+  "role": "veg",
+  "meals": [
+   "l",
+   "d"
+  ],
+  "serving": {
+   "ar": "كوب",
+   "en": "1 cup"
+  },
+  "grams": 150,
+  "kcal": 180,
+  "protein": 3,
+  "carbs": 15,
+  "fat": 12,
+  "step": 0.5,
+  "min": 0.5,
+  "max": 1,
+  "vegetarian": true,
+  "lactose": false,
+  "cost": 1,
+  "generator": true,
+  "image": "/media/foods/tabbouleh.webp"
+ },
+ {
+  "id": "olive-oil",
+  "name": {
+   "ar": "زيت زيتون",
+   "en": "Olive oil"
+  },
+  "category": "fats",
+  "role": "fat",
+  "meals": [
+   "b",
+   "l",
+   "d"
+  ],
+  "serving": {
+   "ar": "ملعقة",
+   "en": "1 tbsp"
+  },
+  "grams": 13.5,
+  "kcal": 119,
+  "protein": 0,
+  "carbs": 0,
+  "fat": 13.5,
+  "step": 0.5,
+  "min": 0.5,
+  "max": 3,
+  "vegetarian": true,
+  "lactose": false,
+  "cost": 1,
+  "generator": true,
+  "image": "/media/foods/olive-oil.webp"
+ },
+ {
+  "id": "tahini",
+  "name": {
+   "ar": "طحينة",
+   "en": "Tahini"
+  },
+  "category": "fats",
+  "role": "fat",
+  "meals": [
+   "b",
+   "l",
+   "d"
+  ],
+  "serving": {
+   "ar": "ملعقة",
+   "en": "1 tbsp"
+  },
+  "grams": 15,
+  "kcal": 89,
+  "protein": 2.6,
+  "carbs": 3,
+  "fat": 8,
+  "step": 1,
+  "min": 1,
+  "max": 2,
+  "vegetarian": true,
+  "lactose": false,
+  "cost": 1,
+  "generator": true,
+  "image": "/media/foods/tahini.webp"
+ },
+ {
+  "id": "peanut-butter",
+  "name": {
+   "ar": "زبدة فول سوداني",
+   "en": "Peanut butter"
+  },
+  "category": "fats",
+  "role": "fat",
+  "meals": [
+   "b",
+   "s"
+  ],
+  "serving": {
+   "ar": "ملعقة",
+   "en": "1 tbsp"
+  },
+  "grams": 16,
+  "kcal": 94,
+  "protein": 4,
+  "carbs": 3.2,
+  "fat": 8,
+  "step": 1,
+  "min": 1,
+  "max": 2,
+  "vegetarian": true,
+  "lactose": false,
+  "cost": 1,
+  "generator": true,
+  "image": "/media/foods/peanut-butter.webp"
+ },
+ {
+  "id": "almonds",
+  "name": {
+   "ar": "لوز",
+   "en": "Almonds"
+  },
+  "category": "nuts",
+  "role": "fat",
+  "meals": [
+   "b",
+   "s"
+  ],
+  "serving": {
+   "ar": "20 جم (14 حبة)",
+   "en": "20 g (14 nuts)"
+  },
+  "grams": 20,
+  "kcal": 116,
+  "protein": 4.2,
+  "carbs": 4.3,
+  "fat": 10,
+  "step": 1,
+  "min": 1,
+  "max": 2,
+  "vegetarian": true,
+  "lactose": false,
+  "cost": 2,
+  "generator": true,
+  "image": "/media/foods/almonds.webp"
+ },
+ {
+  "id": "walnuts",
+  "name": {
+   "ar": "عين جمل",
+   "en": "Walnuts"
+  },
+  "category": "nuts",
+  "role": "fat",
+  "meals": [
+   "b",
+   "s"
+  ],
+  "serving": {
+   "ar": "20 جم",
+   "en": "20 g"
+  },
+  "grams": 20,
+  "kcal": 131,
+  "protein": 3,
+  "carbs": 2.7,
+  "fat": 13,
+  "step": 1,
+  "min": 1,
+  "max": 2,
+  "vegetarian": true,
+  "lactose": false,
+  "cost": 2,
+  "generator": true,
+  "image": "/media/foods/walnuts.webp"
+ },
+ {
+  "id": "pistachio",
+  "name": {
+   "ar": "فستق حلبي",
+   "en": "Pistachios"
+  },
+  "category": "nuts",
+  "role": "fat",
+  "meals": [
+   "s"
+  ],
+  "serving": {
+   "ar": "20 جم",
+   "en": "20 g"
+  },
+  "grams": 20,
+  "kcal": 112,
+  "protein": 4,
+  "carbs": 5.6,
+  "fat": 9,
+  "step": 1,
+  "min": 1,
+  "max": 2,
+  "vegetarian": true,
+  "lactose": false,
+  "cost": 3,
+  "generator": true,
+  "image": "/media/foods/pistachio.webp"
+ },
+ {
+  "id": "cashews",
+  "name": {
+   "ar": "كاجو",
+   "en": "Cashews"
+  },
+  "category": "nuts",
+  "role": "fat",
+  "meals": [
+   "s"
+  ],
+  "serving": {
+   "ar": "20 جم",
+   "en": "20 g"
+  },
+  "grams": 20,
+  "kcal": 111,
+  "protein": 3.6,
+  "carbs": 6,
+  "fat": 9,
+  "step": 1,
+  "min": 1,
+  "max": 2,
+  "vegetarian": true,
+  "lactose": false,
+  "cost": 3,
+  "generator": true,
+  "image": "/media/foods/cashews.webp"
+ },
+ {
+  "id": "peanuts",
+  "name": {
+   "ar": "فول سوداني",
+   "en": "Peanuts"
+  },
+  "category": "nuts",
+  "role": "fat",
+  "meals": [
+   "s"
+  ],
+  "serving": {
+   "ar": "20 جم",
+   "en": "20 g"
+  },
+  "grams": 20,
+  "kcal": 114,
+  "protein": 5.2,
+  "carbs": 3.2,
+  "fat": 9.8,
+  "step": 1,
+  "min": 1,
+  "max": 2,
+  "vegetarian": true,
+  "lactose": false,
+  "cost": 1,
+  "generator": true,
+  "image": "/media/foods/peanuts.webp"
+ },
+ {
+  "id": "avocado",
+  "name": {
+   "ar": "أفوكادو",
+   "en": "Avocado"
+  },
+  "category": "fats",
+  "role": "fat",
+  "meals": [
+   "b",
+   "l"
+  ],
+  "serving": {
+   "ar": "نصف حبة",
+   "en": "half"
+  },
+  "grams": 100,
+  "kcal": 160,
+  "protein": 2,
+  "carbs": 8.5,
+  "fat": 14.7,
+  "step": 1,
+  "min": 1,
+  "max": 1,
+  "vegetarian": true,
+  "lactose": false,
+  "cost": 3,
+  "generator": true,
+  "image": "/media/foods/avocado.webp"
+ },
+ {
+  "id": "olives",
+  "name": {
+   "ar": "زيتون",
+   "en": "Olives"
+  },
+  "category": "fats",
+  "role": "fat",
+  "meals": [
+   "b",
+   "l"
+  ],
+  "serving": {
+   "ar": "10 حبات",
+   "en": "10 olives"
+  },
+  "grams": 40,
+  "kcal": 46,
+  "protein": 0.3,
+  "carbs": 2.5,
+  "fat": 4.3,
+  "step": 1,
+  "min": 1,
+  "max": 2,
+  "vegetarian": true,
+  "lactose": false,
+  "cost": 1,
+  "generator": true,
+  "image": "/media/foods/olives.webp"
+ },
+ {
+  "id": "butter",
+  "name": {
+   "ar": "زبدة",
+   "en": "Butter"
+  },
+  "category": "fats",
+  "role": "fat",
+  "meals": [
+   "b"
+  ],
+  "serving": {
+   "ar": "10 جم",
+   "en": "10 g"
+  },
+  "grams": 10,
+  "kcal": 72,
+  "protein": 0.1,
+  "carbs": 0,
+  "fat": 8.1,
+  "step": 1,
+  "min": 1,
+  "max": 2,
+  "vegetarian": true,
+  "lactose": true,
+  "cost": 1,
+  "generator": true,
+  "image": "/media/foods/butter.webp"
+ },
+ {
+  "id": "ghee",
+  "name": {
+   "ar": "سمن",
+   "en": "Ghee"
+  },
+  "category": "fats",
+  "role": "fat",
+  "meals": [
+   "l",
+   "d"
+  ],
+  "serving": {
+   "ar": "ملعقة",
+   "en": "1 tbsp"
+  },
+  "grams": 13,
+  "kcal": 115,
+  "protein": 0,
+  "carbs": 0,
+  "fat": 12.7,
+  "step": 1,
+  "min": 1,
+  "max": 1,
+  "vegetarian": true,
+  "lactose": false,
+  "cost": 1,
+  "generator": false,
+  "image": "/media/foods/ghee.webp"
+ },
+ {
+  "id": "chia",
+  "name": {
+   "ar": "بذور الشيا",
+   "en": "Chia seeds"
+  },
+  "category": "seeds",
+  "role": "fat",
+  "meals": [
+   "b",
+   "s"
+  ],
+  "serving": {
+   "ar": "ملعقة كبيرة",
+   "en": "1 tbsp"
+  },
+  "grams": 15,
+  "kcal": 73,
+  "protein": 2.5,
+  "carbs": 6.3,
+  "fat": 4.6,
+  "step": 1,
+  "min": 1,
+  "max": 2,
+  "vegetarian": true,
+  "lactose": false,
+  "cost": 2,
+  "generator": true,
+  "image": "/media/foods/chia.webp"
+ },
+ {
+  "id": "flax",
+  "name": {
+   "ar": "بذور الكتان",
+   "en": "Flaxseeds"
+  },
+  "category": "seeds",
+  "role": "fat",
+  "meals": [
+   "b",
+   "s"
+  ],
+  "serving": {
+   "ar": "ملعقة",
+   "en": "1 tbsp"
+  },
+  "grams": 10,
+  "kcal": 55,
+  "protein": 1.9,
+  "carbs": 3,
+  "fat": 4.3,
+  "step": 1,
+  "min": 1,
+  "max": 2,
+  "vegetarian": true,
+  "lactose": false,
+  "cost": 1,
+  "generator": true,
+  "image": "/media/foods/flax.webp"
+ },
+ {
+  "id": "dark-chocolate",
+  "name": {
+   "ar": "شوكولاتة داكنة 70%",
+   "en": "Dark chocolate 70%"
+  },
+  "category": "sweet",
+  "role": "fat",
+  "meals": [
+   "s"
+  ],
+  "serving": {
+   "ar": "20 جم",
+   "en": "20 g"
+  },
+  "grams": 20,
+  "kcal": 120,
+  "protein": 1.6,
+  "carbs": 9,
+  "fat": 8.5,
+  "step": 1,
+  "min": 1,
+  "max": 1,
+  "vegetarian": true,
+  "lactose": false,
+  "cost": 2,
+  "generator": true,
+  "image": "/media/foods/dark-chocolate.webp"
+ },
+ {
+  "id": "chicken-kabsa",
+  "name": {
+   "ar": "كبسة دجاج",
+   "en": "Chicken kabsa"
+  },
+  "category": "dish",
+  "role": "dish",
+  "meals": [
+   "l",
+   "d"
+  ],
+  "serving": {
+   "ar": "صحن",
+   "en": "1 plate"
+  },
+  "grams": 350,
+  "kcal": 600,
+  "protein": 35,
+  "carbs": 70,
+  "fat": 18,
+  "step": 1,
+  "min": 1,
+  "max": 1,
+  "vegetarian": false,
+  "lactose": false,
+  "cost": 1,
+  "generator": false,
+  "image": "/media/foods/chicken-kabsa.webp"
+ },
+ {
+  "id": "mandi",
+  "name": {
+   "ar": "مندي لحم",
+   "en": "Lamb mandi"
+  },
+  "category": "dish",
+  "role": "dish",
+  "meals": [
+   "l",
+   "d"
+  ],
+  "serving": {
+   "ar": "صحن",
+   "en": "1 plate"
+  },
+  "grams": 400,
+  "kcal": 750,
+  "protein": 40,
+  "carbs": 75,
+  "fat": 30,
+  "step": 1,
+  "min": 1,
+  "max": 1,
+  "vegetarian": false,
+  "lactose": false,
+  "cost": 3,
+  "generator": false,
+  "image": "/media/foods/mandi.webp"
+ },
+ {
+  "id": "machboos",
+  "name": {
+   "ar": "مچبوس سمك",
+   "en": "Fish machboos"
+  },
+  "category": "dish",
+  "role": "dish",
+  "meals": [
+   "l",
+   "d"
+  ],
+  "serving": {
+   "ar": "صحن",
+   "en": "1 plate"
+  },
+  "grams": 350,
+  "kcal": 560,
+  "protein": 32,
+  "carbs": 72,
+  "fat": 14,
+  "step": 1,
+  "min": 1,
+  "max": 1,
+  "vegetarian": false,
+  "lactose": false,
+  "cost": 1,
+  "generator": false,
+  "image": "/media/foods/machboos.webp"
+ },
+ {
+  "id": "mujaddara",
+  "name": {
+   "ar": "مجدرة",
+   "en": "Mujaddara"
+  },
+  "category": "dish",
+  "role": "dish",
+  "meals": [
+   "l",
+   "d"
+  ],
+  "serving": {
+   "ar": "صحن",
+   "en": "1 plate"
+  },
+  "grams": 300,
+  "kcal": 450,
+  "protein": 16,
+  "carbs": 70,
+  "fat": 11,
+  "step": 1,
+  "min": 1,
+  "max": 1,
+  "vegetarian": true,
+  "lactose": false,
+  "cost": 1,
+  "generator": false,
+  "image": "/media/foods/mujaddara.webp"
+ },
+ {
+  "id": "koshari",
+  "name": {
+   "ar": "كشري",
+   "en": "Koshari"
+  },
+  "category": "dish",
+  "role": "dish",
+  "meals": [
+   "l",
+   "d"
+  ],
+  "serving": {
+   "ar": "صحن",
+   "en": "1 plate"
+  },
+  "grams": 350,
+  "kcal": 550,
+  "protein": 17,
+  "carbs": 95,
+  "fat": 11,
+  "step": 1,
+  "min": 1,
+  "max": 1,
+  "vegetarian": true,
+  "lactose": false,
+  "cost": 1,
+  "generator": false,
+  "image": "/media/foods/koshari.webp"
+ },
+ {
+  "id": "chicken-shawarma-wrap",
+  "name": {
+   "ar": "ساندويش شاورما دجاج",
+   "en": "Chicken shawarma wrap"
+  },
+  "category": "dish",
+  "role": "dish",
+  "meals": [
+   "l",
+   "d"
+  ],
+  "serving": {
+   "ar": "ساندويش",
+   "en": "1 wrap"
+  },
+  "grams": 250,
+  "kcal": 550,
+  "protein": 30,
+  "carbs": 50,
+  "fat": 25,
+  "step": 1,
+  "min": 1,
+  "max": 1,
+  "vegetarian": false,
+  "lactose": false,
+  "cost": 1,
+  "generator": false,
+  "image": "/media/foods/chicken-shawarma-wrap.webp"
+ },
+ {
+  "id": "falafel-wrap",
+  "name": {
+   "ar": "ساندويش فلافل",
+   "en": "Falafel wrap"
+  },
+  "category": "dish",
+  "role": "dish",
+  "meals": [
+   "b",
+   "l"
+  ],
+  "serving": {
+   "ar": "ساندويش",
+   "en": "1 wrap"
+  },
+  "grams": 220,
+  "kcal": 480,
+  "protein": 14,
+  "carbs": 60,
+  "fat": 20,
+  "step": 1,
+  "min": 1,
+  "max": 1,
+  "vegetarian": true,
+  "lactose": false,
+  "cost": 1,
+  "generator": false,
+  "image": "/media/foods/falafel-wrap.webp"
+ },
+ {
+  "id": "manakish-zaatar",
+  "name": {
+   "ar": "منقوشة زعتر",
+   "en": "Za'atar manakish"
+  },
+  "category": "dish",
+  "role": "dish",
+  "meals": [
+   "b"
+  ],
+  "serving": {
+   "ar": "حبة",
+   "en": "1 piece"
+  },
+  "grams": 120,
+  "kcal": 380,
+  "protein": 9,
+  "carbs": 48,
+  "fat": 17,
+  "step": 1,
+  "min": 1,
+  "max": 1,
+  "vegetarian": true,
+  "lactose": false,
+  "cost": 1,
+  "generator": false,
+  "image": "/media/foods/manakish-zaatar.webp"
+ },
+ {
+  "id": "harees",
+  "name": {
+   "ar": "هريس",
+   "en": "Harees"
+  },
+  "category": "dish",
+  "role": "dish",
+  "meals": [
+   "l",
+   "d"
+  ],
+  "serving": {
+   "ar": "صحن",
+   "en": "1 bowl"
+  },
+  "grams": 300,
+  "kcal": 360,
+  "protein": 22,
+  "carbs": 45,
+  "fat": 10,
+  "step": 1,
+  "min": 1,
+  "max": 1,
+  "vegetarian": false,
+  "lactose": false,
+  "cost": 1,
+  "generator": false,
+  "image": "/media/foods/harees.webp"
+ },
+ {
+  "id": "saleeg",
+  "name": {
+   "ar": "مضغوط / سليق دجاج",
+   "en": "Chicken saleeg"
+  },
+  "category": "dish",
+  "role": "dish",
+  "meals": [
+   "l",
+   "d"
+  ],
+  "serving": {
+   "ar": "صحن",
+   "en": "1 plate"
+  },
+  "grams": 350,
+  "kcal": 580,
+  "protein": 32,
+  "carbs": 60,
+  "fat": 22,
+  "step": 1,
+  "min": 1,
+  "max": 1,
+  "vegetarian": false,
+  "lactose": false,
+  "cost": 1,
+  "generator": false,
+  "image": "/media/foods/saleeg.webp"
+ },
+ {
+  "id": "grilled-chicken-meal",
+  "name": {
+   "ar": "نص دجاجة مشوية",
+   "en": "Half grilled chicken"
+  },
+  "category": "dish",
+  "role": "dish",
+  "meals": [
+   "l",
+   "d"
+  ],
+  "serving": {
+   "ar": "نص دجاجة",
+   "en": "half chicken"
+  },
+  "grams": 300,
+  "kcal": 600,
+  "protein": 60,
+  "carbs": 0,
+  "fat": 38,
+  "step": 1,
+  "min": 1,
+  "max": 1,
+  "vegetarian": false,
+  "lactose": false,
+  "cost": 1,
+  "generator": false,
+  "image": "/media/foods/grilled-chicken-meal.webp"
+ },
+ {
+  "id": "fatteh",
+  "name": {
+   "ar": "فتة حمص",
+   "en": "Hummus fatteh"
+  },
+  "category": "dish",
+  "role": "dish",
+  "meals": [
+   "b"
+  ],
+  "serving": {
+   "ar": "صحن",
+   "en": "1 bowl"
+  },
+  "grams": 300,
+  "kcal": 520,
+  "protein": 18,
+  "carbs": 55,
+  "fat": 25,
+  "step": 1,
+  "min": 1,
+  "max": 1,
+  "vegetarian": true,
+  "lactose": true,
+  "cost": 1,
+  "generator": false,
+  "image": "/media/foods/fatteh.webp"
+ }
+]
