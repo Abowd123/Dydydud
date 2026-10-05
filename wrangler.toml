@@ -1,0 +1,4 @@
+# Cloudflare Pages (للنشر من الجهاز أو من GitHub Actions)
+name = "gymmate"
+pages_build_output_dir = "dist"
+compatibility_date = "2026-10-01"
